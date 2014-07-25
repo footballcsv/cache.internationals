@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2004-08-13,Roda JC,Vitesse,2-3,2-1
+2004-08-14,AZ Alkmaar,Heerenveen,1-1,1-0
+2004-08-14,NAC Breda,Utrecht,3-2,1-2
+2004-08-14,Nijmegen,Willem II,2-0,2-0
+2004-08-14,Roosendaal,PSV Eindhoven,2-5,2-1
+2004-08-15,Den Bosch,Den Haag,1-0,0-0
+2004-08-15,Feyenoord,Graafschap,6-1,2-1
+2004-08-15,Groningen,Waalwijk,0-0,0-0
+2004-08-15,Twente,Ajax,2-3,0-2
+2004-08-20,Vitesse,Groningen,1-0,1-0
+2004-08-21,Den Haag,Nijmegen,1-2,1-0
+2004-08-21,Heerenveen,Roda JC,3-4,1-2
+2004-08-21,PSV Eindhoven,AZ Alkmaar,5-1,1-0
+2004-08-21,Waalwijk,Twente,1-0,0-0
+2004-08-22,Ajax,NAC Breda,6-2,2-1
+2004-08-22,Graafschap,Den Bosch,1-1,1-1
+2004-08-22,Utrecht,Roosendaal,5-1,1-1
+2004-08-22,Willem II,Feyenoord,0-4,0-0
+2004-08-27,Den Bosch,Willem II,1-2,0-2
+2004-08-28,NAC Breda,PSV Eindhoven,2-2,1-1
+2004-08-28,Nijmegen,AZ Alkmaar,1-2,0-1
+2004-08-28,Roda JC,Graafschap,2-1,0-1
+2004-08-28,Twente,Heerenveen,4-1,3-1
+2004-08-29,Ajax,Utrecht,1-1,0-1
+2004-08-29,Roosendaal,Groningen,2-2,1-1
+2004-08-29,Vitesse,Feyenoord,1-1,0-1
+2004-08-29,Waalwijk,Den Haag,1-3,1-1
+2004-09-10,AZ Alkmaar,Den Bosch,5-0,3-0
+2004-09-11,Heerenveen,Graafschap,2-0,0-0
+2004-09-11,PSV Eindhoven,Waalwijk,1-0,0-0
+2004-09-11,Roosendaal,Vitesse,4-1,0-1
+2004-09-11,Willem II,Roda JC,3-1,2-0
+2004-09-12,Den Haag,Ajax,3-3,1-3
+2004-09-12,Feyenoord,Twente,3-1,1-1
+2004-09-12,Groningen,NAC Breda,2-3,1-2
+2004-09-12,Utrecht,Nijmegen,1-0,0-0
+2004-09-17,Den Haag,Vitesse,0-4,0-1
+2004-09-18,Graafschap,Groningen,2-2,0-0
+2004-09-18,Heerenveen,NAC Breda,3-0,1-0
+2004-09-18,Nijmegen,PSV Eindhoven,0-3,0-1
+2004-09-18,Twente,Willem II,0-0,0-0
+2004-09-18,Waalwijk,Roosendaal,2-0,1-0
+2004-09-19,Den Bosch,Ajax,0-5,0-2
+2004-09-19,Feyenoord,Utrecht,0-3,0-1
+2004-09-19,Roda JC,AZ Alkmaar,1-1,0-1
+2004-09-25,Ajax,Roda JC,1-0,0-0
+2004-09-25,AZ Alkmaar,Willem II,3-1,2-1
+2004-09-25,PSV Eindhoven,Heerenveen,4-0,0-0
+2004-09-25,Roosendaal,Feyenoord,0-4,0-2
+2004-09-25,Vitesse,Den Bosch,0-0,0-0
+2004-09-26,Graafschap,Twente,0-0,0-0
+2004-09-26,Groningen,Nijmegen,0-0,0-0
+2004-09-26,NAC Breda,Waalwijk,0-4,0-3
+2004-09-26,Utrecht,Den Haag,2-0,1-0
+2004-10-01,Nijmegen,Roosendaal,3-0,3-0
+2004-10-02,NAC Breda,Graafschap,3-2,3-1
+2004-10-02,PSV Eindhoven,Groningen,3-0,2-0
+2004-10-02,Twente,Roda JC,2-3,1-2
+2004-10-02,Willem II,Vitesse,3-2,3-0
+2004-10-03,AZ Alkmaar,Ajax,0-0,0-0
+2004-10-03,Feyenoord,Den Bosch,4-2,2-1
+2004-10-03,Heerenveen,Den Haag,1-0,0-0
+2004-10-03,Utrecht,Waalwijk,3-2,0-1
+2004-10-15,Graafschap,AZ Alkmaar,1-3,0-1
+2004-10-16,Ajax,Heerenveen,1-3,1-0
+2004-10-16,Den Bosch,Roosendaal,2-1,1-0
+2004-10-16,Den Haag,PSV Eindhoven,0-2,0-1
+2004-10-17,Groningen,Utrecht,3-0,1-0
+2004-10-17,Roda JC,Feyenoord,0-2,0-0
+2004-10-17,Vitesse,NAC Breda,1-2,1-2
+2004-10-17,Waalwijk,Nijmegen,2-2,2-1
+2004-10-22,Willem II,Groningen,4-2,1-1
+2004-10-23,Nijmegen,NAC Breda,3-3,2-1
+2004-10-23,Roosendaal,Twente,0-1,0-0
+2004-10-23,Vitesse,AZ Alkmaar,0-3,0-1
+2004-10-24,Feyenoord,Waalwijk,4-0,1-0
+2004-10-24,Graafschap,Den Haag,1-2,0-1
+2004-10-24,Heerenveen,Utrecht,2-1,0-0
+2004-10-24,PSV Eindhoven,Ajax,2-0,1-0
+2004-10-24,Roda JC,Den Bosch,5-0,1-0
+2004-10-27,Den Haag,Twente,0-1,0-0
+2004-10-27,Graafschap,Willem II,2-2,0-1
+2004-10-27,NAC Breda,Roda JC,4-0,3-0
+2004-10-29,Utrecht,PSV Eindhoven,0-0,0-0
+2004-10-30,Roda JC,Waalwijk,1-1,0-1
+2004-10-30,Twente,Vitesse,1-4,0-1
+2004-10-30,Willem II,Roosendaal,3-0,0-0
+2004-10-31,Ajax,Nijmegen,1-0,1-0
+2004-10-31,AZ Alkmaar,Feyenoord,4-1,1-1
+2004-10-31,Den Bosch,Heerenveen,2-4,1-1
+2004-10-31,Groningen,Den Haag,4-3,2-1
+2004-11-05,Roosendaal,Graafschap,3-0,2-0
+2004-11-06,Waalwijk,Heerenveen,0-0,0-0
+2004-11-07,AZ Alkmaar,Utrecht,4-0,1-0
+2004-11-07,Den Bosch,PSV Eindhoven,0-3,0-1
+2004-11-07,Feyenoord,NAC Breda,4-0,1-0
+2004-11-07,Twente,Groningen,1-2,1-1
+2004-11-07,Vitesse,Nijmegen,1-0,0-0
+2004-11-07,Willem II,Ajax,1-3,1-2
+2004-11-12,Den Haag,Roosendaal,5-1,3-1
+2004-11-13,Heerenveen,Vitesse,0-3,0-0
+2004-11-13,NAC Breda,AZ Alkmaar,0-3,0-1
+2004-11-13,Nijmegen,Twente,0-2,0-1
+2004-11-13,PSV Eindhoven,Willem II,1-0,1-0
+2004-11-14,Ajax,Feyenoord,1-1,1-1
+2004-11-14,Groningen,Den Bosch,3-1,0-1
+2004-11-14,Utrecht,Roda JC,1-1,0-1
+2004-11-14,Waalwijk,Graafschap,2-2,1-1
+2004-11-19,Roda JC,Den Haag,1-1,0-1
+2004-11-20,AZ Alkmaar,Waalwijk,3-0,1-0
+2004-11-20,Graafschap,Ajax,0-5,0-0
+2004-11-20,Roosendaal,Heerenveen,1-3,1-1
+2004-11-21,Den Bosch,Nijmegen,0-0,0-0
+2004-11-21,Feyenoord,Groningen,1-2,1-1
+2004-11-21,Twente,Utrecht,0-1,0-1
+2004-11-21,Vitesse,PSV Eindhoven,0-2,0-0
+2004-11-21,Willem II,NAC Breda,0-1,0-1
+2004-11-26,Waalwijk,Vitesse,2-2,0-1
+2004-11-27,Den Haag,Willem II,0-1,0-1
+2004-11-27,Nijmegen,Roda JC,1-1,0-1
+2004-11-27,PSV Eindhoven,Twente,2-0,1-0
+2004-11-28,Ajax,Roosendaal,4-1,2-1
+2004-11-28,Groningen,AZ Alkmaar,1-2,0-1
+2004-11-28,Heerenveen,Feyenoord,2-2,0-1
+2004-11-28,NAC Breda,Den Bosch,3-0,0-0
+2004-11-28,Utrecht,Graafschap,1-0,0-0
+2004-12-03,Waalwijk,Ajax,1-2,1-2
+2004-12-04,Graafschap,PSV Eindhoven,0-4,0-1
+2004-12-04,Roda JC,Groningen,5-1,3-0
+2004-12-04,Roosendaal,NAC Breda,0-0,0-0
+2004-12-04,Twente,Den Bosch,4-0,2-0
+2004-12-05,AZ Alkmaar,Den Haag,2-0,1-0
+2004-12-05,Feyenoord,Nijmegen,2-1,1-1
+2004-12-05,Vitesse,Utrecht,2-1,1-0
+2004-12-05,Willem II,Heerenveen,2-2,1-1
+2004-12-10,Heerenveen,Groningen,1-0,0-0
+2004-12-11,AZ Alkmaar,Twente,5-0,2-0
+2004-12-11,Den Bosch,Waalwijk,0-2,0-1
+2004-12-11,Roda JC,Roosendaal,3-1,2-1
+2004-12-11,Willem II,Utrecht,0-0,0-0
+2004-12-12,Ajax,Vitesse,1-0,0-0
+2004-12-12,Feyenoord,PSV Eindhoven,3-3,0-2
+2004-12-12,Graafschap,Nijmegen,3-2,2-1
+2004-12-12,NAC Breda,Den Haag,1-1,0-0
+2004-12-16,Vitesse,Graafschap,3-1,0-1
+2004-12-17,Twente,NAC Breda,0-0,0-0
+2004-12-18,PSV Eindhoven,Roda JC,0-2,0-1
+2004-12-18,Roosendaal,AZ Alkmaar,0-2,0-1
+2004-12-18,Waalwijk,Willem II,1-0,0-0
+2004-12-19,Den Haag,Feyenoord,2-0,1-0
+2004-12-19,Groningen,Ajax,0-4,0-0
+2004-12-19,Nijmegen,Heerenveen,3-2,1-1
+2004-12-19,Utrecht,Den Bosch,1-0,0-0
+2005-01-21,AZ Alkmaar,Nijmegen,1-1,1-1
+2005-01-22,Graafschap,Roda JC,2-0,0-0
+2005-01-22,Heerenveen,Den Bosch,2-1,1-0
+2005-01-22,PSV Eindhoven,NAC Breda,4-0,2-0
+2005-01-22,Willem II,Twente,0-3,0-1
+2005-01-23,Den Haag,Groningen,0-3,0-2
+2005-01-23,Feyenoord,Vitesse,1-2,0-0
+2005-01-23,Roosendaal,Waalwijk,0-1,0-0
+2005-01-23,Utrecht,Ajax,0-2,0-0
+2005-01-28,Roda JC,Willem II,4-0,2-0
+2005-01-29,Den Bosch,AZ Alkmaar,0-1,0-1
+2005-01-29,Twente,Feyenoord,0-0,0-0
+2005-01-29,Vitesse,Roosendaal,1-3,1-1
+2005-01-30,Ajax,Den Haag,0-0,0-0
+2005-01-30,Groningen,Graafschap,1-0,1-0
+2005-01-30,NAC Breda,Heerenveen,1-1,0-0
+2005-01-30,Nijmegen,Utrecht,0-0,0-0
+2005-01-30,Waalwijk,PSV Eindhoven,1-4,1-2
+2005-02-02,PSV Eindhoven,Roosendaal,4-1,0-0
+2005-02-04,Graafschap,Feyenoord,2-7,1-3
+2005-02-04,Willem II,Nijmegen,3-1,2-0
+2005-02-05,Den Haag,Den Bosch,2-0,1-0
+2005-02-05,Heerenveen,AZ Alkmaar,1-3,0-1
+2005-02-06,Ajax,Twente,1-2,1-1
+2005-02-06,Utrecht,NAC Breda,2-0,1-0
+2005-02-06,Vitesse,Roda JC,3-0,2-0
+2005-02-06,Waalwijk,Groningen,3-0,3-0
+2005-02-11,Groningen,Vitesse,0-0,0-0
+2005-02-12,AZ Alkmaar,PSV Eindhoven,0-0,0-0
+2005-02-12,Roda JC,Heerenveen,2-3,0-1
+2005-02-12,Roosendaal,Utrecht,0-1,0-0
+2005-02-12,Twente,Waalwijk,3-1,2-1
+2005-02-13,Den Bosch,Graafschap,0-2,0-0
+2005-02-13,Feyenoord,Willem II,7-0,4-0
+2005-02-13,NAC Breda,Ajax,1-2,0-1
+2005-02-13,Nijmegen,Den Haag,1-1,1-0
+2005-02-18,Roosendaal,Willem II,2-0,0-0
+2005-02-19,PSV Eindhoven,Nijmegen,4-1,2-0
+2005-02-20,Ajax,Den Bosch,2-0,0-0
+2005-02-20,AZ Alkmaar,Roda JC,1-1,1-1
+2005-02-20,Graafschap,Heerenveen,2-1,0-0
+2005-02-20,Groningen,Twente,0-1,0-1
+2005-02-20,Utrecht,Feyenoord,0-2,0-1
+2005-02-20,Vitesse,Den Haag,3-4,1-1
+2005-02-20,Waalwijk,NAC Breda,1-0,1-0
+2005-02-25,Nijmegen,Waalwijk,1-0,1-0
+2005-02-26,NAC Breda,Groningen,1-4,1-1
+2005-02-26,Twente,Graafschap,0-0,0-0
+2005-02-27,Den Bosch,Vitesse,1-2,0-1
+2005-02-27,Den Haag,Utrecht,1-0,0-0
+2005-02-27,Feyenoord,Roosendaal,3-0,1-0
+2005-02-27,Heerenveen,PSV Eindhoven,0-3,0-1
+2005-02-27,Roda JC,Ajax,1-2,0-2
+2005-02-27,Willem II,AZ Alkmaar,1-3,1-1
+2005-03-04,Roosendaal,Nijmegen,1-0,0-0
+2005-03-05,Vitesse,Willem II,2-0,1-0
+2005-03-05,Waalwijk,Utrecht,2-2,1-2
+2005-03-06,Graafschap,NAC Breda,0-2,0-1
+2005-03-06,Roda JC,Twente,1-2,1-0
+2005-03-11,Twente,Roosendaal,3-0,2-0
+2005-03-12,Heerenveen,Waalwijk,1-2,0-0
+2005-03-12,NAC Breda,Vitesse,1-2,0-1
+2005-03-12,Willem II,Den Bosch,2-1,0-1
+2005-03-13,AZ Alkmaar,Graafschap,3-2,2-1
+2005-03-13,Feyenoord,Roda JC,4-1,2-0
+2005-03-13,Nijmegen,Ajax,0-1,0-0
+2005-03-13,PSV Eindhoven,Den Haag,4-0,3-0
+2005-03-13,Utrecht,Groningen,1-2,1-2
+2005-03-16,Den Haag,Heerenveen,0-2,0-1
+2005-03-17,Groningen,PSV Eindhoven,0-1,0-1
+2005-03-18,Den Bosch,Roda JC,0-3,0-2
+2005-03-19,AZ Alkmaar,Vitesse,3-0,1-0
+2005-03-19,Graafschap,Roosendaal,0-1,0-0
+2005-03-19,NAC Breda,Nijmegen,1-2,0-0
+2005-03-19,Waalwijk,Feyenoord,2-4,2-2
+2005-03-20,Ajax,PSV Eindhoven,0-4,0-2
+2005-03-20,Groningen,Willem II,1-1,0-1
+2005-03-20,Twente,Den Haag,2-1,1-0
+2005-03-20,Utrecht,Heerenveen,0-1,0-1
+2005-04-01,Vitesse,Twente,1-1,1-0
+2005-04-02,Den Haag,Waalwijk,0-0,0-0
+2005-04-02,Heerenveen,Ajax,2-1,0-1
+2005-04-02,PSV Eindhoven,Utrecht,2-0,2-0
+2005-04-02,Willem II,Graafschap,4-1,1-1
+2005-04-03,Feyenoord,AZ Alkmaar,4-2,2-0
+2005-04-03,Nijmegen,Groningen,4-3,2-2
+2005-04-03,Roda JC,NAC Breda,2-1,0-1
+2005-04-03,Roosendaal,Den Bosch,1-2,1-1
+2005-04-07,Ajax,Willem II,2-0,1-0
+2005-04-08,Den Haag,Graafschap,2-0,1-0
+2005-04-09,Groningen,Roosendaal,3-0,1-0
+2005-04-09,Heerenveen,Twente,1-2,0-1
+2005-04-09,PSV Eindhoven,Den Bosch,3-0,1-0
+2005-04-10,Ajax,AZ Alkmaar,4-2,2-1
+2005-04-10,NAC Breda,Feyenoord,0-2,0-1
+2005-04-10,Nijmegen,Vitesse,1-1,1-1
+2005-04-10,Waalwijk,Roda JC,1-0,0-0
+2005-04-13,Den Bosch,Feyenoord,4-1,1-0
+2005-04-15,Roda JC,Utrecht,3-2,2-1
+2005-04-16,Graafschap,Waalwijk,2-4,1-2
+2005-04-16,Roosendaal,Den Haag,2-0,2-0
+2005-04-16,Vitesse,Heerenveen,1-3,1-0
+2005-04-17,AZ Alkmaar,NAC Breda,1-1,1-0
+2005-04-17,Den Bosch,Groningen,1-2,0-0
+2005-04-17,Feyenoord,Ajax,2-3,0-0
+2005-04-17,Twente,Nijmegen,2-1,1-0
+2005-04-17,Willem II,PSV Eindhoven,0-1,0-0
+2005-04-20,Utrecht,AZ Alkmaar,3-2,1-1
+2005-04-22,Heerenveen,Roosendaal,7-1,4-0
+2005-04-23,Den Haag,Roda JC,1-4,0-3
+2005-04-23,PSV Eindhoven,Vitesse,3-0,2-0
+2005-04-23,Waalwijk,AZ Alkmaar,2-1,1-1
+2005-04-24,Ajax,Graafschap,1-0,0-0
+2005-04-24,Groningen,Feyenoord,0-2,0-1
+2005-04-24,NAC Breda,Willem II,1-2,1-1
+2005-04-24,Nijmegen,Den Bosch,2-2,0-0
+2005-04-24,Utrecht,Twente,2-2,1-0
+2005-04-29,Roda JC,Nijmegen,1-0,0-0
+2005-04-29,Twente,PSV Eindhoven,2-2,0-0
+2005-04-30,Roosendaal,Ajax,1-4,0-3
+2005-05-01,AZ Alkmaar,Groningen,2-1,1-0
+2005-05-01,Den Bosch,NAC Breda,0-2,0-0
+2005-05-01,Feyenoord,Heerenveen,1-3,1-2
+2005-05-01,Graafschap,Utrecht,0-0,0-0
+2005-05-01,Vitesse,Waalwijk,3-1,1-1
+2005-05-01,Willem II,Den Haag,1-0,1-0
+2005-05-06,NAC Breda,Roosendaal,1-2,1-1
+2005-05-07,Ajax,Waalwijk,4-0,2-0
+2005-05-07,Den Bosch,Twente,1-0,1-0
+2005-05-07,Heerenveen,Willem II,2-2,0-2
+2005-05-08,Den Haag,AZ Alkmaar,2-1,0-0
+2005-05-08,Groningen,Roda JC,4-4,1-2
+2005-05-08,Nijmegen,Feyenoord,2-0,0-0
+2005-05-08,PSV Eindhoven,Graafschap,4-1,3-0
+2005-05-08,Utrecht,Vitesse,1-2,1-1
+2005-05-15,Den Haag,NAC Breda,6-2,4-1
+2005-05-15,Groningen,Heerenveen,1-2,0-1
+2005-05-15,Nijmegen,Graafschap,3-0,2-0
+2005-05-15,PSV Eindhoven,Feyenoord,4-2,2-1
+2005-05-15,Roosendaal,Roda JC,3-1,1-1
+2005-05-15,Twente,AZ Alkmaar,3-0,0-0
+2005-05-15,Utrecht,Willem II,0-3,0-0
+2005-05-15,Vitesse,Ajax,0-2,0-0
+2005-05-15,Waalwijk,Den Bosch,2-0,0-0
+2005-05-22,Ajax,Groningen,2-1,0-1
+2005-05-22,AZ Alkmaar,Roosendaal,1-3,0-2
+2005-05-22,Den Bosch,Utrecht,0-3,0-2
+2005-05-22,Feyenoord,Den Haag,6-3,3-0
+2005-05-22,Graafschap,Vitesse,1-2,1-0
+2005-05-22,Heerenveen,Nijmegen,2-1,0-1
+2005-05-22,NAC Breda,Twente,1-1,0-0
+2005-05-22,Roda JC,PSV Eindhoven,0-0,0-0
+2005-05-22,Willem II,Waalwijk,3-0,2-0

@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2006-08-18,Sparta,Vitesse,1-2,0-2
+2006-08-19,AZ Alkmaar,NAC Breda,8-1,2-0
+2006-08-19,Den Haag,Heerenveen,2-3,1-1
+2006-08-19,Excelsior,Roda JC,0-1,0-1
+2006-08-19,Willem II,Utrecht,2-1,1-1
+2006-08-20,Ajax,Waalwijk,5-0,2-0
+2006-08-20,Groningen,Feyenoord,3-0,0-0
+2006-08-20,Heracles,Twente,3-0,1-0
+2006-08-20,PSV Eindhoven,Nijmegen,3-1,2-0
+2006-08-25,Roda JC,Den Haag,1-0,0-0
+2006-08-26,Heerenveen,Willem II,5-0,4-0
+2006-08-26,Utrecht,Sparta,2-2,2-1
+2006-08-26,Vitesse,AZ Alkmaar,1-3,0-1
+2006-08-26,Waalwijk,Excelsior,1-1,1-0
+2006-08-27,Feyenoord,Heracles,0-0,0-0
+2006-08-27,NAC Breda,Ajax,1-2,0-0
+2006-08-27,Nijmegen,Groningen,1-1,1-1
+2006-08-27,Twente,PSV Eindhoven,1-0,0-0
+2006-09-08,Den Haag,NAC Breda,0-2,0-1
+2006-09-08,Twente,Roda JC,2-2,1-2
+2006-09-09,Excelsior,Heerenveen,3-1,1-1
+2006-09-09,Willem II,PSV Eindhoven,1-3,1-3
+2006-09-10,Ajax,Vitesse,3-0,2-0
+2006-09-10,Groningen,Heracles,2-1,0-1
+2006-09-10,Nijmegen,AZ Alkmaar,0-2,0-1
+2006-09-10,Sparta,Feyenoord,1-4,1-2
+2006-09-10,Utrecht,Waalwijk,5-0,5-0
+2006-09-15,Waalwijk,Den Haag,1-0,0-0
+2006-09-16,Excelsior,Willem II,3-2,3-1
+2006-09-16,Heracles,Utrecht,3-0,2-0
+2006-09-16,Vitesse,NAC Breda,0-1,0-0
+2006-09-17,AZ Alkmaar,Twente,2-2,0-1
+2006-09-17,Heerenveen,Nijmegen,3-0,1-0
+2006-09-17,PSV Eindhoven,Feyenoord,2-1,2-1
+2006-09-17,Roda JC,Ajax,2-0,1-0
+2006-09-17,Sparta,Groningen,0-1,0-0
+2006-09-22,NAC Breda,Willem II,0-0,0-0
+2006-09-23,Den Haag,PSV Eindhoven,0-2,0-0
+2006-09-23,Twente,Sparta,2-0,1-0
+2006-09-23,Vitesse,Heracles,4-0,1-0
+2006-09-24,Ajax,Nijmegen,2-0,0-0
+2006-09-24,Feyenoord,Excelsior,1-0,1-0
+2006-09-24,Groningen,Waalwijk,1-1,1-0
+2006-09-24,Roda JC,AZ Alkmaar,0-2,0-0
+2006-09-24,Utrecht,Heerenveen,1-0,0-0
+2006-09-29,Nijmegen,Heracles,2-0,1-0
+2006-09-30,Excelsior,Sparta,3-1,1-0
+2006-09-30,Twente,Waalwijk,4-3,1-2
+2006-09-30,Willem II,Roda JC,0-1,0-0
+2006-10-01,AZ Alkmaar,Den Haag,2-2,1-2
+2006-10-01,Feyenoord,NAC Breda,3-2,2-2
+2006-10-01,Groningen,Vitesse,4-3,1-1
+2006-10-01,Heerenveen,PSV Eindhoven,0-0,0-0
+2006-10-01,Utrecht,Ajax,2-3,0-2
+2006-10-13,Den Haag,Twente,1-2,1-0
+2006-10-14,Ajax,Groningen,3-2,0-0
+2006-10-14,NAC Breda,Nijmegen,0-2,0-2
+2006-10-14,Sparta,AZ Alkmaar,0-2,0-0
+2006-10-14,Vitesse,Willem II,1-0,1-0
+2006-10-15,Excelsior,Utrecht,0-1,0-1
+2006-10-15,Heracles,Heerenveen,1-0,1-0
+2006-10-15,PSV Eindhoven,Roda JC,4-1,0-1
+2006-10-15,Waalwijk,Feyenoord,2-2,2-2
+2006-10-20,Willem II,Heracles,2-0,0-0
+2006-10-21,Roda JC,Sparta,2-1,0-0
+2006-10-21,Twente,Excelsior,4-1,2-0
+2006-10-21,Waalwijk,NAC Breda,0-1,0-0
+2006-10-22,AZ Alkmaar,PSV Eindhoven,1-3,0-3
+2006-10-22,Feyenoord,Ajax,0-4,0-2
+2006-10-22,Heerenveen,Groningen,4-2,1-0
+2006-10-22,Nijmegen,Vitesse,1-0,0-0
+2006-10-22,Utrecht,Den Haag,2-0,2-0
+2006-10-25,Ajax,Den Haag,2-0,2-0
+2006-10-25,Groningen,Excelsior,2-1,1-1
+2006-10-25,Heracles,Waalwijk,1-1,1-1
+2006-10-25,Nijmegen,Roda JC,0-0,0-0
+2006-10-25,PSV Eindhoven,Sparta,7-0,4-0
+2006-10-26,Feyenoord,Twente,2-1,0-1
+2006-10-26,NAC Breda,Utrecht,2-1,1-0
+2006-10-26,Willem II,AZ Alkmaar,0-4,0-1
+2006-10-28,Den Haag,Heracles,2-0,0-0
+2006-10-28,Excelsior,Vitesse,2-2,0-2
+2006-10-28,Heerenveen,Ajax,0-2,0-1
+2006-10-28,Waalwijk,PSV Eindhoven,0-3,0-0
+2006-10-29,AZ Alkmaar,Utrecht,5-1,1-0
+2006-10-29,NAC Breda,Groningen,0-0,0-0
+2006-10-29,Roda JC,Feyenoord,1-2,1-1
+2006-10-29,Sparta,Willem II,1-0,0-0
+2006-10-29,Twente,Nijmegen,4-0,3-0
+2006-11-03,Nijmegen,Willem II,1-2,1-1
+2006-11-04,Den Haag,Excelsior,2-2,1-1
+2006-11-04,Groningen,Roda JC,2-1,0-0
+2006-11-04,PSV Eindhoven,NAC Breda,3-0,2-0
+2006-11-05,Feyenoord,Vitesse,2-1,1-0
+2006-11-05,Heerenveen,Sparta,2-0,1-0
+2006-11-05,Heracles,Ajax,0-3,0-1
+2006-11-05,Utrecht,Twente,0-0,0-0
+2006-11-05,Waalwijk,AZ Alkmaar,0-2,0-2
+2006-11-10,NAC Breda,Heerenveen,1-1,0-1
+2006-11-11,AZ Alkmaar,Heracles,5-0,2-0
+2006-11-11,Excelsior,Nijmegen,1-1,0-0
+2006-11-11,Roda JC,Waalwijk,1-1,1-0
+2006-11-12,Ajax,PSV Eindhoven,0-1,0-0
+2006-11-12,Sparta,Den Haag,2-1,1-0
+2006-11-12,Twente,Groningen,7-1,2-1
+2006-11-12,Vitesse,Utrecht,4-2,2-0
+2006-11-12,Willem II,Feyenoord,3-5,0-2
+2006-11-17,Heracles,NAC Breda,2-0,1-0
+2006-11-18,Feyenoord,AZ Alkmaar,3-2,1-1
+2006-11-18,Nijmegen,Sparta,1-2,0-1
+2006-11-18,PSV Eindhoven,Excelsior,4-0,2-0
+2006-11-18,Waalwijk,Heerenveen,0-2,0-2
+2006-11-19,Ajax,Twente,1-1,0-1
+2006-11-19,Den Haag,Vitesse,0-3,0-1
+2006-11-19,Groningen,Willem II,4-1,1-0
+2006-11-19,Utrecht,Roda JC,2-0,1-0
+2006-11-24,Twente,Vitesse,2-0,1-0
+2006-11-25,Excelsior,Heracles,6-1,2-1
+2006-11-25,PSV Eindhoven,Utrecht,5-0,3-0
+2006-11-25,Willem II,Waalwijk,3-1,2-0
+2006-11-26,Groningen,Den Haag,2-5,2-2
+2006-11-26,Heerenveen,AZ Alkmaar,1-3,1-1
+2006-11-26,Nijmegen,Feyenoord,4-1,0-0
+2006-11-26,Roda JC,NAC Breda,3-2,0-1
+2006-11-26,Sparta,Ajax,3-0,1-0
+2006-11-29,Vitesse,Heerenveen,1-3,1-0
+2006-12-01,Waalwijk,Sparta,2-1,1-1
+2006-12-02,Den Haag,Nijmegen,0-2,0-1
+2006-12-02,Heracles,Roda JC,1-1,0-1
+2006-12-02,NAC Breda,Twente,0-0,0-0
+2006-12-02,Vitesse,PSV Eindhoven,0-1,0-1
+2006-12-03,Ajax,Willem II,6-0,5-0
+2006-12-03,AZ Alkmaar,Excelsior,5-0,3-0
+2006-12-03,Feyenoord,Heerenveen,4-3,1-1
+2006-12-03,Utrecht,Groningen,3-0,2-0
+2006-12-08,Heerenveen,Roda JC,1-0,0-0
+2006-12-09,Groningen,PSV Eindhoven,0-2,0-0
+2006-12-09,Heracles,Sparta,2-3,0-2
+2006-12-09,NAC Breda,Excelsior,2-1,1-1
+2006-12-09,Nijmegen,Utrecht,2-0,1-0
+2006-12-10,Ajax,AZ Alkmaar,2-2,1-0
+2006-12-10,Feyenoord,Den Haag,3-1,0-0
+2006-12-10,Vitesse,Waalwijk,3-1,2-1
+2006-12-10,Willem II,Twente,1-3,1-2
+2006-12-15,PSV Eindhoven,Heracles,3-0,1-0
+2006-12-16,Den Haag,Willem II,2-1,2-0
+2006-12-16,Roda JC,Vitesse,2-4,2-1
+2006-12-16,Sparta,NAC Breda,0-3,0-3
+2006-12-17,AZ Alkmaar,Groningen,2-0,2-0
+2006-12-17,Excelsior,Ajax,1-3,0-1
+2006-12-17,Twente,Heerenveen,5-1,2-1
+2006-12-17,Utrecht,Feyenoord,2-1,2-0
+2006-12-17,Waalwijk,Nijmegen,0-1,0-1
+2006-12-22,Heracles,Groningen,0-1,0-0
+2006-12-23,Feyenoord,Sparta,3-2,2-1
+2006-12-23,Heerenveen,Excelsior,2-0,2-0
+2006-12-23,NAC Breda,Den Haag,2-2,1-2
+2006-12-23,PSV Eindhoven,Willem II,4-0,3-0
+2006-12-24,AZ Alkmaar,Nijmegen,0-0,0-0
+2006-12-24,Roda JC,Twente,2-0,2-0
+2006-12-24,Vitesse,Ajax,4-2,0-2
+2006-12-24,Waalwijk,Utrecht,1-1,1-1
+2006-12-26,Feyenoord,PSV Eindhoven,1-1,1-1
+2006-12-26,Groningen,Sparta,0-1,0-0
+2006-12-26,Willem II,Excelsior,2-1,0-1
+2006-12-27,Ajax,Roda JC,2-0,2-0
+2006-12-27,Den Haag,Waalwijk,1-1,0-1
+2006-12-27,NAC Breda,Vitesse,2-1,1-1
+2006-12-27,Nijmegen,Heerenveen,0-2,0-1
+2006-12-27,Twente,AZ Alkmaar,3-0,2-0
+2006-12-27,Utrecht,Heracles,0-0,0-0
+2006-12-29,Excelsior,Feyenoord,1-3,0-2
+2006-12-30,Heerenveen,Utrecht,0-0,0-0
+2006-12-30,Nijmegen,Ajax,2-2,0-0
+2006-12-30,PSV Eindhoven,Den Haag,2-1,1-0
+2006-12-30,Sparta,Twente,3-0,2-0
+2006-12-30,Waalwijk,Groningen,0-2,0-1
+2006-12-31,AZ Alkmaar,Roda JC,2-2,0-1
+2006-12-31,Heracles,Vitesse,2-2,2-1
+2007-01-14,Willem II,NAC Breda,0-2,0-0
+2007-01-19,Den Haag,AZ Alkmaar,1-3,0-1
+2007-01-20,Heracles,Nijmegen,0-0,0-0
+2007-01-20,PSV Eindhoven,Heerenveen,3-1,3-1
+2007-01-20,Roda JC,Willem II,2-1,1-1
+2007-01-20,Waalwijk,Twente,1-2,1-1
+2007-01-21,Ajax,Utrecht,2-0,2-0
+2007-01-21,NAC Breda,Feyenoord,4-1,2-0
+2007-01-21,Sparta,Excelsior,2-1,2-1
+2007-01-21,Vitesse,Groningen,3-2,1-1
+2007-01-26,Heerenveen,Heracles,5-1,3-0
+2007-01-27,AZ Alkmaar,Sparta,3-0,1-0
+2007-01-27,Nijmegen,NAC Breda,2-1,2-0
+2007-01-27,Utrecht,Excelsior,1-0,1-0
+2007-01-27,Willem II,Vitesse,0-0,0-0
+2007-01-28,Feyenoord,Waalwijk,3-1,2-0
+2007-01-28,Groningen,Ajax,2-3,2-0
+2007-01-28,Roda JC,PSV Eindhoven,2-0,1-0
+2007-01-28,Twente,Den Haag,3-1,1-1
+2007-02-02,Groningen,Heerenveen,1-1,0-0
+2007-02-03,Excelsior,Twente,1-2,1-2
+2007-02-03,Heracles,Willem II,2-2,0-1
+2007-02-03,NAC Breda,Waalwijk,2-1,1-1
+2007-02-03,PSV Eindhoven,AZ Alkmaar,2-3,1-0
+2007-02-04,Ajax,Feyenoord,4-1,3-1
+2007-02-04,Den Haag,Utrecht,1-1,1-1
+2007-02-04,Sparta,Roda JC,2-2,0-1
+2007-02-04,Vitesse,Nijmegen,1-1,0-0
+2007-02-09,Excelsior,Groningen,0-2,0-1
+2007-02-10,AZ Alkmaar,Willem II,2-0,1-0
+2007-02-10,Heerenveen,Vitesse,0-0,0-0
+2007-02-10,Roda JC,Nijmegen,1-0,1-0
+2007-02-10,Waalwijk,Heracles,2-0,1-0
+2007-02-11,Den Haag,Ajax,1-2,1-0
+2007-02-11,Sparta,PSV Eindhoven,1-1,0-0
+2007-02-11,Twente,Feyenoord,3-0,1-0
+2007-02-11,Utrecht,NAC Breda,1-0,0-0
+2007-02-16,NAC Breda,Sparta,3-1,1-0
+2007-02-16,Willem II,Den Haag,2-1,1-1
+2007-02-17,Heracles,PSV Eindhoven,0-2,0-0
+2007-02-17,Nijmegen,Waalwijk,1-0,0-0
+2007-02-17,Vitesse,Roda JC,0-0,0-0
+2007-02-18,Ajax,Excelsior,2-2,2-2
+2007-02-18,Feyenoord,Utrecht,2-0,2-0
+2007-02-18,Groningen,AZ Alkmaar,1-1,0-1
+2007-02-18,Heerenveen,Twente,1-2,0-2
+2007-02-23,Utrecht,Nijmegen,3-0,1-0
+2007-02-24,PSV Eindhoven,Groningen,1-0,0-0
+2007-02-24,Roda JC,Heerenveen,1-0,1-0
+2007-02-24,Sparta,Heracles,0-0,0-0
+2007-02-24,Twente,Willem II,0-0,0-0
+2007-02-25,AZ Alkmaar,Ajax,1-1,0-0
+2007-02-25,Den Haag,Feyenoord,3-3,1-1
+2007-02-25,Excelsior,NAC Breda,0-2,0-0
+2007-02-25,Waalwijk,Vitesse,3-1,1-1
+2007-03-02,Nijmegen,Twente,0-3,0-0
+2007-03-03,Groningen,NAC Breda,3-1,1-0
+2007-03-03,PSV Eindhoven,Waalwijk,2-0,2-0
+2007-03-03,Vitesse,Excelsior,2-3,1-0
+2007-03-03,Willem II,Sparta,0-0,0-0
+2007-03-04,Ajax,Heerenveen,0-1,0-1
+2007-03-04,Feyenoord,Roda JC,1-1,0-0
+2007-03-04,Heracles,Den Haag,3-1,1-0
+2007-03-04,Utrecht,AZ Alkmaar,0-4,0-2
+2007-03-09,Roda JC,Utrecht,0-0,0-0
+2007-03-10,Heerenveen,Waalwijk,1-0,1-0
+2007-03-10,NAC Breda,Heracles,1-1,1-0
+2007-03-10,Sparta,Nijmegen,0-4,0-2
+2007-03-10,Willem II,Groningen,3-0,2-0
+2007-03-11,AZ Alkmaar,Feyenoord,0-0,0-0
+2007-03-11,Excelsior,PSV Eindhoven,0-0,0-0
+2007-03-11,Twente,Ajax,1-4,1-3
+2007-03-11,Vitesse,Den Haag,2-2,1-2
+2007-03-16,Waalwijk,Roda JC,3-2,2-1
+2007-03-17,Den Haag,Sparta,2-4,0-2
+2007-03-17,Heerenveen,NAC Breda,4-2,2-1
+2007-03-17,Nijmegen,Excelsior,0-1,0-1
+2007-03-18,Feyenoord,Willem II,0-0,0-0
+2007-03-18,Groningen,Twente,1-1,0-1
+2007-03-18,Heracles,AZ Alkmaar,0-0,0-0
+2007-03-18,PSV Eindhoven,Ajax,1-5,0-2
+2007-03-18,Utrecht,Vitesse,2-0,1-0
+2007-03-30,Roda JC,Groningen,0-1,0-1
+2007-03-31,AZ Alkmaar,Waalwijk,2-0,1-0
+2007-03-31,NAC Breda,PSV Eindhoven,1-1,0-0
+2007-03-31,Willem II,Nijmegen,1-0,1-0
+2007-04-01,Ajax,Heracles,3-0,1-0
+2007-04-01,Excelsior,Den Haag,3-1,2-0
+2007-04-01,Sparta,Heerenveen,2-2,0-2
+2007-04-01,Twente,Utrecht,3-0,2-0
+2007-04-01,Vitesse,Feyenoord,0-1,0-0
+2007-04-06,Vitesse,Sparta,3-0,2-0
+2007-04-07,Heerenveen,Den Haag,1-1,1-1
+2007-04-07,Nijmegen,PSV Eindhoven,2-1,2-0
+2007-04-07,Roda JC,Excelsior,2-0,0-0
+2007-04-08,Feyenoord,Groningen,0-4,0-0
+2007-04-08,NAC Breda,AZ Alkmaar,1-4,1-1
+2007-04-08,Twente,Heracles,1-1,1-1
+2007-04-08,Utrecht,Willem II,3-0,2-0
+2007-04-08,Waalwijk,Ajax,2-2,1-2
+2007-04-13,Ajax,NAC Breda,2-0,1-0
+2007-04-13,Sparta,Utrecht,1-1,1-0
+2007-04-14,Den Haag,Roda JC,0-2,0-0
+2007-04-14,Excelsior,Waalwijk,0-3,0-0
+2007-04-14,PSV Eindhoven,Twente,2-0,2-0
+2007-04-15,AZ Alkmaar,Vitesse,1-0,1-0
+2007-04-15,Groningen,Nijmegen,4-1,2-1
+2007-04-15,Heracles,Feyenoord,4-1,1-0
+2007-04-15,Willem II,Heerenveen,1-3,0-0
+2007-04-22,Ajax,Sparta,5-2,3-1
+2007-04-22,AZ Alkmaar,Heerenveen,3-1,2-0
+2007-04-22,Feyenoord,Nijmegen,1-1,0-0
+2007-04-22,Heracles,Excelsior,3-2,0-1
+2007-04-22,NAC Breda,Roda JC,0-2,0-1
+2007-04-22,Utrecht,PSV Eindhoven,1-1,0-1
+2007-04-22,Vitesse,Twente,1-1,0-0
+2007-04-22,Waalwijk,Willem II,1-1,0-1
+2007-04-25,Den Haag,Groningen,1-3,0-3
+2007-04-29,Excelsior,AZ Alkmaar,3-2,1-1
+2007-04-29,Groningen,Utrecht,0-2,0-2
+2007-04-29,Heerenveen,Feyenoord,5-1,1-0
+2007-04-29,Nijmegen,Den Haag,3-2,1-0
+2007-04-29,PSV Eindhoven,Vitesse,5-1,2-1
+2007-04-29,Roda JC,Heracles,7-0,3-0
+2007-04-29,Sparta,Waalwijk,1-0,0-0
+2007-04-29,Twente,NAC Breda,2-1,1-0
+2007-04-29,Willem II,Ajax,0-2,0-1

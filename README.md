@@ -4,9 +4,9 @@ Football data for the Netherlands including:
 
 - Eredivisie
 
-Example - [`2013-14/eredivisie.csv`](2013-14/1-eredivisie.csv):
+Example - [`2013-14/nl.1.csv`](2013-14/nl.1.csv):
 
-~~~
+```
 2013-08-02,Ajax,Roda,3-0,2-0
 2013-08-03,Den Haag,PSV Eindhoven,2-3,1-3
 2013-08-03,Heerenveen,AZ Alkmaar,4-2,1-0
@@ -17,7 +17,7 @@ Example - [`2013-14/eredivisie.csv`](2013-14/1-eredivisie.csv):
 2013-08-04,Vitesse,Heracles,3-1,2-0
 2013-08-04,Zwolle,Feyenoord,2-1,0-0
 ...
-~~~
+```
 
 
 ## Questions? Comments?

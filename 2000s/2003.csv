@@ -1,0 +1,937 @@
+Date,Team 1,Score,Team 2,Tournament,City
+Fri Jan 10 2003,India,0-1,Pakistan,SAFF Cup,Dhaka › Bangladesh
+Fri Jan 10 2003,Sri Lanka,1-0,Afghanistan,SAFF Cup,Dhaka › Bangladesh
+Sat Jan 11 2003,Bangladesh,1-0,Nepal,SAFF Cup,Dhaka › Bangladesh
+Sat Jan 11 2003,Maldives,6-0,Bhutan,SAFF Cup,Dhaka › Bangladesh
+Sun Jan 12 2003,Afghanistan,0-4,India,SAFF Cup,Dhaka › Bangladesh
+Sun Jan 12 2003,Barbados,1-0,Jamaica,Friendly,Bridgetown › Barbados
+Sun Jan 12 2003,Pakistan,2-1,Sri Lanka,SAFF Cup,Dhaka › Bangladesh
+Mon Jan 13 2003,Bangladesh,1-0,Maldives,SAFF Cup,Dhaka › Bangladesh
+Mon Jan 13 2003,Nepal,2-0,Bhutan,SAFF Cup,Dhaka › Bangladesh
+Tue Jan 14 2003,Afghanistan,0-1,Pakistan,SAFF Cup,Dhaka › Bangladesh
+Tue Jan 14 2003,India,1-1,Sri Lanka,SAFF Cup,Dhaka › Bangladesh
+Wed Jan 15 2003,Bangladesh,3-0,Bhutan,SAFF Cup,Dhaka › Bangladesh
+Wed Jan 15 2003,Nepal,2-3,Maldives,SAFF Cup,Dhaka › Bangladesh
+Fri Jan 17 2003,El Salvador,0-0,Guatemala,Friendly,Santa Ana › United States
+Sat Jan 18 2003,Bangladesh,2-1,India,SAFF Cup,Dhaka › Bangladesh
+Sat Jan 18 2003,Pakistan,0-1,Maldives,SAFF Cup,Dhaka › Bangladesh
+Sat Jan 18 2003,United States,4-0,Canada,Friendly,Fort Lauderdale › United States
+Sun Jan 19 2003,El Salvador,0-0,Guatemala,Friendly,Los Angeles › United States
+Mon Jan 20 2003,Bangladesh,1-1,Maldives,SAFF Cup,Dhaka › Bangladesh
+Mon Jan 20 2003,Pakistan,1-2,India,SAFF Cup,Dhaka › Bangladesh
+Sat Jan 25 2003,Uganda,0-1,Algeria,Friendly,Kampala › Uganda
+Sun Jan 26 2003,Barbados,0-0,Finland,Friendly,Bridgetown › Barbados
+Sun Jan 26 2003,Ghana,3-0,Benin,Friendly,Kumasi › Ghana
+Sun Jan 26 2003,United Arab Emirates,1-1,Norway,Friendly,Sharjah › United Arab Emirates
+Tue Jan 28 2003,Oman,1-2,Norway,Friendly,Muscat › Oman
+Wed Jan 29 2003,Cyprus,1-2,Greece,Friendly,Larnaca › Cyprus
+Wed Jan 29 2003,Trinidad and Tobago,1-2,Finland,Friendly,Port of Spain › Trinidad and Tobago
+Fri Jan 31 2003,Honduras,1-3,Argentina,Friendly,San Pedro Sula › Honduras
+Tue Feb 4 2003,Mexico,0-1,Argentina,Friendly,Los Angeles › United States
+Tue Feb 4 2003,Uruguay,1-1,Iran,Lunar New Year Cup,So Kon Po › Hong Kong
+Sat Feb 8 2003,United States,0-1,Argentina,Friendly,Miami › United States
+Sun Feb 9 2003,Croatia,2-2,North Macedonia,Friendly,Šibenik › Croatia
+Sun Feb 9 2003,Ecuador,1-0,Estonia,Friendly,Guayaquil › Ecuador
+Sun Feb 9 2003,Panama,1-2,El Salvador,UNCAF Cup,Panama City › Panama
+Tue Feb 11 2003,Cameroon,0-3,Ivory Coast,Friendly,Châteauroux › France
+Tue Feb 11 2003,Costa Rica,1-0,El Salvador,UNCAF Cup,Panama City › Panama
+Tue Feb 11 2003,Honduras,2-0,Nicaragua,UNCAF Cup,Panama City › Panama
+Wed Feb 12 2003,Albania,5-0,Vietnam,Friendly,Bastia Umbra › Italy
+Wed Feb 12 2003,Algeria,1-3,Belgium,Friendly,Annaba › Algeria
+Wed Feb 12 2003,Barbados,3-3,Martinique,Friendly,Bridgetown › Barbados
+Wed Feb 12 2003,Bulgaria,1-0,Hungary,Friendly,Larnaca › Cyprus
+Wed Feb 12 2003,China PR,0-0,Brazil,Friendly,Guangzhou › China PR
+Wed Feb 12 2003,Croatia,0-0,Poland,Friendly,Split › Croatia
+Wed Feb 12 2003,Cyprus,0-1,Russia,Cyprus International Tournament,Limassol › Cyprus
+Wed Feb 12 2003,Ecuador,2-1,Estonia,Friendly,Quito › Ecuador
+Wed Feb 12 2003,Egypt,1-4,Denmark,Friendly,Cairo › Egypt
+Wed Feb 12 2003,England,1-3,Australia,Friendly,London › England
+Wed Feb 12 2003,France,0-2,Czech Republic,Friendly,Saint-Denis › France
+Wed Feb 12 2003,Georgia,2-2,Moldova,Friendly,Tbilisi › Georgia
+Wed Feb 12 2003,Greece,1-0,Norway,Friendly,Heraklion › Greece
+Wed Feb 12 2003,Guinea,0-1,Mali,Friendly,Toulon › France
+Wed Feb 12 2003,Israel,2-0,Armenia,Friendly,Ramat-Gan › Israel
+Wed Feb 12 2003,Italy,1-0,Portugal,Friendly,Genoa › Italy
+Wed Feb 12 2003,Jamaica,1-2,United States,Friendly,Kingston › Jamaica
+Wed Feb 12 2003,Latvia,2-1,Lithuania,Friendly,Antalya › Turkey
+Wed Feb 12 2003,Libya,2-4,Canada,Friendly,Tripoli › Libya
+Wed Feb 12 2003,Malta,2-2,Kazakhstan,Friendly,Attard › Malta
+Wed Feb 12 2003,Mexico,0-0,Colombia,Friendly,Phoenix › United States
+Wed Feb 12 2003,Morocco,1-0,Senegal,Friendly,Paris › France
+Wed Feb 12 2003,Netherlands,1-0,Argentina,Friendly,Amsterdam › Netherlands
+Wed Feb 12 2003,Northern Ireland,0-1,Finland,Friendly,Belfast › Northern Ireland
+Wed Feb 12 2003,Romania,2-1,Slovakia,Cyprus International Tournament,Larnaca › Cyprus
+Wed Feb 12 2003,Scotland,0-2,Republic of Ireland,Friendly,Glasgow › Scotland
+Wed Feb 12 2003,Serbia,2-2,Azerbaijan,UEFA Euro qualification,Podgorica › Serbia and Montenegro
+Wed Feb 12 2003,Slovenia,1-5,Switzerland,Friendly,Nova Gorica › Slovenia
+Wed Feb 12 2003,Spain,3-1,Germany,Friendly,Palma de Mallorca › Spain
+Wed Feb 12 2003,Tunisia,1-0,Sweden,Friendly,Radès › Tunisia
+Wed Feb 12 2003,Turkey,0-0,Ukraine,Friendly,Izmir › Turkey
+Wed Feb 12 2003,Wales,2-2,Bosnia and Herzegovina,Friendly,Cardiff › Wales
+Thu Feb 13 2003,Costa Rica,1-1,Guatemala,UNCAF Cup,Panama City › Panama
+Thu Feb 13 2003,Cyprus,1-3,Slovakia,Cyprus International Tournament,Larnaca › Cyprus
+Thu Feb 13 2003,El Salvador,3-0,Nicaragua,UNCAF Cup,Panama City › Panama
+Fri Feb 14 2003,North Macedonia,0-3,Poland,Friendly,Split › Croatia
+Sat Feb 15 2003,Benin,1-0,Ghana,Friendly,Cotonou › Benin
+Sat Feb 15 2003,Costa Rica,1-0,Nicaragua,UNCAF Cup,Panama City › Panama
+Sat Feb 15 2003,Honduras,0-1,El Salvador,UNCAF Cup,Panama City › Panama
+Sun Feb 16 2003,China PR,1-0,Estonia,Friendly,Wuhan › China PR
+Sun Feb 16 2003,Gambia,0-1,Nigeria,Friendly,Banjul › Gambia
+Sun Feb 16 2003,Panama,2-0,Guatemala,UNCAF Cup,Panama City › Panama
+Sun Feb 16 2003,Qatar,2-3,Sweden,King's Cup,Bangkok › Thailand
+Sun Feb 16 2003,Thailand,2-2,North Korea,King's Cup,Bangkok › Thailand
+Tue Feb 18 2003,Guatemala,5-0,Nicaragua,UNCAF Cup,Panama City › Panama
+Tue Feb 18 2003,North Korea,1-1,Sweden,King's Cup,Bangkok › Thailand
+Tue Feb 18 2003,Panama,1-1,Honduras,UNCAF Cup,Panama City › Panama
+Tue Feb 18 2003,Thailand,1-1,Qatar,King's Cup,Bangkok › Thailand
+Thu Feb 20 2003,Costa Rica,1-0,Honduras,UNCAF Cup,Panama City › Panama
+Thu Feb 20 2003,El Salvador,0-2,Guatemala,UNCAF Cup,Panama City › Panama
+Thu Feb 20 2003,North Korea,2-2,Qatar,King's Cup,Bangkok › Thailand
+Thu Feb 20 2003,Thailand,1-4,Sweden,King's Cup,Bangkok › Thailand
+Fri Feb 21 2003,Panama,0-1,Nicaragua,UNCAF Cup,Panama City › Panama
+Sat Feb 22 2003,Hong Kong,2-0,Chinese Taipei,EAFF Championship,So Kon Po › Hong Kong
+Sat Feb 22 2003,North Korea,0-4,Sweden,King's Cup,Bangkok › Thailand
+Sat Feb 22 2003,Macau,2-0,Mongolia,EAFF Championship,So Kon Po › Hong Kong
+Sat Feb 22 2003,Madagascar,2-1,Mauritius,COSAFA Cup,Antananarivo › Madagascar
+Sat Feb 22 2003,Malawi,1-1,DR Congo,Friendly,Blantyre › Malawi
+Sat Feb 22 2003,Thailand,3-1,Qatar,King's Cup,Bangkok › Thailand
+Sun Feb 23 2003,Guatemala,2-1,Honduras,UNCAF Cup,Panama City › Panama
+Sun Feb 23 2003,Malawi,2-3,DR Congo,Friendly,Lilongwe › Malawi
+Sun Feb 23 2003,Panama,0-1,Costa Rica,UNCAF Cup,Panama City › Panama
+Sun Feb 23 2003,Peru,5-1,Haiti,Friendly,Lima › Peru
+Mon Feb 24 2003,Hong Kong,3-0,Macau,EAFF Championship,So Kon Po › Hong Kong
+Mon Feb 24 2003,Mongolia,2-0,Guam,EAFF Championship,So Kon Po › Hong Kong
+Wed Feb 26 2003,Guam,0-2,Macau,EAFF Championship,So Kon Po › Hong Kong
+Fri Feb 28 2003,Guam,0-7,Chinese Taipei,EAFF Championship,So Kon Po › Hong Kong
+Fri Feb 28 2003,Hong Kong,10-0,Mongolia,EAFF Championship,So Kon Po › Hong Kong
+Sun Mar 2 2003,Hong Kong,11-0,Guam,EAFF Championship,So Kon Po › Hong Kong
+Sun Mar 2 2003,Macau,1-2,Chinese Taipei,EAFF Championship,So Kon Po › Hong Kong
+Tue Mar 4 2003,Singapore,4-1,Maldives,Friendly,Singapore › Singapore
+Tue Mar 4 2003,Sudan,1-3,DR Congo,Friendly,Khartoum › Sudan
+Wed Mar 5 2003,Israel,0-0,Moldova,Friendly,Ramat-Gan › Israel
+Fri Mar 7 2003,Benin,1-1,Niger,Friendly,Cotonou › Benin
+Sun Mar 9 2003,Botswana,0-1,Lesotho,Friendly,Gaborone › Botswana
+Sun Mar 9 2003,DR Congo,3-0,Congo,Friendly,Kinshasa › DR Congo
+Tue Mar 11 2003,Cuba,0-0,Jamaica,Friendly,Havana › Cuba
+Wed Mar 12 2003,Tanzania,0-0,Uganda,Friendly,Arusha › Tanzania
+Thu Mar 13 2003,Cuba,1-0,Jamaica,Friendly,Havana › Cuba
+Fri Mar 14 2003,Martinique,2-1,French Guiana,Friendly,Fort-de-France › Martinique
+Sat Mar 15 2003,Guadeloupe,2-2,French Guiana,Friendly,Fort-de-France › Martinique
+Sat Mar 15 2003,Kenya,2-2,Uganda,Friendly,Nairobi › Kenya
+Sat Mar 15 2003,Rwanda,4-2,Burundi,Friendly,Kigali › Rwanda
+Sun Mar 16 2003,Kyrgyzstan,1-2,Afghanistan,AFC Asian Cup qualification,Kathmandu › Nepal
+Sun Mar 16 2003,Lesotho,2-2,DR Congo,Friendly,Maseru › Lesotho
+Sun Mar 16 2003,Zimbabwe,0-0,Malawi,Friendly,Harare › Zimbabwe
+Tue Mar 18 2003,Nepal,4-0,Afghanistan,AFC Asian Cup qualification,Kathmandu › Nepal
+Wed Mar 19 2003,Egypt,6-0,Qatar,Friendly,Port Said › Egypt
+Wed Mar 19 2003,Mexico,2-0,Bolivia,Friendly,Dallas › United States
+Wed Mar 19 2003,Eswatini,1-0,Lesotho,Friendly,Lobamba › Eswatini
+Thu Mar 20 2003,Nepal,0-2,Kyrgyzstan,AFC Asian Cup qualification,Kathmandu › Nepal
+Fri Mar 21 2003,Macau,0-3,Pakistan,AFC Asian Cup qualification,Singapore › Singapore
+Fri Mar 21 2003,Maldives,1-1,Brunei,AFC Asian Cup qualification,Malé › Maldives
+Fri Mar 21 2003,Sri Lanka,3-2,East Timor,AFC Asian Cup qualification,Colombo › Sri Lanka
+Sat Mar 22 2003,Mozambique,0-0,Lesotho,COSAFA Cup,Maputo › Mozambique
+Sat Mar 22 2003,Rwanda,1-1,Zambia,Friendly,Kigali › Rwanda
+Sun Mar 23 2003,Benin,2-1,Equatorial Guinea,Friendly,Cotonou › Benin
+Sun Mar 23 2003,Burma,5-0,Brunei,AFC Asian Cup qualification,Malé › Maldives
+Sun Mar 23 2003,Jamaica,2-1,Barbados,Friendly,Kingston › Jamaica
+Sun Mar 23 2003,Kenya,4-0,Tanzania,Friendly,Nairobi › Kenya
+Sun Mar 23 2003,Singapore,2-0,Macau,AFC Asian Cup qualification,Singapore › Singapore
+Mon Mar 24 2003,North Korea,2-0,India,AFC Asian Cup qualification,P'yongyang › North Korea
+Mon Mar 24 2003,Rwanda,0-3,Zambia,Friendly,Kigali › Rwanda
+Tue Mar 25 2003,Hong Kong,5-1,Laos,AFC Asian Cup qualification,Kowloon › Hong Kong
+Tue Mar 25 2003,Maldives,0-2,Burma,AFC Asian Cup qualification,Malé › Maldives
+Tue Mar 25 2003,Singapore,3-0,Pakistan,AFC Asian Cup qualification,Singapore › Singapore
+Tue Mar 25 2003,Sri Lanka,2-1,Chinese Taipei,AFC Asian Cup qualification,Colombo › Sri Lanka
+Wed Mar 26 2003,Austria,2-2,Greece,Friendly,Graz › Austria
+Wed Mar 26 2003,Burundi,0-0,Burkina Faso,Friendly,Bujumbura › Burundi
+Wed Mar 26 2003,Guadeloupe,2-3,Cuba,Gold Cup qualification,Port of Spain › Trinidad and Tobago
+Wed Mar 26 2003,Haiti,2-1,Martinique,Gold Cup qualification,Kingston › Jamaica
+Wed Mar 26 2003,Jamaica,5-0,Saint Lucia,Gold Cup qualification,Kingston › Jamaica
+Wed Mar 26 2003,Mexico,1-1,Paraguay,Friendly,San Diego › United States
+Wed Mar 26 2003,Trinidad and Tobago,2-0,Antigua and Barbuda,Gold Cup qualification,Port of Spain › Trinidad and Tobago
+Thu Mar 27 2003,Cameroon,2-0,Madagascar,Friendly,Tunis › Tunisia
+Thu Mar 27 2003,Laos,2-1,Bangladesh,AFC Asian Cup qualification,Kowloon › Hong Kong
+Thu Mar 27 2003,Serbia,1-2,Bulgaria,Friendly,Kruševac › Serbia and Montenegro
+Thu Mar 27 2003,Tunisia,2-2,Ghana,Friendly,Tunis › Tunisia
+Fri Mar 28 2003,Cuba,2-0,Antigua and Barbuda,Gold Cup qualification,Macoya › Trinidad and Tobago
+Fri Mar 28 2003,Jamaica,2-2,Martinique,Gold Cup qualification,Kingston › Jamaica
+Fri Mar 28 2003,Japan,2-2,Uruguay,Friendly,Tokyo › Japan
+Fri Mar 28 2003,Saint Lucia,2-1,Haiti,Gold Cup qualification,Kingston › Jamaica
+Fri Mar 28 2003,Trinidad and Tobago,1-0,Guadeloupe,Gold Cup qualification,Macoya › Trinidad and Tobago
+Sat Mar 29 2003,Albania,3-1,Russia,UEFA Euro qualification,Shkodër › Albania
+Sat Mar 29 2003,Angola,1-1,Algeria,Friendly,Luanda › Angola
+Sat Mar 29 2003,Armenia,1-0,Northern Ireland,UEFA Euro qualification,Yerevan › Armenia
+Sat Mar 29 2003,Belarus,2-1,Moldova,UEFA Euro qualification,Minsk › Belarus
+Sat Mar 29 2003,Bosnia and Herzegovina,2-0,Luxembourg,UEFA Euro qualification,Zenica › Bosnia and Herzegovina
+Sat Mar 29 2003,Cape Verde,2-1,Togo,African Cup of Nations qualification,Praia › Cape Verde
+Sat Mar 29 2003,Costa Rica,2-1,Paraguay,Friendly,Alajuela › Costa Rica
+Sat Mar 29 2003,Croatia,4-0,Belgium,UEFA Euro qualification,Zagreb › Croatia
+Sat Mar 29 2003,Cyprus,1-1,Israel,UEFA Euro qualification,Limassol › Cyprus
+Sat Mar 29 2003,Estonia,2-1,Canada,Friendly,Tallinn › Estonia
+Sat Mar 29 2003,France,6-0,Malta,UEFA Euro qualification,Lens › France
+Sat Mar 29 2003,Gabon,4-0,Equatorial Guinea,African Cup of Nations qualification,Libreville › Gabon
+Sat Mar 29 2003,Georgia,1-2,Republic of Ireland,UEFA Euro qualification,Tbilisi › Georgia
+Sat Mar 29 2003,Germany,1-1,Lithuania,UEFA Euro qualification,Nuremberg › Germany
+Sat Mar 29 2003,Italy,2-0,Finland,UEFA Euro qualification,Palermo › Italy
+Sat Mar 29 2003,Kenya,4-0,Mauritania,African Cup of Nations qualification,Nairobi › Kenya
+Sat Mar 29 2003,South Korea,0-0,Colombia,Friendly,Busan › South Korea
+Sat Mar 29 2003,Liechtenstein,0-2,England,UEFA Euro qualification,Vaduz › Liechtenstein
+Sat Mar 29 2003,North Macedonia,0-2,Slovakia,UEFA Euro qualification,Skopje › North Macedonia
+Sat Mar 29 2003,Malawi,0-1,Nigeria,African Cup of Nations qualification,Blantyre › Malawi
+Sat Mar 29 2003,Mauritius,0-1,Egypt,African Cup of Nations qualification,Rose Hill › Mauritius
+Sat Mar 29 2003,Netherlands,1-1,Czech Republic,UEFA Euro qualification,Rotterdam › Netherlands
+Sat Mar 29 2003,Poland,0-0,Hungary,UEFA Euro qualification,Chorzów › Poland
+Sat Mar 29 2003,Portugal,2-1,Brazil,Friendly,Porto › Portugal
+Sat Mar 29 2003,Romania,2-5,Denmark,UEFA Euro qualification,Bucharest › Romania
+Sat Mar 29 2003,Rwanda,0-0,Uganda,African Cup of Nations qualification,Kigali › Rwanda
+Sat Mar 29 2003,Scotland,2-1,Iceland,UEFA Euro qualification,Glasgow › Scotland
+Sat Mar 29 2003,Sierra Leone,0-0,Morocco,African Cup of Nations qualification,Freetown › Sierra Leone
+Sat Mar 29 2003,South Africa,2-0,Madagascar,Friendly,Johannesburg › South Africa
+Sat Mar 29 2003,Sudan,3-0,Benin,African Cup of Nations qualification,Khartoum › Sudan
+Sat Mar 29 2003,Tanzania,0-1,Zambia,African Cup of Nations qualification,Dar es Salaam › Tanzania
+Sat Mar 29 2003,Ukraine,2-2,Spain,UEFA Euro qualification,Kyïv › Ukraine
+Sat Mar 29 2003,United States,2-0,Venezuela,Friendly,Seattle › United States
+Sat Mar 29 2003,Wales,4-0,Azerbaijan,UEFA Euro qualification,Cardiff › Wales
+Sun Mar 30 2003,Burundi,0-1,Ivory Coast,African Cup of Nations qualification,Bujumbura › Burundi
+Sun Mar 30 2003,Chad,2-0,Namibia,African Cup of Nations qualification,N'Djamena › Chad
+Sun Mar 30 2003,Chile,2-0,Peru,Friendly,Santiago › Chile
+Sun Mar 30 2003,Eritrea,0-2,Mali,African Cup of Nations qualification,Asmara › Eritrea
+Sun Mar 30 2003,Ethiopia,1-0,Liberia,African Cup of Nations qualification,Addis Abeba › Ethiopia
+Sun Mar 30 2003,Gambia,0-0,Senegal,African Cup of Nations qualification,Bakau › Gambia
+Sun Mar 30 2003,Ghana,3-3,Madagascar,Friendly,Tunis › Tunisia
+Sun Mar 30 2003,Guadeloupe,2-0,Antigua and Barbuda,Gold Cup qualification,San Fernando › Trinidad and Tobago
+Sun Mar 30 2003,Guinea,2-0,Niger,African Cup of Nations qualification,Conakry › Guinea
+Sun Mar 30 2003,Hong Kong,2-2,Bangladesh,AFC Asian Cup qualification,Kowloon › Hong Kong
+Sun Mar 30 2003,India,1-1,North Korea,AFC Asian Cup qualification,Margao › India
+Sun Mar 30 2003,Jamaica,3-0,Haiti,Gold Cup qualification,Kingston › Jamaica
+Sun Mar 30 2003,Libya,0-0,Botswana,African Cup of Nations qualification,Tripoli › Libya
+Sun Mar 30 2003,Mozambique,1-0,Burkina Faso,African Cup of Nations qualification,Maputo › Mozambique
+Sun Mar 30 2003,Saint Lucia,4-5,Martinique,Gold Cup qualification,Kingston › Jamaica
+Sun Mar 30 2003,Eswatini,1-1,DR Congo,African Cup of Nations qualification,Lobamba › Eswatini
+Sun Mar 30 2003,Trinidad and Tobago,1-3,Cuba,Gold Cup qualification,San Fernando › Trinidad and Tobago
+Sun Mar 30 2003,Tunisia,1-0,Cameroon,Friendly,Tunis › Tunisia
+Sun Mar 30 2003,Zimbabwe,3-1,Seychelles,African Cup of Nations qualification,Harare › Zimbabwe
+Wed Apr 2 2003,Albania,0-0,Republic of Ireland,UEFA Euro qualification,Tirana › Albania
+Wed Apr 2 2003,Belarus,2-2,Uzbekistan,Friendly,Minsk › Belarus
+Wed Apr 2 2003,Croatia,2-0,Andorra,UEFA Euro qualification,Varaždin › Croatia
+Wed Apr 2 2003,Czech Republic,4-0,Austria,UEFA Euro qualification,Prague › Czech Republic
+Wed Apr 2 2003,Denmark,0-2,Bosnia and Herzegovina,UEFA Euro qualification,Copenhagen › Denmark
+Wed Apr 2 2003,England,2-0,Turkey,UEFA Euro qualification,Sunderland › England
+Wed Apr 2 2003,Estonia,0-0,Bulgaria,UEFA Euro qualification,Tallinn › Estonia
+Wed Apr 2 2003,Georgia,0-0,Switzerland,UEFA Euro qualification,Tbilisi › Georgia
+Wed Apr 2 2003,Honduras,1-1,Paraguay,Friendly,Tegucigalpa › Honduras
+Wed Apr 2 2003,Hungary,1-2,Sweden,UEFA Euro qualification,Budapest › Hungary
+Wed Apr 2 2003,Israel,1-2,France,UEFA Euro qualification,Palermo › Italy
+Wed Apr 2 2003,Lithuania,1-0,Scotland,UEFA Euro qualification,Kaunas › Lithuania
+Wed Apr 2 2003,Luxembourg,0-2,Norway,UEFA Euro qualification,Luxembourg › Luxembourg
+Wed Apr 2 2003,North Macedonia,0-1,Portugal,Friendly,Lausanne › Switzerland
+Wed Apr 2 2003,Moldova,1-2,Netherlands,UEFA Euro qualification,Tiraspol › Moldova
+Wed Apr 2 2003,Northern Ireland,0-2,Greece,UEFA Euro qualification,Belfast › Northern Ireland
+Wed Apr 2 2003,Peru,3-0,Chile,Friendly,Lima › Peru
+Wed Apr 2 2003,Poland,5-0,San Marino,UEFA Euro qualification,Ostrowiec Świętokrzyski › Poland
+Wed Apr 2 2003,Slovakia,4-0,Liechtenstein,UEFA Euro qualification,Trnava › Slovakia
+Wed Apr 2 2003,Slovenia,4-1,Cyprus,UEFA Euro qualification,Ljubljana › Slovenia
+Wed Apr 2 2003,Spain,3-0,Armenia,UEFA Euro qualification,León › Spain
+Wed Apr 2 2003,Ukraine,1-0,Latvia,Friendly,Kyïv › Ukraine
+Wed Apr 2 2003,Venezuela,2-0,Jamaica,Friendly,Caracas › Venezuela
+Wed Apr 16 2003,South Korea,0-1,Japan,Friendly,Seoul › South Korea
+Sun Apr 20 2003,Zimbabwe,1-0,Angola,COSAFA Cup,Harare › Zimbabwe
+Wed Apr 23 2003,Bhutan,6-0,Guam,AFC Asian Cup qualification,Thimphu › Bhutan
+Wed Apr 23 2003,Martinique,3-2,Trinidad and Tobago,Gold Cup qualification,Fort-de-France › Martinique
+Thu Apr 24 2003,Algeria,3-1,Madagascar,Friendly,Amiens › France
+Fri Apr 25 2003,Guam,0-5,Mongolia,AFC Asian Cup qualification,Thimphu › Bhutan
+Fri Apr 25 2003,Trinidad and Tobago,0-2,Honduras,Gold Cup qualification,Rivière-Pilote › Martinique
+Sun Apr 27 2003,Bhutan,0-0,Mongolia,AFC Asian Cup qualification,Thimphu › Bhutan
+Sun Apr 27 2003,Faroe Islands,3-2,Kazakhstan,Friendly,Toftir › Faroe Islands
+Sun Apr 27 2003,Madagascar,0-2,Mali,Friendly,Paris › France
+Sun Apr 27 2003,Martinique,2-4,Honduras,Gold Cup qualification,Fort-de-France › Martinique
+Tue Apr 29 2003,Faroe Islands,2-1,Kazakhstan,Friendly,Tórshavn › Faroe Islands
+Wed Apr 30 2003,Andorra,0-2,Estonia,UEFA Euro qualification,Sant Julià de Lòria › Andorra
+Wed Apr 30 2003,Belgium,3-1,Poland,Friendly,Brussels › Belgium
+Wed Apr 30 2003,Bulgaria,2-0,Albania,Friendly,Sofia › Bulgaria
+Wed Apr 30 2003,Chile,1-0,Costa Rica,Friendly,Santiago › Chile
+Wed Apr 30 2003,Czech Republic,4-0,Turkey,Friendly,Teplice › Czech Republic
+Wed Apr 30 2003,Denmark,1-0,Ukraine,Friendly,Copenhagen › Denmark
+Wed Apr 30 2003,Finland,3-0,Iceland,Friendly,Vantaa › Finland
+Wed Apr 30 2003,France,5-0,Egypt,Friendly,Saint-Denis › France
+Wed Apr 30 2003,Georgia,1-0,Russia,UEFA Euro qualification,Tbilisi › Georgia
+Wed Apr 30 2003,Germany,1-0,Serbia,Friendly,Bremen › Germany
+Wed Apr 30 2003,Honduras,0-0,Colombia,Friendly,Miami › United States
+Wed Apr 30 2003,Hungary,5-1,Luxembourg,Friendly,Budapest › Hungary
+Wed Apr 30 2003,Republic of Ireland,1-0,Norway,Friendly,Dublin › Republic of Ireland
+Wed Apr 30 2003,Israel,2-0,Cyprus,UEFA Euro qualification,Palermo › Italy
+Wed Apr 30 2003,Latvia,3-0,San Marino,UEFA Euro qualification,Riga › Latvia
+Wed Apr 30 2003,Libya,1-3,Argentina,Friendly,Tripoli › Libya
+Wed Apr 30 2003,Liechtenstein,1-0,Saudi Arabia,Friendly,Vaduz › Liechtenstein
+Wed Apr 30 2003,Lithuania,0-1,Romania,Friendly,Kaunas › Lithuania
+Wed Apr 30 2003,Malta,1-3,Slovenia,UEFA Euro qualification,Attard › Malta
+Wed Apr 30 2003,Mexico,0-0,Brazil,Friendly,Guadalajara › Mexico
+Wed Apr 30 2003,Morocco,0-1,Ivory Coast,Friendly,Rabat › Morocco
+Wed Apr 30 2003,Netherlands,1-1,Portugal,Friendly,Eindhoven › Netherlands
+Wed Apr 30 2003,Peru,0-1,Paraguay,Friendly,Lima › Peru
+Wed Apr 30 2003,Scotland,0-2,Austria,Friendly,Glasgow › Scotland
+Wed Apr 30 2003,Slovakia,2-2,Greece,Friendly,Žilina › Slovakia
+Wed Apr 30 2003,South Africa,0-0,Jamaica,Friendly,Cape Town › South Africa
+Wed Apr 30 2003,Spain,4-0,Ecuador,Friendly,Madrid › Spain
+Wed Apr 30 2003,Sweden,1-2,Croatia,Friendly,Solna › Sweden
+Wed Apr 30 2003,Switzerland,1-2,Italy,Friendly,Geneva › Switzerland
+Wed Apr 30 2003,Tunisia,1-0,Senegal,Friendly,Tunis › Tunisia
+Wed Apr 30 2003,Uzbekistan,1-2,Belarus,Friendly,Tashkent › Uzbekistan
+Wed Apr 30 2003,Venezuela,3-0,Trinidad and Tobago,Friendly,San Cristóbal › Venezuela
+Thu May 1 2003,Fiji,9-0,Tuvalu,Friendly,Suva › Fiji
+Sun May 4 2003,Congo,2-1,Central African Republic,African Cup of Nations qualification,Brazzaville › Congo
+Mon May 5 2003,Guernsey,3-3,Jersey,Friendly,St. Sampson › Guernsey
+Thu May 8 2003,United States,0-0,Mexico,Friendly,Houston › United States
+Fri May 16 2003,Lesotho,1-2,Botswana,Friendly,Maseru › Lesotho
+Sat May 17 2003,Malawi,0-1,Zambia,Friendly,Blantyre › Malawi
+Sun May 18 2003,Jersey,1-0,Guernsey,Friendly,St. Helier › Jersey
+Wed May 21 2003,Lesotho,0-0,Malawi,Friendly,Maseru › Lesotho
+Wed May 21 2003,Uganda,0-0,Sudan,Friendly,Kampala › Uganda
+Thu May 22 2003,Norway,2-0,Finland,Friendly,Oslo › Norway
+Thu May 22 2003,South Africa,1-2,England,Friendly,Durban › South Africa
+Sat May 24 2003,Botswana,1-1,Malawi,COSAFA Cup,Gaborone › Botswana
+Sat May 24 2003,Sudan,1-1,Kenya,Friendly,Khartoum › Sudan
+Sun May 25 2003,Jamaica,3-2,Nigeria,Friendly,Kingston › Jamaica
+Sun May 25 2003,Lesotho,2-1,Eswatini,Friendly,Maseru › Lesotho
+Sun May 25 2003,Togo,3-1,Benin,Friendly,Lomé › Togo
+Mon May 26 2003,United States,2-0,Wales,Friendly,San Jose › United States
+Tue May 27 2003,Scotland,1-1,New Zealand,Friendly,Edinburgh › Scotland
+Thu May 29 2003,Algeria,0-1,Burkina Faso,Friendly,Amiens › France
+Fri May 30 2003,Nigeria,3-1,Ghana,Friendly,Abuja › Nigeria
+Sat May 31 2003,Gabon,1-1,Angola,Friendly,Libreville › Gabon
+Sat May 31 2003,Gambia,4-1,Mauritania,Friendly,Banjul › Gambia
+Sat May 31 2003,Japan,0-1,South Korea,Friendly,Tokyo › Japan
+Sat May 31 2003,Kenya,1-1,Trinidad and Tobago,Friendly,Nairobi › Kenya
+Sat May 31 2003,Senegal,2-1,Cape Verde,Friendly,Dakar › Senegal
+Sat May 31 2003,Uganda,1-0,Tanzania,Friendly,Kampala › Uganda
+Sun Jun 1 2003,Germany,4-1,Canada,Friendly,Wolfsburg › Germany
+Tue Jun 3 2003,England,2-1,Serbia,Friendly,Leicester › England
+Tue Jun 3 2003,Guadeloupe,1-0,French Guiana,Friendly,Saint-Brieuc › France
+Tue Jun 3 2003,Italy,2-0,Northern Ireland,Friendly,Campobasso › Italy
+Tue Jun 3 2003,Uganda,3-2,Libya,Friendly,Kampala › Uganda
+Fri Jun 6 2003,Mauritania,0-0,Kenya,African Cup of Nations qualification,Nouakchott › Mauritania
+Fri Jun 6 2003,Poland,3-0,Kazakhstan,Friendly,Poznań › Poland
+Fri Jun 6 2003,Portugal,0-0,Paraguay,Friendly,Braga › Portugal
+Sat Jun 7 2003,Belarus,0-2,Netherlands,UEFA Euro qualification,Minsk › Belarus
+Sat Jun 7 2003,Botswana,0-1,Libya,African Cup of Nations qualification,Gaborone › Botswana
+Sat Jun 7 2003,Bulgaria,2-2,Belgium,UEFA Euro qualification,Sofia › Bulgaria
+Sat Jun 7 2003,Burkina Faso,4-0,Mozambique,African Cup of Nations qualification,Ouagadougou › Burkina Faso
+Sat Jun 7 2003,Denmark,1-0,Norway,UEFA Euro qualification,Copenhagen › Denmark
+Sat Jun 7 2003,Estonia,2-0,Andorra,UEFA Euro qualification,Tallinn › Estonia
+Sat Jun 7 2003,Finland,3-0,Serbia,UEFA Euro qualification,Helsinki › Finland
+Sat Jun 7 2003,Hungary,3-1,Latvia,UEFA Euro qualification,Budapest › Hungary
+Sat Jun 7 2003,Iceland,2-1,Faroe Islands,UEFA Euro qualification,Reykjavík › Iceland
+Sat Jun 7 2003,Republic of Ireland,2-1,Albania,UEFA Euro qualification,Dublin › Republic of Ireland
+Sat Jun 7 2003,Israel,0-0,Slovenia,UEFA Euro qualification,Antalya › Turkey
+Sat Jun 7 2003,North Macedonia,3-1,Liechtenstein,UEFA Euro qualification,Skopje › North Macedonia
+Sat Jun 7 2003,Mali,1-0,Eritrea,African Cup of Nations qualification,Bamako › Mali
+Sat Jun 7 2003,Malta,1-2,Cyprus,UEFA Euro qualification,Attard › Malta
+Sat Jun 7 2003,Moldova,1-0,Austria,UEFA Euro qualification,Tiraspol › Moldova
+Sat Jun 7 2003,Namibia,2-1,Chad,African Cup of Nations qualification,Windhoek › Namibia
+Sat Jun 7 2003,Niger,1-0,Guinea,African Cup of Nations qualification,Niamey › Niger
+Sat Jun 7 2003,Nigeria,4-1,Malawi,African Cup of Nations qualification,Abuja › Nigeria
+Sat Jun 7 2003,Romania,2-0,Bosnia and Herzegovina,UEFA Euro qualification,Craiova › Romania
+Sat Jun 7 2003,San Marino,0-6,Sweden,UEFA Euro qualification,Serravalle › San Marino
+Sat Jun 7 2003,Scotland,1-1,Germany,UEFA Euro qualification,Glasgow › Scotland
+Sat Jun 7 2003,Senegal,3-1,Gambia,African Cup of Nations qualification,Dakar › Senegal
+Sat Jun 7 2003,Seychelles,2-1,Zimbabwe,African Cup of Nations qualification,Victoria › Seychelles
+Sat Jun 7 2003,Slovakia,0-1,Turkey,UEFA Euro qualification,Bratislava › Slovakia
+Sat Jun 7 2003,Spain,0-1,Greece,UEFA Euro qualification,Zaragoza › Spain
+Sat Jun 7 2003,Switzerland,2-2,Russia,UEFA Euro qualification,Basel › Switzerland
+Sat Jun 7 2003,Uganda,0-1,Rwanda,African Cup of Nations qualification,Kampala › Uganda
+Sat Jun 7 2003,Ukraine,4-3,Armenia,UEFA Euro qualification,L'viv › Ukraine
+Sat Jun 7 2003,Venezuela,2-1,Honduras,Friendly,Miami › United States
+Sat Jun 7 2003,Zambia,2-0,Tanzania,African Cup of Nations qualification,Lusaka › Zambia
+Sun Jun 8 2003,Benin,3-0,Sudan,African Cup of Nations qualification,Cotonou › Benin
+Sun Jun 8 2003,Central African Republic,0-0,Congo,African Cup of Nations qualification,Bangui › Central African Republic
+Sun Jun 8 2003,Colombia,0-0,Ecuador,Friendly,Madrid › Spain
+Sun Jun 8 2003,DR Congo,2-0,Eswatini,African Cup of Nations qualification,Kinshasa › DR Congo
+Sun Jun 8 2003,Costa Rica,1-0,Chile,Friendly,San José › Costa Rica
+Sun Jun 8 2003,Egypt,7-0,Mauritius,African Cup of Nations qualification,Cairo › Egypt
+Sun Jun 8 2003,Equatorial Guinea,2-1,Gabon,African Cup of Nations qualification,Bata › Equatorial Guinea
+Sun Jun 8 2003,Ivory Coast,6-1,Burundi,African Cup of Nations qualification,Abidjan › Ivory Coast
+Sun Jun 8 2003,Japan,1-4,Argentina,Kirin Cup,Osaka › Japan
+Sun Jun 8 2003,South Korea,0-2,Uruguay,Friendly,Seoul › South Korea
+Sun Jun 8 2003,Liberia,1-0,Ethiopia,African Cup of Nations qualification,Monrovia › Liberia
+Sun Jun 8 2003,Morocco,1-0,Sierra Leone,African Cup of Nations qualification,Casablanca › Morocco
+Sun Jun 8 2003,Togo,5-2,Cape Verde,African Cup of Nations qualification,Lomé › Togo
+Sun Jun 8 2003,United States,2-1,New Zealand,Friendly,Richmond › United States
+Tue Jun 10 2003,Botswana,0-0,Trinidad and Tobago,Friendly,Gaborone › Botswana
+Tue Jun 10 2003,Portugal,4-0,Bolivia,Friendly,Oeiras › Portugal
+Wed Jun 11 2003,Austria,5-0,Belarus,UEFA Euro qualification,Innsbruck › Austria
+Wed Jun 11 2003,Azerbaijan,2-1,Serbia,UEFA Euro qualification,Baku › Azerbaijan
+Wed Jun 11 2003,Belgium,3-0,Andorra,UEFA Euro qualification,Ghent › Belgium
+Wed Jun 11 2003,Czech Republic,5-0,Moldova,UEFA Euro qualification,Olomouc › Czech Republic
+Wed Jun 11 2003,Ecuador,2-2,Peru,Friendly,East Rutherford › United States
+Wed Jun 11 2003,England,2-1,Slovakia,UEFA Euro qualification,Middlesbrough › England
+Wed Jun 11 2003,Estonia,0-1,Croatia,UEFA Euro qualification,Tallinn › Estonia
+Wed Jun 11 2003,Faroe Islands,0-2,Germany,UEFA Euro qualification,Tórshavn › Faroe Islands
+Wed Jun 11 2003,Finland,0-2,Italy,UEFA Euro qualification,Helsinki › Finland
+Wed Jun 11 2003,Greece,1-0,Ukraine,UEFA Euro qualification,Athens › Greece
+Wed Jun 11 2003,Honduras,1-2,Chile,Friendly,San Pedro Sula › Honduras
+Wed Jun 11 2003,Republic of Ireland,2-0,Georgia,UEFA Euro qualification,Dublin › Republic of Ireland
+Wed Jun 11 2003,Japan,0-0,Paraguay,Kirin Cup,Saitama › Japan
+Wed Jun 11 2003,South Korea,0-1,Argentina,Friendly,Seoul › South Korea
+Wed Jun 11 2003,Lithuania,0-3,Iceland,UEFA Euro qualification,Kaunas › Lithuania
+Wed Jun 11 2003,Luxembourg,0-2,Denmark,UEFA Euro qualification,Luxembourg › Luxembourg
+Wed Jun 11 2003,Nigeria,0-3,Brazil,Friendly,Abuja › Nigeria
+Wed Jun 11 2003,Northern Ireland,0-0,Spain,UEFA Euro qualification,Belfast › Northern Ireland
+Wed Jun 11 2003,Norway,1-1,Romania,UEFA Euro qualification,Oslo › Norway
+Wed Jun 11 2003,San Marino,0-5,Hungary,UEFA Euro qualification,Serravalle › San Marino
+Wed Jun 11 2003,Sweden,3-0,Poland,UEFA Euro qualification,Solna › Sweden
+Wed Jun 11 2003,Switzerland,3-2,Albania,UEFA Euro qualification,Geneva › Switzerland
+Wed Jun 11 2003,Turkey,3-2,North Macedonia,UEFA Euro qualification,Istanbul › Turkey
+Fri Jun 13 2003,Andorra,0-2,Gabon,Friendly,Sant Julià de Lòria › Andorra
+Fri Jun 13 2003,Ghana,1-3,Kenya,Friendly,Accra › Ghana
+Sat Jun 14 2003,Papua New Guinea,3-5,Solomon Islands,Friendly,Port Moresby › Papua New Guinea
+Sat Jun 14 2003,Senegal,3-0,Lesotho,African Cup of Nations qualification,Dakar › Senegal
+Sat Jun 14 2003,South Africa,2-1,Trinidad and Tobago,Friendly,Port Elizabeth › South Africa
+Wed Jun 18 2003,France,1-0,Colombia,Confederations Cup,Lyon › France
+Wed Jun 18 2003,New Zealand,0-3,Japan,Confederations Cup,Saint-Denis › France
+Thu Jun 19 2003,Brazil,0-1,Cameroon,Confederations Cup,Saint-Denis › France
+Thu Jun 19 2003,Turkey,2-1,United States,Confederations Cup,Saint-Étienne › France
+Fri Jun 20 2003,Algeria,1-0,Namibia,African Cup of Nations qualification,Blida › Algeria
+Fri Jun 20 2003,Colombia,3-1,New Zealand,Confederations Cup,Lyon › France
+Fri Jun 20 2003,Egypt,6-0,Madagascar,African Cup of Nations qualification,Port Said › Egypt
+Fri Jun 20 2003,France,2-1,Japan,Confederations Cup,Saint-Étienne › France
+Fri Jun 20 2003,Morocco,2-0,Gabon,African Cup of Nations qualification,Rabat › Morocco
+Sat Jun 21 2003,Brazil,1-0,United States,Confederations Cup,Lyon › France
+Sat Jun 21 2003,Burkina Faso,3-0,Congo,African Cup of Nations qualification,Ouagadougou › Burkina Faso
+Sat Jun 21 2003,Cameroon,1-0,Turkey,Confederations Cup,Saint-Denis › France
+Sat Jun 21 2003,Cape Verde,3-0,Mauritania,African Cup of Nations qualification,Praia › Cape Verde
+Sat Jun 21 2003,Eritrea,1-0,Seychelles,African Cup of Nations qualification,Asmara › Eritrea
+Sat Jun 21 2003,Liberia,1-2,Guinea,African Cup of Nations qualification,Accra › Ghana
+Sat Jun 21 2003,Nigeria,2-2,Angola,African Cup of Nations qualification,Benin City › Nigeria
+Sat Jun 21 2003,Zambia,1-1,Sudan,African Cup of Nations qualification,Lusaka › Zambia
+Sun Jun 22 2003,DR Congo,2-1,Libya,African Cup of Nations qualification,Kinshasa › DR Congo
+Sun Jun 22 2003,Ethiopia,2-0,Niger,African Cup of Nations qualification,Addis Abeba › Ethiopia
+Sun Jun 22 2003,France,5-0,New Zealand,Confederations Cup,Saint-Denis › France
+Sun Jun 22 2003,Ghana,1-1,Uganda,African Cup of Nations qualification,Kumasi › Ghana
+Sun Jun 22 2003,Guatemala,1-2,Honduras,Friendly,Carson › United States
+Sun Jun 22 2003,Japan,0-1,Colombia,Confederations Cup,Saint-Étienne › France
+Sun Jun 22 2003,Mali,0-0,Zimbabwe,African Cup of Nations qualification,Bamako › Mali
+Sun Jun 22 2003,Mozambique,1-0,Central African Republic,African Cup of Nations qualification,Maputo › Mozambique
+Sun Jun 22 2003,Sierra Leone,2-0,Equatorial Guinea,African Cup of Nations qualification,Freetown › Sierra Leone
+Sun Jun 22 2003,South Africa,2-1,Ivory Coast,African Cup of Nations qualification,Polokwane › South Africa
+Sun Jun 22 2003,Eswatini,3-2,Botswana,African Cup of Nations qualification,Lobamba › Eswatini
+Sun Jun 22 2003,Tanzania,0-1,Benin,African Cup of Nations qualification,Dar es Salaam › Tanzania
+Sun Jun 22 2003,Togo,2-0,Kenya,African Cup of Nations qualification,Lomé › Togo
+Mon Jun 23 2003,Brazil,2-2,Turkey,Confederations Cup,Saint-Étienne › France
+Mon Jun 23 2003,United States,0-0,Cameroon,Confederations Cup,Lyon › France
+Thu Jun 26 2003,Cameroon,1-0,Colombia,Confederations Cup,Lyon › France
+Thu Jun 26 2003,France,3-2,Turkey,Confederations Cup,Saint-Denis › France
+Thu Jun 26 2003,Peru,1-0,Venezuela,Friendly,Miami › United States
+Fri Jun 27 2003,Panama,2-0,Cuba,Friendly,Panama City › Panama
+Sat Jun 28 2003,Colombia,1-2,Turkey,Confederations Cup,Saint-Étienne › France
+Sun Jun 29 2003,France,1-0,Cameroon,Confederations Cup,Saint-Denis › France
+Sun Jun 29 2003,Honduras,1-1,El Salvador,Friendly,Tegucigalpa › Honduras
+Sun Jun 29 2003,Panama,1-0,Cuba,Friendly,Panama City › Panama
+Sun Jun 29 2003,Saare County,0-2,Ynys Môn,Island Games,St. Sampson › Guernsey
+Sun Jun 29 2003,Frøya,1-5,Jersey,Island Games,St. Sampson › Guernsey
+Sun Jun 29 2003,Shetland,0-0,Gotland,Island Games,St. Sampson › Guernsey
+Sun Jun 29 2003,Guernsey,7-1,Alderney,Island Games,St. Sampson › Guernsey
+Sun Jun 29 2003,Gibraltar,19-0,Sark,Island Games,St. Martin › Guernsey
+Sun Jun 29 2003,Isle of Wight,1-2,Greenland,Island Games,St. Martin › Guernsey
+Mon Jun 30 2003,Fiji,0-0,Vanuatu,South Pacific Games,Suva › Fiji
+Mon Jun 30 2003,Papua New Guinea,0-2,New Caledonia,South Pacific Games,Suva › Fiji
+Mon Jun 30 2003,Tahiti,17-0,Micronesia,South Pacific Games,Suva › Fiji
+Mon Jun 30 2003,Tuvalu,3-2,Kiribati,South Pacific Games,Suva › Fiji
+Mon Jun 30 2003,Isle of Man,4-0,Saare County,Island Games,St. Sampson › Guernsey
+Mon Jun 30 2003,Gotland,2-2,Frøya,Island Games,St. Sampson › Guernsey
+Mon Jun 30 2003,Jersey,5-0,Shetland,Island Games,St. Sampson › Guernsey
+Mon Jun 30 2003,Guernsey,10-0,Orkney,Island Games,St. Sampson › Guernsey
+Mon Jun 30 2003,Sark,0-20,Isle of Wight,Island Games,St. Martin › Guernsey
+Mon Jun 30 2003,Gibraltar,2-0,Greenland,Island Games,St. Martin › Guernsey
+Tue Jul 1 2003,Fiji,4-0,Tuvalu,South Pacific Games,Suva › Fiji
+Tue Jul 1 2003,Micronesia,0-18,New Caledonia,South Pacific Games,Suva › Fiji
+Tue Jul 1 2003,Papua New Guinea,2-2,Tonga,South Pacific Games,Suva › Fiji
+Tue Jul 1 2003,Solomon Islands,2-2,Vanuatu,South Pacific Games,Suva › Fiji
+Tue Jul 1 2003,Ynys Môn,1-2,Isle of Man,Island Games,St. Sampson › Guernsey
+Tue Jul 1 2003,Shetland,3-1,Frøya,Island Games,St. Sampson › Guernsey
+Tue Jul 1 2003,Jersey,0-0,Gotland,Island Games,St. Sampson › Guernsey
+Tue Jul 1 2003,Orkney,3-1,Alderney,Island Games,St. Sampson › Guernsey
+Tue Jul 1 2003,Isle of Wight,2-1,Gibraltar,Island Games,St. Martin › Guernsey
+Tue Jul 1 2003,Greenland,16-0,Sark,Island Games,St. Martin › Guernsey
+Wed Jul 2 2003,El Salvador,0-1,Paraguay,Friendly,San Francisco › United States
+Wed Jul 2 2003,Guatemala,1-2,Peru,Friendly,San Francisco › United States
+Thu Jul 3 2003,Estonia,1-5,Lithuania,Baltic Cup,Valga › Estonia
+Thu Jul 3 2003,Solomon Islands,7-0,Kiribati,South Pacific Games,Suva › Fiji
+Thu Jul 3 2003,Tahiti,3-0,Papua New Guinea,South Pacific Games,Suva › Fiji
+Thu Jul 3 2003,Tonga,0-4,New Caledonia,South Pacific Games,Suva › Fiji
+Thu Jul 3 2003,Trinidad and Tobago,2-2,Venezuela,Friendly,Port of Spain › Trinidad and Tobago
+Thu Jul 3 2003,Tuvalu,0-1,Vanuatu,South Pacific Games,Suva › Fiji
+Thu Jul 3 2003,Frøya,15-0,Sark,Island Games,Alderney › Guernsey
+Thu Jul 3 2003,Alderney,0-3,Greenland,Island Games,St. Sampson › Guernsey
+Thu Jul 3 2003,Gotland,3-0,Saare County,Island Games,St. Sampson › Guernsey
+Thu Jul 3 2003,Orkney,1-7,Gibraltar,Island Games,St. Sampson › Guernsey
+Thu Jul 3 2003,Isle of Man,2-1,Jersey,Island Games,St. Sampson › Guernsey
+Thu Jul 3 2003,Guernsey,3-1,Isle of Wight,Island Games,St. Sampson › Guernsey
+Fri Jul 4 2003,Latvia,2-1,Lithuania,Baltic Cup,Valga › Estonia
+Fri Jul 4 2003,Saare County,0-1,Alderney,Island Games,St. Martin › Guernsey
+Fri Jul 4 2003,Gotland,2-1,Greenland,Island Games,St. Sampson › Guernsey
+Fri Jul 4 2003,Orkney,0-6,Shetland,Island Games,St. Sampson › Guernsey
+Fri Jul 4 2003,Gibraltar,0-2,Ynys Môn,Island Games,St. Sampson › Guernsey
+Fri Jul 4 2003,Jersey,3-0,Isle of Wight,Island Games,St. Martin › Guernsey
+Fri Jul 4 2003,Guernsey,3-1,Isle of Man,Island Games,St. Peter Port › Guernsey
+Sat Jul 5 2003,Botswana,0-0,DR Congo,African Cup of Nations qualification,Gaborone › Botswana
+Sat Jul 5 2003,Estonia,0-0,Latvia,Baltic Cup,Tallinn › Estonia
+Sat Jul 5 2003,Fiji,12-0,Kiribati,South Pacific Games,Nausori › Fiji
+Sat Jul 5 2003,Kenya,1-0,Cape Verde,African Cup of Nations qualification,Nairobi › Kenya
+Sat Jul 5 2003,Libya,6-2,Eswatini,African Cup of Nations qualification,Tripoli › Libya
+Sat Jul 5 2003,Mauritania,0-0,Togo,African Cup of Nations qualification,Nouakchott › Mauritania
+Sat Jul 5 2003,Niger,1-0,Liberia,African Cup of Nations qualification,Niamey › Niger
+Sat Jul 5 2003,Seychelles,0-2,Mali,African Cup of Nations qualification,Victoria › Seychelles
+Sat Jul 5 2003,Tahiti,0-4,New Caledonia,South Pacific Games,Nausori › Fiji
+Sat Jul 5 2003,Tonga,7-0,Micronesia,South Pacific Games,Nausori › Fiji
+Sat Jul 5 2003,Tuvalu,0-4,Solomon Islands,South Pacific Games,Nausori › Fiji
+Sat Jul 5 2003,Zimbabwe,2-0,Eritrea,African Cup of Nations qualification,Harare › Zimbabwe
+Sun Jul 6 2003,Angola,5-1,Malawi,African Cup of Nations qualification,Luanda › Angola
+Sun Jul 6 2003,Benin,3-0,Zambia,African Cup of Nations qualification,Cotonou › Benin
+Sun Jul 6 2003,Burundi,0-2,South Africa,African Cup of Nations qualification,Bujumbura › Burundi
+Sun Jul 6 2003,Central African Republic,0-3,Burkina Faso,African Cup of Nations qualification,Bangui › Central African Republic
+Sun Jul 6 2003,Chad,0-0,Algeria,African Cup of Nations qualification,N'Djamena › Chad
+Sun Jul 6 2003,Congo,0-0,Mozambique,African Cup of Nations qualification,Brazzaville › Congo
+Sun Jul 6 2003,El Salvador,2-1,Mexico,Friendly,Carson › United States
+Sun Jul 6 2003,Equatorial Guinea,0-1,Morocco,African Cup of Nations qualification,Malabo › Equatorial Guinea
+Sun Jul 6 2003,Gabon,2-0,Sierra Leone,African Cup of Nations qualification,Libreville › Gabon
+Sun Jul 6 2003,Guinea,3-0,Ethiopia,African Cup of Nations qualification,Conakry › Guinea
+Sun Jul 6 2003,Jamaica,1-2,Cuba,Friendly,Kingston › Jamaica
+Sun Jul 6 2003,Lesotho,1-0,Gambia,African Cup of Nations qualification,Maseru › Lesotho
+Sun Jul 6 2003,Madagascar,0-2,Mauritius,African Cup of Nations qualification,Antananarivo › Madagascar
+Sun Jul 6 2003,Rwanda,1-0,Ghana,African Cup of Nations qualification,Kigali › Rwanda
+Sun Jul 6 2003,United States,2-0,Paraguay,Friendly,Columbus › United States
+Mon Jul 7 2003,Fiji,2-1,Solomon Islands,South Pacific Games,Lautoka › Fiji
+Mon Jul 7 2003,Kiribati,0-18,Vanuatu,South Pacific Games,Lautoka › Fiji
+Mon Jul 7 2003,Papua New Guinea,10-0,Micronesia,South Pacific Games,Lautoka › Fiji
+Mon Jul 7 2003,Tahiti,4-0,Tonga,South Pacific Games,Lautoka › Fiji
+Tue Jul 8 2003,El Salvador,1-2,Guatemala,Friendly,Houston › United States
+Wed Jul 9 2003,Fiji,2-1,Tahiti,South Pacific Games,Lautoka › Fiji
+Wed Jul 9 2003,Jamaica,2-0,Paraguay,Friendly,Kingston › Jamaica
+Wed Jul 9 2003,New Caledonia,1-1,Vanuatu,South Pacific Games,Lautoka › Fiji
+Fri Jul 11 2003,Fiji,2-0,New Caledonia,South Pacific Games,Suva › Fiji
+Fri Jul 11 2003,Tahiti,0-1,Vanuatu,South Pacific Games,Suva › Fiji
+Sat Jul 12 2003,Costa Rica,0-1,Canada,Gold Cup,Foxborough › United States
+Sat Jul 12 2003,United States,2-0,El Salvador,Gold Cup,Foxborough › United States
+Sun Jul 13 2003,Jamaica,0-1,Colombia,Gold Cup,Miami › United States
+Sun Jul 13 2003,Mexico,1-0,Brazil,Gold Cup,Mexico City › Mexico
+Sun Jul 13 2003,Eswatini,2-0,Madagascar,COSAFA Cup,Lobamba › Eswatini
+Mon Jul 14 2003,Canada,0-2,Cuba,Gold Cup,Foxborough › United States
+Mon Jul 14 2003,United States,2-0,Martinique,Gold Cup,Foxborough › United States
+Tue Jul 15 2003,Brazil,2-1,Honduras,Gold Cup,Mexico City › Mexico
+Tue Jul 15 2003,Guatemala,0-2,Jamaica,Gold Cup,Miami › United States
+Wed Jul 16 2003,Argentina,2-2,Uruguay,Friendly,La Plata › Argentina
+Wed Jul 16 2003,Cuba,0-3,Costa Rica,Gold Cup,Foxborough › United States
+Wed Jul 16 2003,El Salvador,1-0,Martinique,Gold Cup,Foxborough › United States
+Thu Jul 17 2003,Colombia,1-1,Guatemala,Gold Cup,Miami › United States
+Thu Jul 17 2003,Mexico,0-0,Honduras,Gold Cup,Mexico City › Mexico
+Sat Jul 19 2003,Colombia,0-2,Brazil,Gold Cup,Miami › United States
+Sat Jul 19 2003,Costa Rica,5-2,El Salvador,Gold Cup,Foxborough › United States
+Sat Jul 19 2003,South Africa,0-1,Zimbabwe,COSAFA Cup,East London › South Africa
+Sat Jul 19 2003,United States,5-0,Cuba,Gold Cup,Foxborough › United States
+Sun Jul 20 2003,Mexico,5-0,Jamaica,Gold Cup,Mexico City › Mexico
+Wed Jul 23 2003,United States,1-2,Brazil,Gold Cup,Miami › United States
+Thu Jul 24 2003,Mexico,2-0,Costa Rica,Gold Cup,Mexico City › Mexico
+Thu Jul 24 2003,Peru,3-4,Uruguay,Friendly,Lima › Peru
+Sat Jul 26 2003,Nigeria,1-0,Venezuela,Friendly,Watford › England
+Sat Jul 26 2003,United States,3-2,Costa Rica,Gold Cup,Miami › United States
+Sun Jul 27 2003,Mexico,1-0,Brazil,Gold Cup,Mexico City › Mexico
+Tue Jul 29 2003,Saint Kitts and Nevis,1-0,Haiti,SKN Football Festival,Basseterre › Saint Kitts and Nevis
+Wed Jul 30 2003,Uruguay,1-0,Peru,Friendly,Montevideo › Uruguay
+Thu Jul 31 2003,Haiti,2-0,Trinidad and Tobago,SKN Football Festival,Basseterre › Saint Kitts and Nevis
+Sat Aug 2 2003,Saint Kitts and Nevis,1-2,Trinidad and Tobago,SKN Football Festival,Basseterre › Saint Kitts and Nevis
+Mon Aug 4 2003,Singapore,4-1,Hong Kong,Friendly,Singapore › Singapore
+Wed Aug 13 2003,Iran,0-1,Iraq,Friendly,Teheran › Iran
+Fri Aug 15 2003,Iraq,2-5,Uruguay,Friendly,Teheran › Iran
+Sat Aug 16 2003,Malawi,1-1,Zambia,COSAFA Cup,Blantyre › Malawi
+Sat Aug 16 2003,Mayotte,1-1,Réunion,Friendly,Mamoutzou › Mayotte
+Tue Aug 19 2003,Republic of Ireland,2-1,Australia,Friendly,Dublin › Republic of Ireland
+Tue Aug 19 2003,Luxembourg,1-1,Malta,Friendly,Esch-sur-Alzette › Luxembourg
+Wed Aug 20 2003,Angola,0-2,DR Congo,Friendly,Luanda › Angola
+Wed Aug 20 2003,Argentina,3-2,Uruguay,Friendly,Florence › Italy
+Wed Aug 20 2003,Austria,2-0,Costa Rica,Friendly,Vienna › Austria
+Wed Aug 20 2003,Belarus,2-1,Iran,Friendly,Minsk › Belarus
+Wed Aug 20 2003,Belgium,1-1,Netherlands,Friendly,Brussels › Belgium
+Wed Aug 20 2003,Bulgaria,3-0,Lithuania,Friendly,Sofia › Bulgaria
+Wed Aug 20 2003,China PR,0-0,Chile,Friendly,Tianjin › China PR
+Wed Aug 20 2003,Colombia,0-0,Slovakia,Friendly,New York › United States
+Wed Aug 20 2003,Denmark,1-1,Finland,Friendly,Copenhagen › Denmark
+Wed Aug 20 2003,Ecuador,2-0,Guatemala,Friendly,Ambato › Ecuador
+Wed Aug 20 2003,England,3-1,Croatia,Friendly,Ipswich › England
+Wed Aug 20 2003,Estonia,1-2,Poland,Friendly,Tallinn › Estonia
+Wed Aug 20 2003,Faroe Islands,1-2,Iceland,UEFA Euro qualification,Tórshavn › Faroe Islands
+Wed Aug 20 2003,Germany,0-1,Italy,Friendly,Stuttgart › Germany
+Wed Aug 20 2003,Japan,3-0,Nigeria,Friendly,Tokyo › Japan
+Wed Aug 20 2003,Latvia,0-3,Uzbekistan,Friendly,Riga › Latvia
+Wed Aug 20 2003,Liechtenstein,2-2,San Marino,Friendly,Vaduz › Liechtenstein
+Wed Aug 20 2003,North Macedonia,3-1,Albania,Friendly,Prilep › North Macedonia
+Wed Aug 20 2003,Mexico,1-3,Peru,Friendly,East Rutherford › United States
+Wed Aug 20 2003,Norway,0-0,Scotland,Friendly,Oslo › Norway
+Wed Aug 20 2003,Panama,1-2,Paraguay,Friendly,Panama City › Panama
+Wed Aug 20 2003,Portugal,1-0,Kazakhstan,Friendly,Chaves › Portugal
+Wed Aug 20 2003,Russia,1-2,Israel,Friendly,Moscow › Russia
+Wed Aug 20 2003,Serbia,1-0,Wales,UEFA Euro qualification,Belgrade › Serbia and Montenegro
+Wed Aug 20 2003,Slovenia,2-1,Hungary,Friendly,Murska Sobota › Slovenia
+Wed Aug 20 2003,Sweden,1-2,Greece,Friendly,Norrköping › Sweden
+Wed Aug 20 2003,Switzerland,0-2,France,Friendly,Geneva › Switzerland
+Wed Aug 20 2003,Tunisia,0-0,Guinea,Friendly,Tunis › Tunisia
+Wed Aug 20 2003,Turkey,2-0,Moldova,Friendly,Ankara › Turkey
+Wed Aug 20 2003,Ukraine,0-2,Romania,Friendly,Donets'k › Ukraine
+Wed Aug 20 2003,Venezuela,3-2,Haiti,Friendly,Maracaibo › Venezuela
+Fri Aug 22 2003,Lebanon,1-0,Syria,Friendly,Beirut › Lebanon
+Tue Aug 26 2003,Jordan,2-1,Iraq,Friendly,Amman › Jordan
+Wed Aug 27 2003,Peru,0-0,Guatemala,Friendly,Lima › Peru
+Sun Aug 31 2003,Bolivia,3-0,Panama,Friendly,La Paz › Bolivia
+Sun Aug 31 2003,Haiti,4-3,China PR,Friendly,Fort Lauderdale › United States
+Sun Aug 31 2003,Zimbabwe,2-0,Eswatini,COSAFA Cup,Bulawayo › Zimbabwe
+Thu Sep 4 2003,Algeria,1-0,Qatar,Friendly,Dinard › France
+Thu Sep 4 2003,North Korea,0-1,Lebanon,AFC Asian Cup qualification,P'yongyang › North Korea
+Thu Sep 4 2003,Singapore,1-3,Kuwait,AFC Asian Cup qualification,Singapore › Singapore
+Fri Sep 5 2003,Iran,4-1,Jordan,AFC Asian Cup qualification,Teheran › Iran
+Sat Sep 6 2003,Andorra,0-3,Croatia,UEFA Euro qualification,Sant Julià de Lòria › Andorra
+Sat Sep 6 2003,Argentina,2-2,Chile,FIFA World Cup qualification,Buenos Aires › Argentina
+Sat Sep 6 2003,Armenia,0-1,Greece,UEFA Euro qualification,Yerevan › Armenia
+Sat Sep 6 2003,Azerbaijan,1-2,Finland,UEFA Euro qualification,Baku › Azerbaijan
+Sat Sep 6 2003,Belarus,1-3,Czech Republic,UEFA Euro qualification,Minsk › Belarus
+Sat Sep 6 2003,Bosnia and Herzegovina,1-0,Norway,UEFA Euro qualification,Zenica › Bosnia and Herzegovina
+Sat Sep 6 2003,Bulgaria,2-0,Estonia,UEFA Euro qualification,Sofia › Bulgaria
+Sat Sep 6 2003,Ecuador,2-0,Venezuela,FIFA World Cup qualification,Quito › Ecuador
+Sat Sep 6 2003,France,5-0,Cyprus,UEFA Euro qualification,Saint-Denis › France
+Sat Sep 6 2003,Georgia,3-0,Albania,UEFA Euro qualification,Tbilisi › Georgia
+Sat Sep 6 2003,Iceland,0-0,Germany,UEFA Euro qualification,Reykjavík › Iceland
+Sat Sep 6 2003,Republic of Ireland,1-1,Russia,UEFA Euro qualification,Dublin › Republic of Ireland
+Sat Sep 6 2003,Italy,4-0,Wales,UEFA Euro qualification,Milan › Italy
+Sat Sep 6 2003,Latvia,0-2,Poland,UEFA Euro qualification,Riga › Latvia
+Sat Sep 6 2003,Liechtenstein,0-3,Turkey,UEFA Euro qualification,Vaduz › Liechtenstein
+Sat Sep 6 2003,North Macedonia,1-2,England,UEFA Euro qualification,Skopje › North Macedonia
+Sat Sep 6 2003,Netherlands,3-1,Austria,UEFA Euro qualification,Rotterdam › Netherlands
+Sat Sep 6 2003,Peru,4-1,Paraguay,FIFA World Cup qualification,Lima › Peru
+Sat Sep 6 2003,Portugal,0-3,Spain,Friendly,Guimarães › Portugal
+Sat Sep 6 2003,Romania,4-0,Luxembourg,UEFA Euro qualification,Ploieşti › Romania
+Sat Sep 6 2003,Scotland,3-1,Faroe Islands,UEFA Euro qualification,Glasgow › Scotland
+Sat Sep 6 2003,Slovenia,3-1,Israel,UEFA Euro qualification,Ljubljana › Slovenia
+Sat Sep 6 2003,Eswatini,0-3,Botswana,Friendly,Mbabane › Eswatini
+Sat Sep 6 2003,Sweden,5-0,San Marino,UEFA Euro qualification,Gothenburg › Sweden
+Sat Sep 6 2003,Ukraine,0-0,Northern Ireland,UEFA Euro qualification,Donets'k › Ukraine
+Sun Sep 7 2003,Angola,2-0,Namibia,Friendly,Luanda › Angola
+Sun Sep 7 2003,Australia,2-1,Jamaica,Friendly,Reading › England
+Sun Sep 7 2003,Colombia,1-2,Brazil,FIFA World Cup qualification,Barranquilla › Colombia
+Sun Sep 7 2003,Costa Rica,2-0,China PR,Friendly,Fort Lauderdale › United States
+Sun Sep 7 2003,Uruguay,5-0,Bolivia,FIFA World Cup qualification,Montevideo › Uruguay
+Tue Sep 9 2003,Chile,2-1,Peru,FIFA World Cup qualification,Santiago › Chile
+Tue Sep 9 2003,Republic of Ireland,2-2,Turkey,Friendly,Dublin › Republic of Ireland
+Tue Sep 9 2003,Venezuela,0-3,Argentina,FIFA World Cup qualification,Caracas › Venezuela
+Wed Sep 10 2003,Albania,3-1,Georgia,UEFA Euro qualification,Tirana › Albania
+Wed Sep 10 2003,Andorra,0-3,Bulgaria,UEFA Euro qualification,Sant Julià de Lòria › Andorra
+Wed Sep 10 2003,Belgium,2-1,Croatia,UEFA Euro qualification,Brussels › Belgium
+Wed Sep 10 2003,Bolivia,4-0,Colombia,FIFA World Cup qualification,La Paz › Bolivia
+Wed Sep 10 2003,Brazil,1-0,Ecuador,FIFA World Cup qualification,Manaus › Brazil
+Wed Sep 10 2003,Czech Republic,3-1,Netherlands,UEFA Euro qualification,Prague › Czech Republic
+Wed Sep 10 2003,Denmark,2-2,Romania,UEFA Euro qualification,Copenhagen › Denmark
+Wed Sep 10 2003,England,2-0,Liechtenstein,UEFA Euro qualification,Manchester › England
+Wed Sep 10 2003,Faroe Islands,1-3,Lithuania,UEFA Euro qualification,Toftir › Faroe Islands
+Wed Sep 10 2003,Germany,2-1,Scotland,UEFA Euro qualification,Dortmund › Germany
+Wed Sep 10 2003,Israel,2-2,Malta,UEFA Euro qualification,Antalya › Turkey
+Wed Sep 10 2003,Japan,0-1,Senegal,Friendly,Niigata › Japan
+Wed Sep 10 2003,Latvia,3-1,Hungary,UEFA Euro qualification,Riga › Latvia
+Wed Sep 10 2003,Luxembourg,0-1,Bosnia and Herzegovina,UEFA Euro qualification,Luxembourg › Luxembourg
+Wed Sep 10 2003,Moldova,2-1,Belarus,UEFA Euro qualification,Tiraspol › Moldova
+Wed Sep 10 2003,Morocco,2-0,Trinidad and Tobago,Friendly,Marrakech › Morocco
+Wed Sep 10 2003,Northern Ireland,0-1,Armenia,UEFA Euro qualification,Belfast › Northern Ireland
+Wed Sep 10 2003,Norway,0-1,Portugal,Friendly,Oslo › Norway
+Wed Sep 10 2003,Oman,1-0,Bahrain,Friendly,Muscat › Oman
+Wed Sep 10 2003,Paraguay,4-1,Uruguay,FIFA World Cup qualification,Asunción › Paraguay
+Wed Sep 10 2003,Poland,0-2,Sweden,UEFA Euro qualification,Chorzów › Poland
+Wed Sep 10 2003,Russia,4-1,Switzerland,UEFA Euro qualification,Moscow › Russia
+Wed Sep 10 2003,Serbia,1-1,Italy,UEFA Euro qualification,Belgrade › Serbia and Montenegro
+Wed Sep 10 2003,Slovakia,1-1,North Macedonia,UEFA Euro qualification,Žilina › Slovakia
+Wed Sep 10 2003,Slovenia,0-2,France,UEFA Euro qualification,Ljubljana › Slovenia
+Wed Sep 10 2003,Spain,2-1,Ukraine,UEFA Euro qualification,Elche › Spain
+Wed Sep 10 2003,Tunisia,3-2,Ivory Coast,Friendly,Tunis › Tunisia
+Wed Sep 10 2003,Wales,1-1,Finland,UEFA Euro qualification,Cardiff › Wales
+Sun Sep 14 2003,Kuwait,2-1,Qatar,AFC Asian Cup qualification,Kuwait City › Kuwait
+Sun Sep 14 2003,Rwanda,0-1,Kenya,Friendly,Kigali › Rwanda
+Tue Sep 16 2003,Singapore,1-3,Oman,Friendly,Singapore › Singapore
+Wed Sep 17 2003,Yemen,3-2,Sudan,Friendly,Sana'a › Yemen
+Fri Sep 19 2003,Bahrain,4-3,Lebanon,Friendly,Manama › Bahrain
+Fri Sep 19 2003,Jordan,0-0,Syria,Friendly,Amman › Jordan
+Fri Sep 19 2003,Yemen,1-2,Sudan,Friendly,Sana'a › Yemen
+Sat Sep 20 2003,Namibia,1-3,Angola,Friendly,Windhoek › Namibia
+Sat Sep 20 2003,Qatar,2-2,Kuwait,AFC Asian Cup qualification,Doha › Qatar
+Wed Sep 24 2003,Algeria,2-2,Gabon,Friendly,Algiers › Algeria
+Wed Sep 24 2003,Benin,0-1,Burkina Faso,Friendly,Algiers › Algeria
+Wed Sep 24 2003,Qatar,1-1,Palestine,AFC Asian Cup qualification,Doha › Qatar
+Thu Sep 25 2003,South Korea,5-0,Vietnam,AFC Asian Cup qualification,Incheon › South Korea
+Thu Sep 25 2003,Nepal,0-7,Oman,AFC Asian Cup qualification,Incheon › South Korea
+Fri Sep 26 2003,Algeria,0-0,Burkina Faso,Friendly,Algiers › Algeria
+Fri Sep 26 2003,Benin,0-4,Gabon,Friendly,Algiers › Algeria
+Fri Sep 26 2003,Jordan,3-2,Iran,AFC Asian Cup qualification,Amman › Jordan
+Fri Sep 26 2003,Malaysia,1-1,Indonesia,Friendly,Kuala Lumpur › Malaysia
+Sat Sep 27 2003,South Korea,1-0,Oman,AFC Asian Cup qualification,Incheon › South Korea
+Sat Sep 27 2003,Kuwait,4-0,Singapore,AFC Asian Cup qualification,Kuwait City › Kuwait
+Sat Sep 27 2003,Malawi,1-2,Zimbabwe,COSAFA Cup,Blantyre › Malawi
+Sat Sep 27 2003,Qatar,2-1,Palestine,AFC Asian Cup qualification,Doha › Qatar
+Sat Sep 27 2003,Syria,8-2,Yemen,Friendly,Jeddah › Saudi Arabia
+Sat Sep 27 2003,Vietnam,5-0,Nepal,AFC Asian Cup qualification,Incheon › South Korea
+Mon Sep 29 2003,South Korea,16-0,Nepal,AFC Asian Cup qualification,Incheon › South Korea
+Mon Sep 29 2003,Vietnam,0-6,Oman,AFC Asian Cup qualification,Incheon › South Korea
+Tue Sep 30 2003,Saudi Arabia,1-1,Syria,Friendly,Riyadh › Saudi Arabia
+Sat Oct 4 2003,Lesotho,5-2,Eswatini,Friendly,Maseru › Lesotho
+Sun Oct 5 2003,Kuwait,2-1,Palestine,AFC Asian Cup qualification,Kuwait City › Kuwait
+Sun Oct 5 2003,Zimbabwe,2-0,Malawi,COSAFA Cup,Harare › Zimbabwe
+Mon Oct 6 2003,Indonesia,2-0,Bhutan,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Mon Oct 6 2003,Saudi Arabia,7-0,Yemen,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Wed Oct 8 2003,Iraq,5-1,Bahrain,AFC Asian Cup qualification,Kuala Lumpur › Malaysia
+Wed Oct 8 2003,Kuwait,4-0,Palestine,AFC Asian Cup qualification,Kuwait City › Kuwait
+Wed Oct 8 2003,Lesotho,0-3,South Africa,Friendly,Maseru › Lesotho
+Wed Oct 8 2003,Malaysia,4-0,Burma,AFC Asian Cup qualification,Kuala Lumpur › Malaysia
+Wed Oct 8 2003,Oman,2-1,Jordan,Friendly,Muscat › Oman
+Wed Oct 8 2003,Saudi Arabia,6-0,Bhutan,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Wed Oct 8 2003,Tunisia,0-1,Japan,Friendly,Tunis › Tunisia
+Wed Oct 8 2003,Yemen,0-3,Indonesia,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Fri Oct 10 2003,Bhutan,0-8,Yemen,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Fri Oct 10 2003,Burma,1-3,Bahrain,AFC Asian Cup qualification,Kuala Lumpur › Malaysia
+Fri Oct 10 2003,Egypt,1-0,Senegal,Friendly,Cairo › Egypt
+Fri Oct 10 2003,Guinea-Bissau,1-2,Mali,FIFA World Cup qualification,Bissau › Guinea-Bissau
+Fri Oct 10 2003,Malaysia,0-0,Iraq,AFC Asian Cup qualification,Kuala Lumpur › Malaysia
+Fri Oct 10 2003,Saudi Arabia,5-0,Indonesia,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Sat Oct 11 2003,Armenia,0-4,Spain,UEFA Euro qualification,Yerevan › Armenia
+Sat Oct 11 2003,Austria,2-3,Czech Republic,UEFA Euro qualification,Vienna › Austria
+Sat Oct 11 2003,Belgium,2-0,Estonia,UEFA Euro qualification,Liège › Belgium
+Sat Oct 11 2003,Bolivia,1-0,Honduras,Friendly,Washington › United States
+Sat Oct 11 2003,Bosnia and Herzegovina,1-1,Denmark,UEFA Euro qualification,Sarajevo › Bosnia and Herzegovina
+Sat Oct 11 2003,Botswana,4-1,Lesotho,FIFA World Cup qualification,Gaborone › Botswana
+Sat Oct 11 2003,Croatia,1-0,Bulgaria,UEFA Euro qualification,Zagreb › Croatia
+Sat Oct 11 2003,Cyprus,2-2,Slovenia,UEFA Euro qualification,Limassol › Cyprus
+Sat Oct 11 2003,Equatorial Guinea,1-0,Togo,FIFA World Cup qualification,Bata › Equatorial Guinea
+Sat Oct 11 2003,Finland,3-2,Canada,Friendly,Tampere › Finland
+Sat Oct 11 2003,France,3-0,Israel,UEFA Euro qualification,Saint-Denis › France
+Sat Oct 11 2003,Germany,3-0,Iceland,UEFA Euro qualification,Hamburg › Germany
+Sat Oct 11 2003,Greece,1-0,Northern Ireland,UEFA Euro qualification,Athens › Greece
+Sat Oct 11 2003,Hungary,1-2,Poland,UEFA Euro qualification,Budapest › Hungary
+Sat Oct 11 2003,Italy,4-0,Azerbaijan,UEFA Euro qualification,Reggio di Calabria › Italy
+Sat Oct 11 2003,Liechtenstein,0-2,Slovakia,UEFA Euro qualification,Vaduz › Liechtenstein
+Sat Oct 11 2003,Madagascar,1-1,Benin,FIFA World Cup qualification,Antananarivo › Madagascar
+Sat Oct 11 2003,Netherlands,5-0,Moldova,UEFA Euro qualification,Eindhoven › Netherlands
+Sat Oct 11 2003,Niger,0-1,Algeria,FIFA World Cup qualification,Niamey › Niger
+Sat Oct 11 2003,Norway,1-0,Luxembourg,UEFA Euro qualification,Oslo › Norway
+Sat Oct 11 2003,Portugal,5-3,Albania,Friendly,Lisbon › Portugal
+Sat Oct 11 2003,Romania,1-1,Japan,Friendly,Bucharest › Romania
+Sat Oct 11 2003,Russia,3-1,Georgia,UEFA Euro qualification,Moscow › Russia
+Sat Oct 11 2003,São Tomé and Príncipe,0-1,Libya,FIFA World Cup qualification,São Tomé › São Tomé and Príncipe
+Sat Oct 11 2003,Scotland,1-0,Lithuania,UEFA Euro qualification,Glasgow › Scotland
+Sat Oct 11 2003,Seychelles,0-4,Zambia,FIFA World Cup qualification,Victoria › Seychelles
+Sat Oct 11 2003,South Africa,2-1,Costa Rica,Friendly,Potchefstroom › South Africa
+Sat Oct 11 2003,Sweden,0-1,Latvia,UEFA Euro qualification,Solna › Sweden
+Sat Oct 11 2003,Switzerland,2-0,Republic of Ireland,UEFA Euro qualification,Basel › Switzerland
+Sat Oct 11 2003,Tanzania,0-0,Kenya,FIFA World Cup qualification,Dar es Salaam › Tanzania
+Sat Oct 11 2003,Tunisia,0-0,Morocco,Friendly,Tunis › Tunisia
+Sat Oct 11 2003,Turkey,0-0,England,UEFA Euro qualification,Istanbul › Turkey
+Sat Oct 11 2003,Uganda,3-0,Mauritius,FIFA World Cup qualification,Kampala › Uganda
+Sat Oct 11 2003,Ukraine,0-0,North Macedonia,Friendly,Kyïv › Ukraine
+Sat Oct 11 2003,United Arab Emirates,2-2,Uzbekistan,Friendly,Dubai › United Arab Emirates
+Sat Oct 11 2003,Wales,2-3,Serbia,UEFA Euro qualification,Cardiff › Wales
+Sat Oct 11 2003,Kernow,1-0,Jersey,Friendly,Cornwall › England
+Sun Oct 12 2003,Brazil,1-0,Jamaica,Friendly,Leicester › England
+Sun Oct 12 2003,Burundi,0-0,Gabon,FIFA World Cup qualification,Bujumbura › Burundi
+Sun Oct 12 2003,Chad,3-1,Angola,FIFA World Cup qualification,N'Djamena › Chad
+Sun Oct 12 2003,Congo,1-0,Sierra Leone,FIFA World Cup qualification,Brazzaville › Congo
+Sun Oct 12 2003,Ethiopia,1-3,Malawi,FIFA World Cup qualification,Addis Abeba › Ethiopia
+Sun Oct 12 2003,Gambia,2-0,Liberia,FIFA World Cup qualification,Bakau › Gambia
+Sun Oct 12 2003,Guinea,1-0,Mozambique,FIFA World Cup qualification,Conakry › Guinea
+Sun Oct 12 2003,Iran,3-0,New Zealand,Friendly,Teheran › Iran
+Sun Oct 12 2003,Iraq,3-0,Burma,AFC Asian Cup qualification,Kuala Lumpur › Malaysia
+Sun Oct 12 2003,Malaysia,2-2,Bahrain,AFC Asian Cup qualification,Kuala Lumpur › Malaysia
+Sun Oct 12 2003,Rwanda,3-0,Namibia,FIFA World Cup qualification,Kigali › Rwanda
+Sun Oct 12 2003,Sudan,3-0,Eritrea,FIFA World Cup qualification,Khartoum › Sudan
+Sun Oct 12 2003,Eswatini,1-1,Cape Verde,FIFA World Cup qualification,Lobamba › Eswatini
+Sun Oct 12 2003,Zimbabwe,3-0,Mauritania,FIFA World Cup qualification,Harare › Zimbabwe
+Mon Oct 13 2003,Bhutan,0-2,Indonesia,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Mon Oct 13 2003,Saudi Arabia,3-1,Yemen,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Wed Oct 15 2003,Indonesia,2-2,Yemen,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Wed Oct 15 2003,Mexico,0-2,Uruguay,Friendly,Chicago › United States
+Wed Oct 15 2003,Saudi Arabia,4-0,Bhutan,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Wed Oct 15 2003,Syria,5-0,Sri Lanka,AFC Asian Cup qualification,Damascus › Syria
+Thu Oct 16 2003,Thailand,2-0,India,Friendly,Bangkok › Thailand
+Fri Oct 17 2003,Jordan,1-0,Lebanon,AFC Asian Cup qualification,Amman › Jordan
+Fri Oct 17 2003,Saudi Arabia,6-0,Indonesia,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Fri Oct 17 2003,Yemen,4-0,Bhutan,AFC Asian Cup qualification,Jeddah › Saudi Arabia
+Sat Oct 18 2003,Syria,8-0,Sri Lanka,AFC Asian Cup qualification,Damascus › Syria
+Sun Oct 19 2003,Oman,6-0,Nepal,AFC Asian Cup qualification,Muscat › Oman
+Sun Oct 19 2003,Singapore,2-0,Palestine,AFC Asian Cup qualification,Singapore › Singapore
+Sun Oct 19 2003,Turkmenistan,1-0,United Arab Emirates,AFC Asian Cup qualification,Ashgabat › Turkmenistan
+Sun Oct 19 2003,Vietnam,1-0,South Korea,AFC Asian Cup qualification,Muscat › Oman
+Mon Oct 20 2003,Bahrain,4-0,Burma,AFC Asian Cup qualification,Riffa › Bahrain
+Mon Oct 20 2003,Iraq,5-1,Malaysia,AFC Asian Cup qualification,Riffa › Bahrain
+Tue Oct 21 2003,Nepal,0-2,Vietnam,AFC Asian Cup qualification,Muscat › Oman
+Tue Oct 21 2003,Oman,3-1,South Korea,AFC Asian Cup qualification,Muscat › Oman
+Wed Oct 22 2003,Bahrain,3-1,Malaysia,AFC Asian Cup qualification,Riffa › Bahrain
+Wed Oct 22 2003,Burma,1-3,Iraq,AFC Asian Cup qualification,Riffa › Bahrain
+Wed Oct 22 2003,India,3-1,Rwanda,Friendly,Hyderabad › India
+Wed Oct 22 2003,Singapore,0-0,Palestine,AFC Asian Cup qualification,Singapore › Singapore
+Thu Oct 23 2003,Burkina Faso,1-4,Zimbabwe,Friendly,Hyderabad › India
+Fri Oct 24 2003,Bahrain,1-0,Iraq,AFC Asian Cup qualification,Riffa › Bahrain
+Fri Oct 24 2003,Burma,2-1,Malaysia,AFC Asian Cup qualification,Riffa › Bahrain
+Fri Oct 24 2003,Nepal,0-7,South Korea,AFC Asian Cup qualification,Muscat › Oman
+Fri Oct 24 2003,Oman,2-0,Vietnam,AFC Asian Cup qualification,Muscat › Oman
+Mon Oct 27 2003,North Korea,1-3,Iran,AFC Asian Cup qualification,P'yongyang › North Korea
+Wed Oct 29 2003,India,5-3,Zimbabwe,Friendly,Hyderabad › India
+Thu Oct 30 2003,United Arab Emirates,1-1,Turkmenistan,AFC Asian Cup qualification,Sharjah › United Arab Emirates
+Fri Oct 31 2003,Rwanda,2-2,Zimbabwe,Friendly,Hyderabad › India
+Mon Nov 3 2003,Lebanon,1-1,North Korea,AFC Asian Cup qualification,Beirut › Lebanon
+Thu Nov 6 2003,Thailand,0-1,Tajikistan,AFC Asian Cup qualification,Tashkent › Uzbekistan
+Thu Nov 6 2003,Uzbekistan,4-1,Hong Kong,AFC Asian Cup qualification,Tashkent › Uzbekistan
+Fri Nov 7 2003,Syria,1-3,United Arab Emirates,AFC Asian Cup qualification,Damascus › Syria
+Sat Nov 8 2003,Gabon,0-0,Burkina Faso,Friendly,Moanda › Gabon
+Sat Nov 8 2003,Hong Kong,0-0,Tajikistan,AFC Asian Cup qualification,Tashkent › Uzbekistan
+Sat Nov 8 2003,Uzbekistan,3-0,Thailand,AFC Asian Cup qualification,Tashkent › Uzbekistan
+Sun Nov 9 2003,Mozambique,2-0,Eswatini,Friendly,Maputo › Mozambique
+Sun Nov 9 2003,Turkmenistan,1-0,Sri Lanka,AFC Asian Cup qualification,Balkanabat › Turkmenistan
+Mon Nov 10 2003,Hong Kong,2-1,Thailand,AFC Asian Cup qualification,Tashkent › Uzbekistan
+Mon Nov 10 2003,Uzbekistan,0-0,Tajikistan,AFC Asian Cup qualification,Tashkent › Uzbekistan
+Tue Nov 11 2003,Uganda,2-1,Tanzania,Friendly,Kampala › Uganda
+Wed Nov 12 2003,Equatorial Guinea,3-1,São Tomé and Príncipe,Friendly,Malabo › Equatorial Guinea
+Wed Nov 12 2003,Iran,3-0,North Korea,AFC Asian Cup qualification,Teheran › Iran
+Wed Nov 12 2003,Lebanon,0-2,Jordan,AFC Asian Cup qualification,Beirut › Lebanon
+Wed Nov 12 2003,Poland,3-1,Italy,Friendly,Warsaw › Poland
+Wed Nov 12 2003,Turkmenistan,3-0,Sri Lanka,AFC Asian Cup qualification,Ashgabat › Turkmenistan
+Fri Nov 14 2003,Algeria,6-0,Niger,FIFA World Cup qualification,Algiers › Algeria
+Fri Nov 14 2003,Mali,2-0,Guinea-Bissau,FIFA World Cup qualification,Bamako › Mali
+Fri Nov 14 2003,Mauritania,2-1,Zimbabwe,FIFA World Cup qualification,Nouakchott › Mauritania
+Fri Nov 14 2003,United Arab Emirates,3-1,Syria,AFC Asian Cup qualification,Sharjah › United Arab Emirates
+Sat Nov 15 2003,Albania,2-0,Estonia,Friendly,Tirana › Albania
+Sat Nov 15 2003,Argentina,3-0,Bolivia,FIFA World Cup qualification,Buenos Aires › Argentina
+Sat Nov 15 2003,Colombia,0-1,Venezuela,FIFA World Cup qualification,Barranquilla › Colombia
+Sat Nov 15 2003,Croatia,1-1,Slovenia,UEFA Euro qualification,Zagreb › Croatia
+Sat Nov 15 2003,Czech Republic,5-1,Canada,Friendly,Teplice › Czech Republic
+Sat Nov 15 2003,Egypt,2-1,South Africa,Friendly,Cairo › Egypt
+Sat Nov 15 2003,Gabon,4-1,Burundi,FIFA World Cup qualification,Libreville › Gabon
+Sat Nov 15 2003,Germany,0-3,France,Friendly,Gelsenkirchen › Germany
+Sat Nov 15 2003,Kenya,3-0,Tanzania,FIFA World Cup qualification,Nairobi › Kenya
+Sat Nov 15 2003,Latvia,1-0,Turkey,UEFA Euro qualification,Riga › Latvia
+Sat Nov 15 2003,Malawi,0-0,Ethiopia,FIFA World Cup qualification,Blantyre › Malawi
+Sat Nov 15 2003,Morocco,1-0,Burkina Faso,Friendly,Meknès › Morocco
+Sat Nov 15 2003,Namibia,1-1,Rwanda,FIFA World Cup qualification,Windhoek › Namibia
+Sat Nov 15 2003,Paraguay,2-1,Ecuador,FIFA World Cup qualification,Asunción › Paraguay
+Sat Nov 15 2003,Portugal,1-1,Greece,Friendly,Aveiro › Portugal
+Sat Nov 15 2003,Russia,0-0,Wales,UEFA Euro qualification,Moscow › Russia
+Sat Nov 15 2003,Scotland,1-0,Netherlands,UEFA Euro qualification,Glasgow › Scotland
+Sat Nov 15 2003,Senegal,1-0,Ivory Coast,Friendly,Dakar › Senegal
+Sat Nov 15 2003,Spain,2-1,Norway,UEFA Euro qualification,Valencia › Spain
+Sat Nov 15 2003,Uruguay,2-1,Chile,FIFA World Cup qualification,Montevideo › Uruguay
+Sat Nov 15 2003,Zambia,1-1,Seychelles,FIFA World Cup qualification,Lusaka › Zambia
+Sun Nov 16 2003,Angola,2-0,Chad,FIFA World Cup qualification,Luanda › Angola
+Sun Nov 16 2003,Benin,3-2,Madagascar,FIFA World Cup qualification,Cotonou › Benin
+Sun Nov 16 2003,Cape Verde,3-0,Eswatini,FIFA World Cup qualification,Praia › Cape Verde
+Sun Nov 16 2003,England,2-3,Denmark,Friendly,Manchester › England
+Sun Nov 16 2003,Eritrea,0-0,Sudan,FIFA World Cup qualification,Asmara › Eritrea
+Sun Nov 16 2003,Ghana,5-0,Somalia,FIFA World Cup qualification,Accra › Ghana
+Sun Nov 16 2003,Honduras,1-2,Finland,Friendly,Houston › United States
+Sun Nov 16 2003,Italy,1-0,Romania,Friendly,Ancona › Italy
+Sun Nov 16 2003,Jamaica,3-0,El Salvador,Friendly,Kingston › Jamaica
+Sun Nov 16 2003,Lesotho,0-0,Botswana,FIFA World Cup qualification,Maseru › Lesotho
+Sun Nov 16 2003,Liberia,3-0,Gambia,FIFA World Cup qualification,Monrovia › Liberia
+Sun Nov 16 2003,Libya,8-0,São Tomé and Príncipe,FIFA World Cup qualification,Benghazi › Libya
+Sun Nov 16 2003,Mauritius,3-1,Uganda,FIFA World Cup qualification,Curepipe › Mauritius
+Sun Nov 16 2003,Mozambique,3-4,Guinea,FIFA World Cup qualification,Maputo › Mozambique
+Sun Nov 16 2003,Peru,1-1,Brazil,FIFA World Cup qualification,Lima › Peru
+Sun Nov 16 2003,Poland,4-3,Serbia,Friendly,Płock › Poland
+Sun Nov 16 2003,Sierra Leone,1-1,Congo,FIFA World Cup qualification,Freetown › Sierra Leone
+Sun Nov 16 2003,Togo,2-0,Equatorial Guinea,FIFA World Cup qualification,Lomé › Togo
+Mon Nov 17 2003,Tajikistan,1-4,Uzbekistan,AFC Asian Cup qualification,Bangkok › Thailand
+Mon Nov 17 2003,Thailand,4-0,Hong Kong,AFC Asian Cup qualification,Bangkok › Thailand
+Tue Nov 18 2003,Chile,0-1,Paraguay,FIFA World Cup qualification,Santiago › Chile
+Tue Nov 18 2003,Egypt,1-0,Sweden,Friendly,Cairo › Egypt
+Tue Nov 18 2003,Republic of Ireland,3-0,Canada,Friendly,Dublin › Republic of Ireland
+Tue Nov 18 2003,Jordan,3-0,North Korea,AFC Asian Cup qualification,Amman › Jordan
+Tue Nov 18 2003,South Korea,0-1,Bulgaria,Friendly,Seoul › South Korea
+Tue Nov 18 2003,United Arab Emirates,3-1,Sri Lanka,AFC Asian Cup qualification,Dubai › United Arab Emirates
+Tue Nov 18 2003,Venezuela,2-1,Bolivia,FIFA World Cup qualification,Maracaibo › Venezuela
+Wed Nov 19 2003,Brazil,3-3,Uruguay,FIFA World Cup qualification,Curitiba › Brazil
+Wed Nov 19 2003,Colombia,1-1,Argentina,FIFA World Cup qualification,Barranquilla › Colombia
+Wed Nov 19 2003,Costa Rica,2-1,Finland,Friendly,Alajuela › Costa Rica
+Wed Nov 19 2003,Ecuador,0-0,Peru,FIFA World Cup qualification,Quito › Ecuador
+Wed Nov 19 2003,Ghana,2-0,Somalia,FIFA World Cup qualification,Kumasi › Ghana
+Wed Nov 19 2003,Hong Kong,0-1,Uzbekistan,AFC Asian Cup qualification,Bangkok › Thailand
+Wed Nov 19 2003,Hungary,0-1,Estonia,Friendly,Budapest › Hungary
+Wed Nov 19 2003,Japan,0-0,Cameroon,Friendly,Ōita › Japan
+Wed Nov 19 2003,Lebanon,0-3,Iran,AFC Asian Cup qualification,Beirut › Lebanon
+Wed Nov 19 2003,Mexico,0-0,Iceland,Friendly,San Francisco › United States
+Wed Nov 19 2003,Morocco,0-1,Mali,Friendly,Casablanca › Morocco
+Wed Nov 19 2003,Netherlands,6-0,Scotland,UEFA Euro qualification,Amsterdam › Netherlands
+Wed Nov 19 2003,Norway,0-3,Spain,UEFA Euro qualification,Oslo › Norway
+Wed Nov 19 2003,Portugal,8-0,Kuwait,Friendly,Leiria › Portugal
+Wed Nov 19 2003,Qatar,2-0,Singapore,AFC Asian Cup qualification,Doha › Qatar
+Wed Nov 19 2003,Slovenia,0-1,Croatia,UEFA Euro qualification,Ljubljana › Slovenia
+Wed Nov 19 2003,Thailand,1-0,Tajikistan,AFC Asian Cup qualification,Bangkok › Thailand
+Wed Nov 19 2003,Trinidad and Tobago,2-1,Cuba,Friendly,Port of Spain › Trinidad and Tobago
+Wed Nov 19 2003,Tunisia,2-0,South Africa,Friendly,Tunis › Tunisia
+Wed Nov 19 2003,Turkey,2-2,Latvia,UEFA Euro qualification,Istanbul › Turkey
+Wed Nov 19 2003,Turkmenistan,11-0,Afghanistan,FIFA World Cup qualification,Ashgabat › Turkmenistan
+Wed Nov 19 2003,Wales,0-1,Russia,UEFA Euro qualification,Cardiff › Wales
+Thu Nov 20 2003,Luxembourg,1-2,Moldova,Friendly,Hesperange › Luxembourg
+Fri Nov 21 2003,Tajikistan,1-0,Hong Kong,AFC Asian Cup qualification,Bangkok › Thailand
+Fri Nov 21 2003,Thailand,4-1,Uzbekistan,AFC Asian Cup qualification,Bangkok › Thailand
+Sat Nov 22 2003,United Arab Emirates,3-0,Sri Lanka,AFC Asian Cup qualification,Dubai › United Arab Emirates
+Sun Nov 23 2003,Afghanistan,0-2,Turkmenistan,FIFA World Cup qualification,Kabul › Afghanistan
+Wed Nov 26 2003,Bangladesh,0-2,Tajikistan,FIFA World Cup qualification,Dhaka › Bangladesh
+Fri Nov 28 2003,Iran,1-0,Lebanon,AFC Asian Cup qualification,Teheran › Iran
+Fri Nov 28 2003,Syria,1-1,Turkmenistan,AFC Asian Cup qualification,Aleppo › Syria
+Sat Nov 29 2003,Laos,0-0,Sri Lanka,FIFA World Cup qualification,Vientiane › Laos
+Sat Nov 29 2003,Macau,1-3,Chinese Taipei,FIFA World Cup qualification,Macau › Macau
+Sat Nov 29 2003,Mongolia,0-1,Maldives,FIFA World Cup qualification,Ulaanbaatar › Mongolia
+Sat Nov 29 2003,Pakistan,0-2,Kyrgyzstan,FIFA World Cup qualification,Karachi › Pakistan
+Sat Nov 29 2003,Singapore,0-2,Qatar,Friendly,Singapore › Singapore
+Sun Nov 30 2003,Sudan,4-0,Zanzibar,CECAFA Cup,Khartoum › Sudan
+Sun Nov 30 2003,Tajikistan,2-0,Bangladesh,FIFA World Cup qualification,Dushanbe › Tajikistan
+Sun Nov 30 2003,Uganda,2-1,Eritrea,CECAFA Cup,Kassala › Sudan
+Tue Dec 2 2003,Kenya,3-2,Eritrea,CECAFA Cup,Kassala › Sudan
+Tue Dec 2 2003,Rwanda,2-2,Zanzibar,CECAFA Cup,Khartoum › Sudan
+Wed Dec 3 2003,Kyrgyzstan,4-0,Pakistan,FIFA World Cup qualification,Bishkek › Kyrgyzstan
+Wed Dec 3 2003,Maldives,12-0,Mongolia,FIFA World Cup qualification,Malé › Maldives
+Wed Dec 3 2003,Sri Lanka,3-0,Laos,FIFA World Cup qualification,Colombo › Sri Lanka
+Thu Dec 4 2003,Hong Kong,1-3,South Korea,EAFF Championship,Tokyo › Japan
+Thu Dec 4 2003,Japan,2-0,China PR,EAFF Championship,Tokyo › Japan
+Thu Dec 4 2003,Sudan,3-0,Rwanda,CECAFA Cup,Khartoum › Sudan
+Thu Dec 4 2003,Uganda,1-1,Kenya,CECAFA Cup,Kassala › Sudan
+Fri Dec 5 2003,Congo,3-2,Gabon,Friendly,Brazzaville › Congo
+Sun Dec 7 2003,South Korea,1-0,China PR,EAFF Championship,Saitama › Japan
+Mon Dec 8 2003,Kenya,1-1,Rwanda,CECAFA Cup,Khartoum › Sudan
+Mon Dec 8 2003,Sudan,0-0,Uganda,CECAFA Cup,Khartoum › Sudan
+Tue Dec 9 2003,Congo,1-1,Gabon,Friendly,Brazzaville › Congo
+Wed Dec 10 2003,China PR,3-1,Hong Kong,EAFF Championship,Yokohama › Japan
+Wed Dec 10 2003,Japan,0-0,South Korea,EAFF Championship,Yokohama › Japan
+Wed Dec 10 2003,Sudan,1-2,Kenya,CECAFA Cup,Khartoum › Sudan
+Wed Dec 10 2003,Uganda,2-0,Rwanda,CECAFA Cup,Khartoum › Sudan
+Thu Dec 11 2003,Central African Republic,2-0,Gabon,Friendly,Brazzaville › Congo
+Thu Dec 11 2003,Malta,0-4,Poland,Friendly,Attard › Malta
+Fri Dec 12 2003,Bahrain,2-2,Iraq,Prime Minister's Cup,Riffa › Bahrain
+Fri Dec 12 2003,Kenya,0-1,Egypt,Prime Minister's Cup,Riffa › Bahrain
+Sat Dec 13 2003,Botswana,0-2,Zimbabwe,Friendly,Selebi-Phikwe › Botswana
+Sat Dec 13 2003,Congo,1-0,Gabon,Friendly,Brazzaville › Congo
+Sun Dec 14 2003,Lithuania,1-3,Poland,Friendly,Attard › Malta
+Sun Dec 14 2003,United Arab Emirates,3-3,Azerbaijan,Friendly,Dubai › United Arab Emirates
+Mon Dec 15 2003,Bahrain,0-1,Egypt,Prime Minister's Cup,Riffa › Bahrain
+Mon Dec 15 2003,Iraq,2-0,Kenya,Prime Minister's Cup,Riffa › Bahrain
+Tue Dec 16 2003,Kuwait,2-0,Lebanon,Friendly,Paphos › Cyprus
+Thu Dec 18 2003,Bahrain,2-1,Kenya,Prime Minister's Cup,Riffa › Bahrain
+Thu Dec 18 2003,Egypt,2-0,Iraq,Prime Minister's Cup,Riffa › Bahrain
+Thu Dec 18 2003,Kuwait,0-0,Lebanon,Friendly,Paphos › Cyprus
+Sat Dec 20 2003,Latvia,0-2,Kuwait,Friendly,Paphos › Cyprus
+Sat Dec 20 2003,Oman,3-1,Estonia,Friendly,Muscat › Oman
+Sat Dec 20 2003,Saudi Arabia,1-0,Azerbaijan,Friendly,Riyadh › Saudi Arabia
+Sun Dec 21 2003,Qatar,0-0,Iraq,Friendly,Doha › Qatar
+Sun Dec 21 2003,United Arab Emirates,2-2,Kenya,Friendly,Abu Dhabi › United Arab Emirates
+Fri Dec 26 2003,Bermuda,1-2,Barbados,Friendly,Hamilton › Bermuda
+Fri Dec 26 2003,Kuwait,0-0,Oman,Gulf Cup,Kuwait City › Kuwait
+Fri Dec 26 2003,United Arab Emirates,0-2,Saudi Arabia,Gulf Cup,Kuwait City › Kuwait
+Sat Dec 27 2003,Bahamas,0-6,Haiti,Friendly,Miami › United States
+Sat Dec 27 2003,Bahrain,0-0,Qatar,Gulf Cup,Kuwait City › Kuwait
+Sat Dec 27 2003,Basque Country,2-1,Uruguay,Friendly,Bilbao › Spain
+Sat Dec 27 2003,Andalusia,1-0,Latvia,Friendly,Huelva › Spain
+Sun Dec 28 2003,Yemen,1-1,Oman,Gulf Cup,Kuwait City › Kuwait
+Sun Dec 28 2003,Catalonia,4-2,Ecuador,Friendly,Barcelona › Spain
+Mon Dec 29 2003,Kuwait,0-2,United Arab Emirates,Gulf Cup,Kuwait City › Kuwait
+Mon Dec 29 2003,Saudi Arabia,0-0,Qatar,Gulf Cup,Kuwait City › Kuwait
+Tue Dec 30 2003,Bahrain,5-1,Yemen,Gulf Cup,Kuwait City › Kuwait
+Wed Dec 31 2003,Oman,2-0,United Arab Emirates,Gulf Cup,Kuwait City › Kuwait

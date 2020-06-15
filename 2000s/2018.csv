@@ -1,0 +1,906 @@
+Date,Team 1,Score,Team 2,Tournament,City
+Tue Jan 2 2018,Iraq,0-0,United Arab Emirates,Gulf Cup,Kuwait City › Kuwait
+Tue Jan 2 2018,Oman,1-0,Bahrain,Gulf Cup,Kuwait City › Kuwait
+Fri Jan 5 2018,Oman,0-0,United Arab Emirates,Gulf Cup,Kuwait City › Kuwait
+Sun Jan 7 2018,Estonia,1-1,Sweden,Friendly,Abu Dhabi › United Arab Emirates
+Thu Jan 11 2018,Denmark,0-1,Sweden,Friendly,Abu Dhabi › United Arab Emirates
+Thu Jan 11 2018,Indonesia,0-6,Iceland,Friendly,Sleman › Indonesia
+Thu Jan 11 2018,Jordan,1-2,Finland,Friendly,Abu Dhabi › United Arab Emirates
+Sat Jan 13 2018,Morocco,4-0,Mauritania,African Nations Championship,Casablanca › Morocco
+Sun Jan 14 2018,Indonesia,1-4,Iceland,Friendly,Jakarta › Indonesia
+Sun Jan 14 2018,Guinea,1-2,Sudan,African Nations Championship,Casablanca › Morocco
+Sun Jan 14 2018,Ivory Coast,0-1,Namibia,African Nations Championship,Marrakech › Morocco
+Sun Jan 14 2018,Zambia,3-1,Uganda,African Nations Championship,Marrakech › Morocco
+Mon Jan 15 2018,Libya,3-0,Equatorial Guinea,African Nations Championship,Tangiers › Morocco
+Mon Jan 15 2018,Nigeria,0-0,Rwanda,African Nations Championship,Tangiers › Morocco
+Tue Jan 16 2018,Angola,0-0,Burkina Faso,African Nations Championship,Agadir › Morocco
+Tue Jan 16 2018,Cameroon,0-1,Congo,African Nations Championship,Agadir › Morocco
+Wed Jan 17 2018,Morocco,3-1,Guinea,African Nations Championship,Casablanca › Morocco
+Wed Jan 17 2018,Sudan,1-0,Mauritania,African Nations Championship,Casablanca › Morocco
+Thu Jan 18 2018,Ivory Coast,0-2,Zambia,African Nations Championship,Marrakech › Morocco
+Thu Jan 18 2018,Uganda,0-1,Namibia,African Nations Championship,Marrakech › Morocco
+Fri Jan 19 2018,Libya,0-1,Nigeria,African Nations Championship,Tangiers › Morocco
+Fri Jan 19 2018,Rwanda,1-0,Equatorial Guinea,African Nations Championship,Tangiers › Morocco
+Sat Jan 20 2018,Angola,1-0,Cameroon,African Nations Championship,Agadir › Morocco
+Sat Jan 20 2018,Congo,2-0,Burkina Faso,African Nations Championship,Agadir › Morocco
+Sun Jan 21 2018,Mauritania,0-1,Guinea,African Nations Championship,Marrakech › Morocco
+Sun Jan 21 2018,Sudan,0-0,Morocco,African Nations Championship,Casablanca › Morocco
+Mon Jan 22 2018,Namibia,1-1,Zambia,African Nations Championship,Casablanca › Morocco
+Mon Jan 22 2018,Uganda,0-0,Ivory Coast,African Nations Championship,Marrakech › Morocco
+Tue Jan 23 2018,Equatorial Guinea,1-3,Nigeria,African Nations Championship,Agadir › Morocco
+Tue Jan 23 2018,Rwanda,0-1,Libya,African Nations Championship,Tangiers › Morocco
+Wed Jan 24 2018,Burkina Faso,1-1,Cameroon,African Nations Championship,Tangiers › Morocco
+Wed Jan 24 2018,Congo,0-0,Angola,African Nations Championship,Agadir › Morocco
+Sat Jan 27 2018,Moldova,0-1,South Korea,Friendly,Antalya › Turkey
+Sat Jan 27 2018,Morocco,2-0,Namibia,African Nations Championship,Casablanca › Morocco
+Sat Jan 27 2018,Zambia,0-1,Sudan,African Nations Championship,Marrakech › Morocco
+Sun Jan 28 2018,United States,0-0,Bosnia and Herzegovina,Friendly,Carson › United States
+Sun Jan 28 2018,Congo,1-1,Libya,African Nations Championship,Agadir › Morocco
+Sun Jan 28 2018,Nigeria,2-1,Angola,African Nations Championship,Tangiers › Morocco
+Sun Jan 28 2018,Yorkshire,1-1,Ellan Vannin,Friendly,Fitzwilliam › England
+Tue Jan 30 2018,Azerbaijan,0-0,Moldova,Friendly,Antalya › Turkey
+Tue Jan 30 2018,Jamaica,2-2,South Korea,Friendly,Antalya › Turkey
+Wed Jan 31 2018,Mexico,1-0,Bosnia and Herzegovina,Friendly,San Antonio › United States
+Wed Jan 31 2018,Morocco,3-1,Libya,African Nations Championship,Casablanca › Morocco
+Wed Jan 31 2018,Sudan,0-1,Nigeria,African Nations Championship,Marrakech › Morocco
+Sat Feb 3 2018,Latvia,0-1,South Korea,Friendly,Antalya › Turkey
+Sat Feb 3 2018,Libya,1-1,Sudan,African Nations Championship,Marrakech › Morocco
+Sun Feb 4 2018,Morocco,4-0,Nigeria,African Nations Championship,Casablanca › Morocco
+Mon Feb 26 2018,Saudi Arabia,3-0,Moldova,Friendly,Jeddah › Saudi Arabia
+Wed Feb 28 2018,Iraq,4-1,Saudi Arabia,Friendly,Basra › Iraq
+Sat Mar 17 2018,Iran,4-0,Sierra Leone,Friendly,Teheran › Iran
+Wed Mar 21 2018,Andorra,1-0,Liechtenstein,Friendly,La Línea de la Concepción › Spain
+Wed Mar 21 2018,Antigua and Barbuda,3-2,Bermuda,Friendly,St. John's › Antigua and Barbuda
+Wed Mar 21 2018,Iraq,2-3,Qatar,Friendly,Basra › Iraq
+Wed Mar 21 2018,Jordan,1-0,Kuwait,Friendly,Amman › Jordan
+Wed Mar 21 2018,Laos,0-1,Cambodia,Friendly,Vientiane › Laos
+Wed Mar 21 2018,Madagascar,0-0,Togo,Friendly,Saint-Leu-la-Forêt › France
+Wed Mar 21 2018,South Africa,1-1,Angola,Friendly,Ndola › Zambia
+Wed Mar 21 2018,Tahiti,0-0,New Caledonia,Friendly,Pirae › Tahiti
+Wed Mar 21 2018,Zambia,2-2,Zimbabwe,Friendly,Ndola › Zambia
+Thu Mar 22 2018,Algeria,4-1,Tanzania,Friendly,Algiers › Algeria
+Thu Mar 22 2018,Bahrain,0-0,Palestine,Friendly,Riffa › Bahrain
+Thu Mar 22 2018,Belize,4-2,Grenada,Friendly,Belmopan › Belize
+Thu Mar 22 2018,Burkina Faso,2-0,Guinea-Bissau,Friendly,Limeil-Brévannes › France
+Thu Mar 22 2018,China PR,0-6,Wales,Friendly,Nanning › China PR
+Thu Mar 22 2018,Denmark,1-0,Panama,Friendly,Brøndby › Denmark
+Thu Mar 22 2018,Dominican Republic,4-0,Turks and Caicos Islands,Friendly,Santo Domingo › Dominican Republic
+Thu Mar 22 2018,Faroe Islands,1-1,Latvia,Friendly,San Pedro de Alcántara › Spain
+Thu Mar 22 2018,Kyrgyzstan,5-1,Burma,AFC Asian Cup qualification,Incheon › South Korea
+Thu Mar 22 2018,Macau,0-1,Mauritius,Friendly,Macau › Macau
+Thu Mar 22 2018,Malaysia,2-2,Mongolia,Friendly,Kuala Lumpur › Malaysia
+Thu Mar 22 2018,Malta,0-1,Luxembourg,Friendly,Attard › Malta
+Thu Mar 22 2018,Nicaragua,3-1,Cuba,Friendly,Managua › Nicaragua
+Thu Mar 22 2018,Philippines,3-2,Fiji,Friendly,Manila › Philippines
+Thu Mar 22 2018,Slovakia,2-1,United Arab Emirates,Friendly,Bangkok › Thailand
+Thu Mar 22 2018,Thailand,0-0,Gabon,Friendly,Bangkok › Thailand
+Fri Mar 23 2018,Austria,3-0,Slovenia,Friendly,Klagenfurt › Austria
+Fri Mar 23 2018,Azerbaijan,0-1,Belarus,Friendly,Baku › Azerbaijan
+Fri Mar 23 2018,Bulgaria,0-1,Bosnia and Herzegovina,Friendly,Razgrad › Bulgaria
+Fri Mar 23 2018,Curaçao,1-1,Bolivia,Friendly,Willemstad › Curaçao
+Fri Mar 23 2018,Cyprus,0-0,Montenegro,Friendly,Nicosia › Cyprus
+Fri Mar 23 2018,Finland,0-0,North Macedonia,Friendly,Belek › Turkey
+Fri Mar 23 2018,France,2-3,Colombia,Friendly,Saint-Denis › France
+Fri Mar 23 2018,Gambia,1-1,Central African Republic,Friendly,Bakau › Gambia
+Fri Mar 23 2018,Germany,1-1,Spain,Friendly,Düsseldorf › Germany
+Fri Mar 23 2018,Greece,0-1,Switzerland,Friendly,Athens › Greece
+Fri Mar 23 2018,Guadeloupe,0-1,Trinidad and Tobago,Friendly,Les Abymes › Guadeloupe
+Fri Mar 23 2018,Hungary,2-3,Kazakhstan,Friendly,Budapest › Hungary
+Fri Mar 23 2018,Italy,0-2,Argentina,Friendly,Manchester › England
+Fri Mar 23 2018,Japan,1-1,Mali,Friendly,Liège › Belgium
+Fri Mar 23 2018,Mexico,3-0,Iceland,Friendly,Santa Clara › United States
+Fri Mar 23 2018,Netherlands,0-1,England,Friendly,Amsterdam › Netherlands
+Fri Mar 23 2018,Norway,4-1,Australia,Friendly,Oslo › Norway
+Fri Mar 23 2018,Peru,2-0,Croatia,Friendly,Miami Gardens › United States
+Fri Mar 23 2018,Poland,0-1,Nigeria,Friendly,Wrocław › Poland
+Fri Mar 23 2018,Portugal,2-1,Egypt,Friendly,Zürich › Switzerland
+Fri Mar 23 2018,Russia,0-3,Brazil,Friendly,Moscow › Russia
+Fri Mar 23 2018,Scotland,0-1,Costa Rica,Friendly,Glasgow › Scotland
+Fri Mar 23 2018,Senegal,1-1,Uzbekistan,Friendly,Casablanca › Morocco
+Fri Mar 23 2018,Serbia,1-2,Morocco,Friendly,Turin › Italy
+Fri Mar 23 2018,Singapore,3-2,Maldives,Friendly,Kallang › Singapore
+Fri Mar 23 2018,Tunisia,1-0,Iran,Friendly,Radès › Tunisia
+Fri Mar 23 2018,Turkey,1-0,Republic of Ireland,Friendly,Antalya › Turkey
+Fri Mar 23 2018,Ukraine,1-1,Saudi Arabia,Friendly,Marbella › Spain
+Fri Mar 23 2018,Uruguay,2-0,Czech Republic,Friendly,Nanning › China PR
+Sat Mar 24 2018,Angola,2-2,Zimbabwe,Friendly,Ndola › Zambia
+Sat Mar 24 2018,Armenia,0-0,Estonia,Friendly,Yerevan › Armenia
+Sat Mar 24 2018,Botswana,1-0,Lesotho,Friendly,Gaborone › Botswana
+Sat Mar 24 2018,Canada,1-0,New Zealand,Friendly,San Pedro del Pinatar › Spain
+Sat Mar 24 2018,Comoros,2-2,Kenya,Friendly,Marrakech › Morocco
+Sat Mar 24 2018,Georgia,4-0,Lithuania,Friendly,Tbilisi › Georgia
+Sat Mar 24 2018,Israel,1-2,Romania,Friendly,Netanya › Israel
+Sat Mar 24 2018,Ivory Coast,2-2,Togo,Friendly,Beauvais › France
+Sat Mar 24 2018,Kosovo,1-0,Madagascar,Friendly,Franconville › France
+Sat Mar 24 2018,Mauritania,2-0,Guinea,Friendly,Nouakchott › Mauritania
+Sat Mar 24 2018,Northern Ireland,2-1,South Korea,Friendly,Belfast › Northern Ireland
+Sat Mar 24 2018,Qatar,2-2,Syria,Friendly,Basra › Iraq
+Sat Mar 24 2018,Sweden,1-2,Chile,Friendly,Solna › Sweden
+Sat Mar 24 2018,Tahiti,4-3,New Caledonia,Friendly,Pirae › Tahiti
+Sat Mar 24 2018,Uganda,3-1,São Tomé and Príncipe,Friendly,Kampala › Uganda
+Sat Mar 24 2018,Zambia,0-2,South Africa,Friendly,Ndola › Zambia
+Sun Mar 25 2018,Barbados,0-0,Bermuda,Friendly,Bridgetown › Barbados
+Sun Mar 25 2018,Dominican Republic,2-1,Saint Kitts and Nevis,Friendly,Santiago › Dominican Republic
+Sun Mar 25 2018,Faroe Islands,3-0,Liechtenstein,Friendly,Marbella › Spain
+Sun Mar 25 2018,Gibraltar,1-0,Latvia,Friendly,Gibraltar › Gibraltar
+Sun Mar 25 2018,Jamaica,1-1,Antigua and Barbuda,Friendly,Kingston › Jamaica
+Sun Mar 25 2018,Kuwait,1-3,Cameroon,Friendly,Kuwait City › Kuwait
+Sun Mar 25 2018,Martinique,0-0,Trinidad and Tobago,Friendly,Fort-de-France › Martinique
+Sun Mar 25 2018,Nicaragua,3-3,Cuba,Friendly,Managua › Nicaragua
+Sun Mar 25 2018,Thailand,2-3,Slovakia,Friendly,Bangkok › Thailand
+Sun Mar 25 2018,Yorkshire,6-0,Chagos Islands,Friendly,Fitzwilliam › England
+Mon Mar 26 2018,Albania,0-1,Norway,Friendly,Elbasan › Albania
+Mon Mar 26 2018,Bulgaria,2-1,Kazakhstan,Friendly,Felcsút › Hungary
+Mon Mar 26 2018,China PR,1-4,Czech Republic,Friendly,Nanning › China PR
+Mon Mar 26 2018,Curaçao,1-0,Bolivia,Friendly,Willemstad › Curaçao
+Mon Mar 26 2018,Finland,5-0,Malta,Friendly,Belek › Turkey
+Mon Mar 26 2018,Portugal,0-3,Netherlands,Friendly,Geneva › Switzerland
+Mon Mar 26 2018,Wales,0-1,Uruguay,Friendly,Nanning › China PR
+Tue Mar 27 2018,Afghanistan,2-1,Cambodia,AFC Asian Cup qualification,Dushanbe › Tajikistan
+Tue Mar 27 2018,Algeria,1-2,Iran,Friendly,Graz › Austria
+Tue Mar 27 2018,Armenia,0-1,Lithuania,Friendly,Yerevan › Armenia
+Tue Mar 27 2018,Australia,0-0,Colombia,Friendly,London › England
+Tue Mar 27 2018,Azerbaijan,1-1,North Macedonia,Friendly,Antalya › Turkey
+Tue Mar 27 2018,Bahrain,4-0,Turkmenistan,AFC Asian Cup qualification,Riffa › Bahrain
+Tue Mar 27 2018,Belgium,4-0,Saudi Arabia,Friendly,Brussels › Belgium
+Tue Mar 27 2018,Bosnia and Herzegovina,0-0,Senegal,Friendly,Le Havre › France
+Tue Mar 27 2018,Burma,1-0,Macau,AFC Asian Cup qualification,Rangoon › Burma
+Tue Mar 27 2018,Central African Republic,3-2,Kenya,Friendly,Marrakech › Morocco
+Tue Mar 27 2018,Denmark,0-0,Chile,Friendly,Aalborg › Denmark
+Tue Mar 27 2018,England,1-1,Italy,Friendly,London › England
+Tue Mar 27 2018,Georgia,2-0,Estonia,Friendly,Tbilisi › Georgia
+Tue Mar 27 2018,Germany,0-1,Brazil,Friendly,Berlin › Germany
+Tue Mar 27 2018,Greece,1-0,Egypt,Friendly,Zürich › Switzerland
+Tue Mar 27 2018,Hungary,0-1,Scotland,Friendly,Budapest › Hungary
+Tue Mar 27 2018,Iraq,1-1,Syria,Friendly,Basra › Iraq
+Tue Mar 27 2018,Jordan,1-1,Vietnam,AFC Asian Cup qualification,Amman › Jordan
+Tue Mar 27 2018,North Korea,2-0,Hong Kong,AFC Asian Cup qualification,P'yŏngyang › North Korea
+Tue Mar 27 2018,Kosovo,2-0,Burkina Faso,Friendly,Franconville › France
+Tue Mar 27 2018,Kyrgyzstan,2-1,India,AFC Asian Cup qualification,Bishkek › Kyrgyzstan
+Tue Mar 27 2018,Laos,2-2,Bangladesh,Friendly,Vientiane › Laos
+Tue Mar 27 2018,Lebanon,2-1,Malaysia,AFC Asian Cup qualification,Beirut › Lebanon
+Tue Mar 27 2018,Luxembourg,0-4,Austria,Friendly,Luxembourg › Luxembourg
+Tue Mar 27 2018,Maldives,7-0,Bhutan,AFC Asian Cup qualification,Malé › Maldives
+Tue Mar 27 2018,Mexico,0-1,Croatia,Friendly,Arlington › United States
+Tue Mar 27 2018,Moldova,1-2,Ivory Coast,Friendly,Beauvais › France
+Tue Mar 27 2018,Mongolia,0-2,Mauritius,Friendly,Ulan Bator › Mongolia
+Tue Mar 27 2018,Montenegro,2-2,Turkey,Friendly,Podgorica › Montenegro
+Tue Mar 27 2018,Morocco,2-0,Uzbekistan,Friendly,Casablanca › Morocco
+Tue Mar 27 2018,Namibia,2-1,Lesotho,Friendly,Windhoek › Namibia
+Tue Mar 27 2018,Oman,1-0,Palestine,AFC Asian Cup qualification,Muscat › Oman
+Tue Mar 27 2018,Peru,3-1,Iceland,Friendly,Harrison › United States
+Tue Mar 27 2018,Philippines,2-1,Tajikistan,AFC Asian Cup qualification,Manila › Philippines
+Tue Mar 27 2018,Poland,3-2,South Korea,Friendly,Chorzów › Poland
+Tue Mar 27 2018,Romania,1-0,Sweden,Friendly,Craiova › Romania
+Tue Mar 27 2018,Russia,1-3,France,Friendly,St. Petersburg › Russia
+Tue Mar 27 2018,Serbia,2-0,Nigeria,Friendly,London › England
+Tue Mar 27 2018,Seychelles,0-0,Eswatini,Friendly,Victoria › Seychelles
+Tue Mar 27 2018,Slovenia,0-2,Belarus,Friendly,Ljubljana › Slovenia
+Tue Mar 27 2018,Spain,6-1,Argentina,Friendly,Madrid › Spain
+Tue Mar 27 2018,Switzerland,6-0,Panama,Friendly,Lucerne › Switzerland
+Tue Mar 27 2018,Chinese Taipei,1-0,Singapore,AFC Asian Cup qualification,Taipei › Chinese Taipei
+Tue Mar 27 2018,Tanzania,2-0,DR Congo,Friendly,Dar es Salaam › Tanzania
+Tue Mar 27 2018,Tunisia,1-0,Costa Rica,Friendly,Nice › France
+Tue Mar 27 2018,Uganda,0-0,Malawi,Friendly,Kampala › Uganda
+Tue Mar 27 2018,Ukraine,2-1,Japan,Friendly,Liège › Belgium
+Tue Mar 27 2018,United States,1-0,Paraguay,Friendly,Cary › United States
+Tue Mar 27 2018,Yemen,2-1,Nepal,AFC Asian Cup qualification,Doha › Qatar
+Sun Apr 1 2018,Malaysia,7-0,Bhutan,Friendly,Kuala Lumpur › Malaysia
+Sun Apr 8 2018,Barawa,4-1,Chagos Islands,Friendly,London › England
+Sun Apr 15 2018,Barawa,2-7,Yorkshire,Friendly,London › England
+Wed Apr 18 2018,Trinidad and Tobago,0-1,Panama,Friendly,Couva › Trinidad and Tobago
+Wed Apr 18 2018,Zimbabwe,0-1,Botswana,Friendly,Harare › Zimbabwe
+Thu Apr 26 2018,Saint Kitts and Nevis,1-3,Jamaica,Friendly,Basseterre › Saint Kitts and Nevis
+Mon Apr 30 2018,Antigua and Barbuda,0-2,Jamaica,Friendly,St. John's › Antigua and Barbuda
+Sun May 6 2018,Barawa,1-3,Surrey,Friendly,London › England
+Tue May 8 2018,Iraq,0-0,Palestine,Friendly,Basra › Iraq
+Wed May 9 2018,Algeria,0-2,Saudi Arabia,Friendly,Cádiz › Spain
+Fri May 11 2018,Kuwait,2-0,Palestine,Friendly,Kuwait City › Kuwait
+Tue May 15 2018,Saudi Arabia,2-0,Greece,Friendly,Seville › Spain
+Sat May 19 2018,Iran,1-0,Uzbekistan,Friendly,Teheran › Iran
+Sun May 20 2018,Jordan,3-0,Cyprus,Friendly,Amman › Jordan
+Fri May 25 2018,Kuwait,1-1,Egypt,Friendly,Kuwait › Kuwait
+Fri May 25 2018,Kenya,0-1,Eswatini,Friendly,Machakos › Kenya
+Sat May 26 2018,China PR,1-0,Burma,Friendly,Nanjing › China PR
+Sun May 27 2018,Cameroon,0-1,Burkina Faso,Friendly,Beauvais › France
+Sun May 27 2018,Niger,3-3,Central African Republic,Friendly,Niamey › Niger
+Sun May 27 2018,Madagascar,2-1,Mozambique,COSAFA Cup,Polokwane › South Africa
+Sun May 27 2018,Comoros,1-1,Seychelles,COSAFA Cup,Polokwane › South Africa
+Mon May 28 2018,United States,3-0,Bolivia,Friendly,Chester › United States
+Mon May 28 2018,Nigeria,1-1,DR Congo,Friendly,Port Harcourt › Nigeria
+Mon May 28 2018,Kenya,1-0,Equatorial Guinea,Friendly,Machakos › Kenya
+Mon May 28 2018,Portugal,2-2,Tunisia,Friendly,Braga › Portugal
+Mon May 28 2018,Italy,2-1,Saudi Arabia,Friendly,St. Gallen › Switzerland
+Mon May 28 2018,France,2-0,Republic of Ireland,Friendly,Saint-Denis › France
+Mon May 28 2018,Mexico,0-0,Wales,Friendly,Pasadena › United States
+Mon May 28 2018,Turkey,2-1,Iran,Friendly,Istanbul › Turkey
+Mon May 28 2018,South Korea,2-0,Honduras,Friendly,Daegu › South Korea
+Mon May 28 2018,Bosnia and Herzegovina,0-0,Montenegro,Friendly,Zenica › Bosnia and Herzegovina
+Mon May 28 2018,Malawi,0-1,Mauritius,COSAFA Cup,Polokwane › South Africa
+Mon May 28 2018,Angola,1-2,Botswana,COSAFA Cup,Polokwane › South Africa
+Tue May 29 2018,Argentina,4-0,Haiti,Friendly,Buenos Aires › Argentina
+Tue May 29 2018,Albania,0-3,Kosovo,Friendly,Zürich › Switzerland
+Tue May 29 2018,Armenia,1-1,Malta,Friendly,Wattens › Austria
+Tue May 29 2018,Azerbaijan,3-0,Kyrgyzstan,Friendly,Baku › Azerbaijan
+Tue May 29 2018,Peru,2-0,Scotland,Friendly,Lima › Peru
+Tue May 29 2018,Panama,0-0,Northern Ireland,Friendly,Panama City › Panama
+Tue May 29 2018,Madagascar,1-1,Seychelles,COSAFA Cup,Polokwane › South Africa
+Tue May 29 2018,Comoros,0-3,Mozambique,COSAFA Cup,Polokwane › South Africa
+Wed May 30 2018,Japan,0-2,Ghana,Friendly,Yokohama › Japan
+Wed May 30 2018,Central African Republic,1-0,Uganda,Friendly,Niamey › Niger
+Wed May 30 2018,Austria,1-0,Russia,Friendly,Innsbruck › Austria
+Wed May 30 2018,Malawi,1-1,Botswana,COSAFA Cup,Polokwane › South Africa
+Wed May 30 2018,Angola,1-0,Mauritius,COSAFA Cup,Polokwane › South Africa
+Wed May 30 2018,Estonia,2-0,Lithuania,Baltic Cup,Rakvere › Estonia
+Thu May 31 2018,Ukraine,0-0,Morocco,Friendly,Geneva › Switzerland
+Thu May 31 2018,Romania,3-2,Chile,Friendly,Graz › Austria
+Thu May 31 2018,Luxembourg,0-0,Senegal,Friendly,Luxembourg › Luxembourg
+Thu May 31 2018,Mozambique,2-1,Seychelles,COSAFA Cup,Polokwane › South Africa
+Thu May 31 2018,Comoros,0-1,Madagascar,COSAFA Cup,Polokwane › South Africa
+Thu May 31 2018,Slovakia,1-1,Netherlands,Friendly,Trnava › Slovakia
+Thu May 31 2018,Ellan Vannin,4-1,Cascadia,CONIFA World Football Cup,Sutton › England
+Thu May 31 2018,Barawa,4-0,Tamil Eelam,CONIFA World Football Cup,Bromley › England
+Thu May 31 2018,Abkhazia,3-0,Tibet,CONIFA World Football Cup,Enfield › England
+Thu May 31 2018,Northern Cyprus,1-1,Kárpátalja,CONIFA World Football Cup,Enfield › England
+Thu May 31 2018,Székely Land,4-0,Tuvalu,CONIFA World Football Cup,Haringey › England
+Thu May 31 2018,Padania,6-1,Matabeleland,CONIFA World Football Cup,Sutton › England
+Thu May 31 2018,United Koreans in Japan,0-0,Western Armenia,CONIFA World Football Cup,Carshalton › England
+Thu May 31 2018,Panjab,8-0,Kabylia,CONIFA World Football Cup,Slough › England
+Fri Jun 1 2018,France,3-1,Italy,Friendly,Nice › France
+Fri Jun 1 2018,Turkey,2-2,Tunisia,Friendly,Geneva › Switzerland
+Fri Jun 1 2018,South Korea,1-3,Bosnia and Herzegovina,Friendly,Jeonju › South Korea
+Fri Jun 1 2018,Czech Republic,0-4,Australia,Friendly,Sankt Pölten › Austria
+Fri Jun 1 2018,Algeria,2-3,Cape Verde,Friendly,Algiers › Algeria
+Fri Jun 1 2018,Colombia,0-0,Egypt,Friendly,Bergamo › Italy
+Fri Jun 1 2018,Malta,0-1,Georgia,Friendly,Schwaz › Austria
+Fri Jun 1 2018,Botswana,6-0,Mauritius,COSAFA Cup,Polokwane › South Africa
+Fri Jun 1 2018,Angola,0-0,Malawi,COSAFA Cup,Polokwane › South Africa
+Fri Jun 1 2018,India,5-0,Chinese Taipei,Intercontinental Cup,Mumbai › India
+Sat Jun 2 2018,El Salvador,1-0,Honduras,Friendly,Houston › United States
+Sat Jun 2 2018,Thailand,0-2,China PR,Friendly,Bangkok › Thailand
+Sat Jun 2 2018,England,2-1,Nigeria,Friendly,London › England
+Sat Jun 2 2018,Montenegro,0-2,Slovenia,Friendly,Podgorica › Montenegro
+Sat Jun 2 2018,Mexico,1-0,Scotland,Friendly,Mexico City › Mexico
+Sat Jun 2 2018,Sweden,0-0,Denmark,Friendly,Solna › Sweden
+Sat Jun 2 2018,Republic of Ireland,2-1,United States,Friendly,Dublin › Republic of Ireland
+Sat Jun 2 2018,Belgium,0-0,Portugal,Friendly,Brussels › Belgium
+Sat Jun 2 2018,Austria,2-1,Germany,Friendly,Klagenfurt › Austria
+Sat Jun 2 2018,Niger,2-1,Uganda,Friendly,Niamey › Niger
+Sat Jun 2 2018,Iceland,2-3,Norway,Friendly,Reykjavík › Iceland
+Sat Jun 2 2018,Zambia,0-0,Namibia,COSAFA Cup,Polokwane › South Africa
+Sat Jun 2 2018,Lesotho,1-0,Eswatini,COSAFA Cup,Polokwane › South Africa
+Sat Jun 2 2018,Latvia,1-0,Estonia,Baltic Cup,Riga › Latvia
+Sat Jun 2 2018,Kenya,2-1,New Zealand,Intercontinental Cup,Mumbai › India
+Sat Jun 2 2018,Ellan Vannin,2-0,Tamil Eelam,CONIFA World Football Cup,Carshalton › England
+Sat Jun 2 2018,Barawa,1-2,Cascadia,CONIFA World Football Cup,Carshalton › England
+Sat Jun 2 2018,Abkhazia,0-2,Kárpátalja,CONIFA World Football Cup,Enfield › England
+Sat Jun 2 2018,Northern Cyprus,3-1,Tibet,CONIFA World Football Cup,Enfield › England
+Sat Jun 2 2018,Székely Land,5-0,Matabeleland,CONIFA World Football Cup,Haringey › England
+Sat Jun 2 2018,Padania,8-0,Tuvalu,CONIFA World Football Cup,Haringey › England
+Sat Jun 2 2018,United Koreans in Japan,0-0,Kabylia,CONIFA World Football Cup,Bracknell › England
+Sat Jun 2 2018,Panjab,0-1,Western Armenia,CONIFA World Football Cup,Slough › England
+Sun Jun 3 2018,Albania,1-4,Ukraine,Friendly,Évian-les-Bains › France
+Sun Jun 3 2018,Saudi Arabia,0-3,Peru,Friendly,St. Gallen › Switzerland
+Sun Jun 3 2018,Spain,1-1,Switzerland,Friendly,Vila-real › Spain
+Sun Jun 3 2018,Croatia,0-2,Brazil,Friendly,Liverpool › England
+Sun Jun 3 2018,Costa Rica,3-0,Northern Ireland,Friendly,San José › Costa Rica
+Sun Jun 3 2018,Barbados,0-0,Belize,Friendly,Bridgetown › Barbados
+Sun Jun 3 2018,Andorra,0-0,Cape Verde,Friendly,Almada › Portugal
+Sun Jun 3 2018,South Africa,0-0,Madagascar,COSAFA Cup,Polokwane › South Africa
+Sun Jun 3 2018,Zimbabwe,1-1,Botswana,COSAFA Cup,Polokwane › South Africa
+Sun Jun 3 2018,Tamil Eelam,0-6,Cascadia,CONIFA World Football Cup,Haringey › England
+Sun Jun 3 2018,Barawa,2-0,Ellan Vannin,CONIFA World Football Cup,Rotherhithe › England
+Sun Jun 3 2018,Abkhazia,2-2,Northern Cyprus,CONIFA World Football Cup,Enfield › England
+Sun Jun 3 2018,Kárpátalja,5-1,Tibet,CONIFA World Football Cup,Bracknell › England
+Sun Jun 3 2018,Padania,3-1,Székely Land,CONIFA World Football Cup,Bedfont › England
+Sun Jun 3 2018,Tuvalu,1-3,Matabeleland,CONIFA World Football Cup,Haringey › England
+Sun Jun 3 2018,Panjab,1-1,United Koreans in Japan,CONIFA World Football Cup,Slough › England
+Sun Jun 3 2018,Western Armenia,4-0,Kabylia,CONIFA World Football Cup,Enfield › England
+Mon Jun 4 2018,Italy,1-1,Netherlands,Friendly,Turin › Italy
+Mon Jun 4 2018,Serbia,0-1,Chile,Friendly,Graz › Austria
+Mon Jun 4 2018,Slovakia,1-2,Morocco,Friendly,Geneva › Switzerland
+Mon Jun 4 2018,Armenia,0-0,Moldova,Friendly,Kematen › Austria
+Mon Jun 4 2018,India,3-0,Kenya,Intercontinental Cup,Mumbai › India
+Tue Jun 5 2018,Russia,1-1,Turkey,Friendly,Moscow › Russia
+Tue Jun 5 2018,Romania,2-0,Finland,Friendly,Ploiești › Romania
+Tue Jun 5 2018,Luxembourg,1-0,Georgia,Friendly,Luxembourg › Luxembourg
+Tue Jun 5 2018,Kazakhstan,3-0,Azerbaijan,Friendly,Astana › Kazakhstan
+Tue Jun 5 2018,Martinique,3-0,French Guiana,Friendly,Fort-de-France › Martinique
+Tue Jun 5 2018,Lithuania,1-1,Latvia,Friendly,Vilnius › Lithuania
+Tue Jun 5 2018,Chinese Taipei,0-1,New Zealand,Intercontinental Cup,Mumbai › India
+Tue Jun 5 2018,South Africa,4-1,Namibia,COSAFA Cup,Polokwane › South Africa
+Tue Jun 5 2018,Eswatini,0-2,Botswana,COSAFA Cup,Polokwane › South Africa
+Tue Jun 5 2018,Matabeleland,0-0,Kabylia,CONIFA World Football Cup,Enfield › England
+Tue Jun 5 2018,Abkhazia,6-0,Tamil Eelam,CONIFA World Football Cup,Aveley › England
+Tue Jun 5 2018,United Koreans in Japan,5-0,Tuvalu,CONIFA World Football Cup,Bracknell › England
+Tue Jun 5 2018,Barawa,0-8,Northern Cyprus,CONIFA World Football Cup,Sutton › England
+Tue Jun 5 2018,Padania,2-0,Panjab,CONIFA World Football Cup,Bracknell › England
+Tue Jun 5 2018,Kárpátalja,3-1,Cascadia,CONIFA World Football Cup,Sutton › England
+Tue Jun 5 2018,Western Armenia,0-4,Székely Land,CONIFA World Football Cup,Bromley › England
+Wed Jun 6 2018,Norway,1-0,Panama,Friendly,Oslo › Norway
+Wed Jun 6 2018,Czech Republic,1-0,Nigeria,Friendly,Schwechat › Austria
+Wed Jun 6 2018,Belgium,3-0,Egypt,Friendly,Brussels › Belgium
+Wed Jun 6 2018,Belarus,1-1,Hungary,Friendly,Brest › Belarus
+Wed Jun 6 2018,Zambia,1-0,Madagascar,COSAFA Cup,Polokwane › South Africa
+Wed Jun 6 2018,Lesotho,0-0,Zimbabwe,COSAFA Cup,Polokwane › South Africa
+Thu Jun 7 2018,England,2-0,Costa Rica,Friendly,Leeds › England
+Thu Jun 7 2018,Uruguay,3-0,Uzbekistan,Friendly,Montevideo › Uruguay
+Thu Jun 7 2018,Portugal,3-0,Algeria,Friendly,Lisbon › Portugal
+Thu Jun 7 2018,South Korea,0-0,Bolivia,Friendly,Innsbruck › Austria
+Thu Jun 7 2018,Iceland,2-2,Ghana,Friendly,Reykjavík › Iceland
+Thu Jun 7 2018,Guadeloupe,0-2,French Guiana,Friendly,Fort-de-France › Martinique
+Thu Jun 7 2018,India,1-2,New Zealand,Intercontinental Cup,Mumbai › India
+Thu Jun 7 2018,Tamil Eelam,4-3,Tuvalu,CONIFA World Football Cup,Sutton › England
+Thu Jun 7 2018,Tibet,1-8,Kabylia,CONIFA World Football Cup,Enfield › England
+Thu Jun 7 2018,Abkhazia,2-0,United Koreans in Japan,CONIFA World Football Cup,Bromley › England
+Thu Jun 7 2018,Barawa,0-5,Panjab,CONIFA World Football Cup,Sutton › England
+Thu Jun 7 2018,Cascadia,4-0,Western Armenia,CONIFA World Football Cup,Bromley › England
+Thu Jun 7 2018,Northern Cyprus,3-2,Padania,CONIFA World Football Cup,Carshalton › England
+Thu Jun 7 2018,Kárpátalja,4-2,Székely Land,CONIFA World Football Cup,Carshalton › England
+Fri Jun 8 2018,Germany,2-1,Saudi Arabia,Friendly,Leverkusen › Germany
+Fri Jun 8 2018,Croatia,2-1,Senegal,Friendly,Osijek › Croatia
+Fri Jun 8 2018,Switzerland,2-0,Japan,Friendly,Lugano › Switzerland
+Fri Jun 8 2018,Lithuania,0-1,Iran,Friendly,Moscow › Russia
+Fri Jun 8 2018,Poland,2-2,Chile,Friendly,Poznań › Poland
+Fri Jun 8 2018,Chinese Taipei,0-4,Kenya,Intercontinental Cup,Mumbai › India
+Sat Jun 9 2018,Serbia,5-1,Bolivia,Friendly,Graz › Austria
+Sat Jun 9 2018,Denmark,2-0,Mexico,Friendly,Brøndby › Denmark
+Sat Jun 9 2018,Sweden,0-0,Peru,Friendly,Gothenburg › Sweden
+Sat Jun 9 2018,Hungary,1-2,Australia,Friendly,Budapest › Hungary
+Sat Jun 9 2018,Estonia,1-3,Morocco,Friendly,Tallinn › Estonia
+Sat Jun 9 2018,Latvia,1-3,Azerbaijan,Friendly,Riga › Latvia
+Sat Jun 9 2018,Finland,2-0,Belarus,Friendly,Tampere › Finland
+Sat Jun 9 2018,Tunisia,0-1,Spain,Friendly,Krasnodar › Russia
+Sat Jun 9 2018,France,1-1,United States,Friendly,Lyon › France
+Sat Jun 9 2018,Matabeleland,1-0,Tamil Eelam,CONIFA World Football Cup,Aveley › England
+Sat Jun 9 2018,Tibet,1-1,United Koreans in Japan,CONIFA World Football Cup,Rotherhithe › England
+Sat Jun 9 2018,Kabylia,0-2,Abkhazia,CONIFA World Football Cup,Aveley › England
+Sat Jun 9 2018,Barawa,0-7,Western Armenia,CONIFA World Football Cup,Haringey › England
+Sat Jun 9 2018,Panjab,3-3,Cascadia,CONIFA World Football Cup,Rotherhithe › England
+Sat Jun 9 2018,Padania,0-0,Székely Land,CONIFA World Football Cup,Enfield › England
+Sat Jun 9 2018,Northern Cyprus,0-0,Kárpátalja,CONIFA World Football Cup,Enfield › England
+Sun Jun 10 2018,Austria,0-3,Brazil,Friendly,Vienna › Austria
+Sun Jun 10 2018,India,2-0,Kenya,Intercontinental Cup,Mumbai › India
+Mon Jun 11 2018,South Korea,0-2,Senegal,Friendly,Grödig › Austria
+Mon Jun 11 2018,Belgium,4-1,Costa Rica,Friendly,Brussels › Belgium
+Tue Jun 12 2018,Japan,4-2,Paraguay,Friendly,Innsbruck › Austria
+Tue Jun 12 2018,Poland,4-0,Lithuania,Friendly,Warsaw › Poland
+Thu Jun 14 2018,Russia,5-0,Saudi Arabia,FIFA World Cup,Moscow › Russia
+Fri Jun 15 2018,Egypt,0-1,Uruguay,FIFA World Cup,Ekaterinburg › Russia
+Fri Jun 15 2018,Morocco,0-1,Iran,FIFA World Cup,St. Petersburg › Russia
+Fri Jun 15 2018,Portugal,3-3,Spain,FIFA World Cup,Sochi › Russia
+Sat Jun 16 2018,France,2-1,Australia,FIFA World Cup,Kazan › Russia
+Sat Jun 16 2018,Argentina,1-1,Iceland,FIFA World Cup,Moscow › Russia
+Sat Jun 16 2018,Peru,0-1,Denmark,FIFA World Cup,Saransk › Russia
+Sat Jun 16 2018,Croatia,2-0,Nigeria,FIFA World Cup,Kaliningrad › Russia
+Sun Jun 17 2018,Costa Rica,0-1,Serbia,FIFA World Cup,Samara › Russia
+Sun Jun 17 2018,Germany,0-1,Mexico,FIFA World Cup,Moscow › Russia
+Sun Jun 17 2018,Brazil,1-1,Switzerland,FIFA World Cup,Rostov-on-Don › Russia
+Mon Jun 18 2018,Sweden,1-0,South Korea,FIFA World Cup,Nizhny Novgorod › Russia
+Mon Jun 18 2018,Belgium,3-0,Panama,FIFA World Cup,Sochi › Russia
+Mon Jun 18 2018,Tunisia,1-2,England,FIFA World Cup,Volgograd › Russia
+Tue Jun 19 2018,Colombia,1-2,Japan,FIFA World Cup,Saransk › Russia
+Tue Jun 19 2018,Poland,1-2,Senegal,FIFA World Cup,Moscow › Russia
+Tue Jun 19 2018,Russia,3-1,Egypt,FIFA World Cup,St. Petersburg › Russia
+Wed Jun 20 2018,Portugal,1-0,Morocco,FIFA World Cup,Moscow › Russia
+Wed Jun 20 2018,Uruguay,1-0,Saudi Arabia,FIFA World Cup,Rostov-on-Don › Russia
+Wed Jun 20 2018,Iran,0-1,Spain,FIFA World Cup,Kazan › Russia
+Thu Jun 21 2018,Denmark,1-1,Australia,FIFA World Cup,Samara › Russia
+Thu Jun 21 2018,France,1-0,Peru,FIFA World Cup,Ekaterinburg › Russia
+Thu Jun 21 2018,Argentina,0-3,Croatia,FIFA World Cup,Nizhny Novgorod › Russia
+Fri Jun 22 2018,Brazil,2-0,Costa Rica,FIFA World Cup,St. Petersburg › Russia
+Fri Jun 22 2018,Nigeria,2-0,Iceland,FIFA World Cup,Volgograd › Russia
+Fri Jun 22 2018,Serbia,1-2,Switzerland,FIFA World Cup,Kaliningrad › Russia
+Sat Jun 23 2018,Belgium,5-2,Tunisia,FIFA World Cup,Moscow › Russia
+Sat Jun 23 2018,South Korea,1-2,Mexico,FIFA World Cup,Rostov-on-Don › Russia
+Sat Jun 23 2018,Germany,2-1,Sweden,FIFA World Cup,Sochi › Russia
+Sun Jun 24 2018,England,6-1,Panama,FIFA World Cup,Nizhny Novgorod › Russia
+Sun Jun 24 2018,Japan,2-2,Senegal,FIFA World Cup,Ekaterinburg › Russia
+Sun Jun 24 2018,Poland,0-3,Colombia,FIFA World Cup,Kazan › Russia
+Mon Jun 25 2018,Russia,0-3,Uruguay,FIFA World Cup,Samara › Russia
+Mon Jun 25 2018,Saudi Arabia,2-1,Egypt,FIFA World Cup,Volgograd › Russia
+Mon Jun 25 2018,Spain,2-2,Morocco,FIFA World Cup,Kaliningrad › Russia
+Mon Jun 25 2018,Iran,1-1,Portugal,FIFA World Cup,Saransk › Russia
+Tue Jun 26 2018,Australia,0-2,Peru,FIFA World Cup,Sochi › Russia
+Tue Jun 26 2018,Denmark,0-0,France,FIFA World Cup,Moscow › Russia
+Tue Jun 26 2018,Nigeria,1-2,Argentina,FIFA World Cup,St. Petersburg › Russia
+Tue Jun 26 2018,Iceland,1-2,Croatia,FIFA World Cup,Rostov-on-Don › Russia
+Wed Jun 27 2018,South Korea,2-0,Germany,FIFA World Cup,Kazan › Russia
+Wed Jun 27 2018,Mexico,0-3,Sweden,FIFA World Cup,Ekaterinburg › Russia
+Wed Jun 27 2018,Serbia,0-2,Brazil,FIFA World Cup,Moscow › Russia
+Wed Jun 27 2018,Switzerland,2-2,Costa Rica,FIFA World Cup,Nizhny Novgorod › Russia
+Thu Jun 28 2018,Japan,0-1,Poland,FIFA World Cup,Volgograd › Russia
+Thu Jun 28 2018,Senegal,0-1,Colombia,FIFA World Cup,Samara › Russia
+Thu Jun 28 2018,Panama,1-2,Tunisia,FIFA World Cup,Saransk › Russia
+Thu Jun 28 2018,England,0-1,Belgium,FIFA World Cup,Kaliningrad › Russia
+Sat Jun 30 2018,France,4-3,Argentina,FIFA World Cup,Kazan › Russia
+Sat Jun 30 2018,Uruguay,2-1,Portugal,FIFA World Cup,Sochi › Russia
+Sun Jul 1 2018,Russia,1-1,Spain,FIFA World Cup,Moscow › Russia
+Sun Jul 1 2018,Croatia,1-1,Denmark,FIFA World Cup,Nizhny Novgorod › Russia
+Mon Jul 2 2018,Brazil,2-0,Mexico,FIFA World Cup,Samara › Russia
+Mon Jul 2 2018,Belgium,3-2,Japan,FIFA World Cup,Rostov-on-Don › Russia
+Tue Jul 3 2018,Sweden,1-0,Switzerland,FIFA World Cup,St. Petersburg › Russia
+Tue Jul 3 2018,Colombia,1-1,England,FIFA World Cup,Moscow › Russia
+Thu Jul 5 2018,Malaysia,1-0,Fiji,Friendly,Kuala Lumpur › Malaysia
+Fri Jul 6 2018,Uruguay,0-2,France,FIFA World Cup,Nizhny Novgorod › Russia
+Fri Jul 6 2018,Brazil,1-2,Belgium,FIFA World Cup,Kazan › Russia
+Sat Jul 7 2018,Sweden,0-2,England,FIFA World Cup,Samara › Russia
+Sat Jul 7 2018,Russia,2-2,Croatia,FIFA World Cup,Sochi › Russia
+Tue Jul 10 2018,France,1-0,Belgium,FIFA World Cup,St. Petersburg › Russia
+Wed Jul 11 2018,Croatia,2-1,England,FIFA World Cup,Moscow › Russia
+Sat Jul 14 2018,Belgium,2-0,England,FIFA World Cup,St. Petersburg › Russia
+Sun Jul 15 2018,France,4-2,Croatia,FIFA World Cup,Moscow › Russia
+Sun Jul 22 2018,Liberia,0-0,Sierra Leone,Friendly,Monrovia › Liberia
+Sat Aug 4 2018,Belize,1-0,Barbados,Friendly,San Pedro › Belize
+Sat Aug 4 2018,Palestine,0-3,Iraq,Friendly,Al Ram › Palestine
+Wed Aug 15 2018,Guatemala,3-0,Cuba,Friendly,Guatemala City › Guatemala
+Sat Aug 18 2018,Andorra,0-0,United Arab Emirates,Friendly,Grödig › Austria
+Sat Aug 18 2018,Grenada,1-5,Jamaica,Friendly,St. George's › Grenada
+Sat Aug 18 2018,Guatemala,1-0,Cuba,Friendly,Quetzaltenango › Guatemala
+Mon Aug 20 2018,Barbados,2-2,Jamaica,Friendly,Bridgetown › Barbados
+Wed Aug 22 2018,Sint Maarten,1-1,Anguilla,Friendly,Philipsburg › Sint Maarten
+Sat Aug 25 2018,Anguilla,1-2,Saint Martin,Friendly,The Valley › Anguilla
+Sun Aug 26 2018,Barbados,0-0,Cuba,Friendly,Bridgetown › Barbados
+Wed Aug 29 2018,Bangladesh,0-1,Sri Lanka,Friendly,Nilphamari Sadar › Bangladesh
+Wed Aug 29 2018,Barbados,0-2,Cuba,Friendly,Bridgetown › Barbados
+Wed Aug 29 2018,Macau,1-4,Solomon Islands,Friendly,Taipa › Macau
+Sat Sep 1 2018,Timor-Leste,3-1,Brunei,AFF Championship qualification,Kuala Lumpur › Malaysia
+Sun Sep 2 2018,Ethiopia,1-1,Burundi,Friendly,Awassa › Ethiopia
+Sun Sep 2 2018,Guam,4-0,Northern Mariana Islands,EAFF Championship,Ulaanbaatar › Mongolia
+Sun Sep 2 2018,Mongolia,4-1,Macau,EAFF Championship,Ulaanbaatar › Mongolia
+Tue Sep 4 2018,Macau,2-0,Guam,EAFF Championship,Ulaanbaatar › Mongolia
+Tue Sep 4 2018,Mongolia,9-0,Northern Mariana Islands,EAFF Championship,Ulaanbaatar › Mongolia
+Tue Sep 4 2018,Nepal,1-2,Pakistan,SAFF Cup,Dhaka › Bangladesh
+Tue Sep 4 2018,Bangladesh,2-0,Bhutan,SAFF Cup,Dhaka › Bangladesh
+Wed Sep 5 2018,Fiji,1-1,Solomon Islands,Friendly,Suva › Fiji
+Wed Sep 5 2018,Slovakia,3-0,Denmark,Friendly,Trnava › Slovakia
+Wed Sep 5 2018,India,2-0,Sri Lanka,SAFF Cup,Dhaka › Bangladesh
+Thu Sep 6 2018,Germany,0-0,France,UEFA Nations League,Munich › Germany
+Thu Sep 6 2018,Czech Republic,1-2,Ukraine,UEFA Nations League,Uherské Hradiště › Czech Republic
+Thu Sep 6 2018,Wales,4-1,Republic of Ireland,UEFA Nations League,Cardiff › Wales
+Thu Sep 6 2018,Norway,2-0,Cyprus,UEFA Nations League,Oslo › Norway
+Thu Sep 6 2018,Slovenia,1-2,Bulgaria,UEFA Nations League,Ljubljana › Slovenia
+Thu Sep 6 2018,Kazakhstan,0-2,Georgia,UEFA Nations League,Astana › Kazakhstan
+Thu Sep 6 2018,Latvia,0-0,Andorra,UEFA Nations League,Riga › Latvia
+Thu Sep 6 2018,Armenia,2-1,Liechtenstein,UEFA Nations League,Yerevan › Armenia
+Thu Sep 6 2018,Gibraltar,0-2,North Macedonia,UEFA Nations League,Gibraltar › Gibraltar
+Thu Sep 6 2018,Austria,2-0,Sweden,Friendly,Vienna › Austria
+Thu Sep 6 2018,Bahrain,1-1,Philippines,Friendly,East Riffa › Bahrain
+Thu Sep 6 2018,Jordan,0-1,Lebanon,Friendly,Amman › Jordan
+Thu Sep 6 2018,Kyrgyzstan,1-1,Palestine,Friendly,Bishkek › Kyrgyzstan
+Thu Sep 6 2018,Netherlands,2-1,Peru,Friendly,Amsterdam › Netherlands
+Thu Sep 6 2018,Portugal,1-1,Croatia,Friendly,Faro-Loulé › Portugal
+Thu Sep 6 2018,Trinidad and Tobago,2-0,United Arab Emirates,Friendly,Llagostera › Trinidad and Tobago
+Thu Sep 6 2018,Uzbekistan,1-1,Syria,Friendly,Tashkent › Uzbekistan
+Thu Sep 6 2018,Northern Mariana Islands,1-1,Macau,EAFF Championship,Ulaanbaatar › Mongolia
+Thu Sep 6 2018,Mongolia,1-1,Guam,EAFF Championship,Ulaanbaatar › Mongolia
+Thu Sep 6 2018,Nepal,4-0,Bhutan,SAFF Cup,Dhaka › Bangladesh
+Thu Sep 6 2018,Bangladesh,1-0,Pakistan,SAFF Cup,Dhaka › Bangladesh
+Thu Sep 6 2018,Dominica,0-0,Suriname,CONCACAF Nations League qualification,Les Abymes › Guadeloupe
+Thu Sep 6 2018,Guyana,3-0,Barbados,CONCACAF Nations League qualification,Leonora › Guyana
+Fri Sep 7 2018,Italy,1-1,Poland,UEFA Nations League,Bologna › Italy
+Fri Sep 7 2018,Turkey,1-2,Russia,UEFA Nations League,Trabzon › Turkey
+Fri Sep 7 2018,Albania,1-0,Israel,UEFA Nations League,Elbasan › Albania
+Fri Sep 7 2018,Lithuania,0-1,Serbia,UEFA Nations League,Vilnius › Lithuania
+Fri Sep 7 2018,Romania,0-0,Montenegro,UEFA Nations League,Ploiești › Romania
+Fri Sep 7 2018,Faroe Islands,3-1,Malta,UEFA Nations League,Tórshavn › Faroe Islands
+Fri Sep 7 2018,Azerbaijan,0-0,Kosovo,UEFA Nations League,Baku › Azerbaijan
+Fri Sep 7 2018,Argentina,3-0,Guatemala,Friendly,Los Angeles › United States
+Fri Sep 7 2018,Chinese Taipei,2-0,Malaysia,Friendly,Taipei › Chinese Taipei
+Fri Sep 7 2018,Ecuador,2-0,Jamaica,Friendly,Harrison › United States
+Fri Sep 7 2018,South Korea,2-0,Costa Rica,Friendly,Goyang › South Korea
+Fri Sep 7 2018,Mexico,1-4,Uruguay,Friendly,Houston › United States
+Fri Sep 7 2018,Qatar,1-0,China PR,Friendly,Doha › Qatar
+Fri Sep 7 2018,Scotland,0-4,Belgium,Friendly,Glasgow › Scotland
+Fri Sep 7 2018,Singapore,1-1,Mauritius,Friendly,Bishan › Singapore
+Fri Sep 7 2018,United States,0-2,Brazil,Friendly,East Rutherford › United States
+Fri Sep 7 2018,Venezuela,1-2,Colombia,Friendly,Miami Gardens › United States
+Fri Sep 7 2018,Maldives,0-0,Sri Lanka,SAFF Cup,Dhaka › Bangladesh
+Fri Sep 7 2018,Anguilla,0-5,French Guiana,CONCACAF Nations League qualification,The Valley › Anguilla
+Fri Sep 7 2018,Antigua and Barbuda,0-3,Saint Lucia,CONCACAF Nations League qualification,North Sound › Antigua and Barbuda
+Fri Sep 7 2018,Belize,4-0,Bahamas,CONCACAF Nations League qualification,Belmopan › Belize
+Sat Sep 8 2018,Switzerland,6-0,Iceland,UEFA Nations League,St. Gallen › Switzerland
+Sat Sep 8 2018,England,1-2,Spain,UEFA Nations League,London › England
+Sat Sep 8 2018,Northern Ireland,1-2,Bosnia and Herzegovina,UEFA Nations League,Belfast › Northern Ireland
+Sat Sep 8 2018,Finland,1-0,Hungary,UEFA Nations League,Tampere › Finland
+Sat Sep 8 2018,Estonia,0-1,Greece,UEFA Nations League,Tallinn › Estonia
+Sat Sep 8 2018,Belarus,5-0,San Marino,UEFA Nations League,Minsk › Belarus
+Sat Sep 8 2018,Luxembourg,4-0,Moldova,UEFA Nations League,Luxembourg City › Luxembourg
+Sat Sep 8 2018,Brunei,1-0,Timor-Leste,AFF Championship qualification,Bandar Seri Begawan › Brunei
+Sat Sep 8 2018,Equatorial Guinea,1-0,Sudan,African Cup of Nations qualification,Bata › Equatorial Guinea
+Sat Sep 8 2018,Comoros,1-1,Cameroon,African Cup of Nations qualification,Mitsamiouli › Comoros
+Sat Sep 8 2018,Gabon,1-1,Burundi,African Cup of Nations qualification,Libreville › Gabon
+Sat Sep 8 2018,Gambia,1-1,Algeria,African Cup of Nations qualification,Bakau › Gambia
+Sat Sep 8 2018,South Africa,0-0,Libya,African Cup of Nations qualification,Durban › South Africa
+Sat Sep 8 2018,Mauritania,2-0,Burkina Faso,African Cup of Nations qualification,Nouakchott › Mauritania
+Sat Sep 8 2018,Egypt,6-0,Niger,African Cup of Nations qualification,Alexandria › Egypt
+Sat Sep 8 2018,Namibia,1-1,Zambia,African Cup of Nations qualification,Windhoek › Namibia
+Sat Sep 8 2018,Uganda,0-0,Tanzania,African Cup of Nations qualification,Kira › Uganda
+Sat Sep 8 2018,Pakistan,3-0,Bhutan,SAFF Cup,Dhaka › Bangladesh
+Sat Sep 8 2018,Bangladesh,0-2,Nepal,SAFF Cup,Dhaka › Bangladesh
+Sat Sep 8 2018,Saint Vincent and the Grenadines,0-2,Nicaragua,CONCACAF Nations League qualification,Kingstown › Saint Vincent and the Grenadines
+Sat Sep 8 2018,Cuba,11-0,Turks and Caicos Islands,CONCACAF Nations League qualification,Havana › Cuba
+Sat Sep 8 2018,Montserrat,1-2,El Salvador,CONCACAF Nations League qualification,Lookout › Montserrat
+Sun Sep 9 2018,France,2-1,Netherlands,UEFA Nations League,Paris › France
+Sun Sep 9 2018,Ukraine,1-0,Slovakia,UEFA Nations League,Lviv › Ukraine
+Sun Sep 9 2018,Denmark,2-0,Wales,UEFA Nations League,Aarhus › Denmark
+Sun Sep 9 2018,Bulgaria,1-0,Norway,UEFA Nations League,Sofia › Bulgaria
+Sun Sep 9 2018,Cyprus,2-1,Slovenia,UEFA Nations League,Nicosia › Cyprus
+Sun Sep 9 2018,Georgia,1-0,Latvia,UEFA Nations League,Tbilisi › Georgia
+Sun Sep 9 2018,North Macedonia,2-0,Armenia,UEFA Nations League,Skopje › North Macedonia
+Sun Sep 9 2018,Liechtenstein,2-0,Gibraltar,UEFA Nations League,Vaduz › Liechtenstein
+Sun Sep 9 2018,Germany,2-1,Peru,Friendly,Sinsheim › Germany
+Sun Sep 9 2018,Lebanon,0-0,Oman,Friendly,Amman › Jordan
+Sun Sep 9 2018,Congo,1-1,Zimbabwe,African Cup of Nations qualification,Brazzaville › Congo
+Sun Sep 9 2018,Rwanda,1-2,Ivory Coast,African Cup of Nations qualification,Kigali › Rwanda
+Sun Sep 9 2018,India,2-0,Maldives,SAFF Cup,Dhaka › Bangladesh
+Sun Sep 9 2018,Bonaire,0-5,Dominican Republic,CONCACAF Nations League qualification,Willemstad › Netherlands Antilles
+Sun Sep 9 2018,U.S. Virgin Islands,0-8,Canada,CONCACAF Nations League qualification,Bradenton › United States
+Sun Sep 9 2018,Aruba,3-1,Bermuda,CONCACAF Nations League qualification,Willemstad › Netherlands Antilles
+Sun Sep 9 2018,Jamaica,4-0,Cayman Islands,CONCACAF Nations League qualification,Kingston › Jamaica
+Sun Sep 9 2018,Saint Kitts and Nevis,1-0,Puerto Rico,CONCACAF Nations League qualification,Basseterre › Saint Kitts and Nevis
+Mon Sep 10 2018,Portugal,1-0,Italy,UEFA Nations League,Lisbon › Portugal
+Mon Sep 10 2018,Sweden,2-3,Turkey,UEFA Nations League,Stockholm › Sweden
+Mon Sep 10 2018,Scotland,2-0,Albania,UEFA Nations League,Glasgow › Scotland
+Mon Sep 10 2018,Montenegro,2-0,Lithuania,UEFA Nations League,Podgorica › Montenegro
+Mon Sep 10 2018,Serbia,2-2,Romania,UEFA Nations League,Belgrade › Serbia
+Mon Sep 10 2018,Andorra,1-1,Kazakhstan,UEFA Nations League,Andorra la Vella › Andorra
+Mon Sep 10 2018,Kosovo,2-0,Faroe Islands,UEFA Nations League,Pristina › Kosovo
+Mon Sep 10 2018,Malta,1-1,Azerbaijan,UEFA Nations League,Attard › Malta
+Mon Sep 10 2018,Bahrain,0-0,China PR,Friendly,East Riffa › Bahrain
+Mon Sep 10 2018,Cambodia,1-3,Malaysia,Friendly,Phnom Penh › Cambodia
+Mon Sep 10 2018,Kuwait,2-2,Iraq,Friendly,Al Farwaniyah › Kuwait
+Mon Sep 10 2018,Kyrgyzstan,2-1,Syria,Friendly,Bishkek › Kyrgyzstan
+Mon Sep 10 2018,Russia,5-1,Czech Republic,Friendly,Rostov-on-Don › Russia
+Mon Sep 10 2018,Saudi Arabia,2-2,Bolivia,Friendly,Riyadh › Saudi Arabia
+Mon Sep 10 2018,Haiti,13-0,Sint Maarten,CONCACAF Nations League qualification,Port-au-Prince › Haiti
+Mon Sep 10 2018,Curaçao,10-0,Grenada,CONCACAF Nations League qualification,Willemstad › Curaçao
+Tue Sep 11 2018,Iceland,0-3,Belgium,UEFA Nations League,Reykjavík › Iceland
+Tue Sep 11 2018,Spain,6-0,Croatia,UEFA Nations League,Elche › Spain
+Tue Sep 11 2018,Bosnia and Herzegovina,1-0,Austria,UEFA Nations League,Zenica › Bosnia and Herzegovina
+Tue Sep 11 2018,Hungary,2-1,Greece,UEFA Nations League,Budapest › Hungary
+Tue Sep 11 2018,Finland,1-0,Estonia,UEFA Nations League,Turku › Finland
+Tue Sep 11 2018,San Marino,0-3,Luxembourg,UEFA Nations League,Serravalle › San Marino
+Tue Sep 11 2018,Moldova,0-0,Belarus,UEFA Nations League,Chișinău › Moldova
+Tue Sep 11 2018,Colombia,0-0,Argentina,Friendly,East Rutherford › United States
+Tue Sep 11 2018,Ecuador,2-0,Guatemala,Friendly,Bridgeview › United States
+Tue Sep 11 2018,England,1-0,Switzerland,Friendly,London › England
+Tue Sep 11 2018,Gabon,0-1,Zambia,Friendly,Libreville › Gabon
+Tue Sep 11 2018,Indonesia,1-0,Mauritius,Friendly,Cikarang › Indonesia
+Tue Sep 11 2018,Japan,3-0,Costa Rica,Friendly,Suita › Japan
+Tue Sep 11 2018,Jordan,0-0,Oman,Friendly,Amman › Jordan
+Tue Sep 11 2018,Kenya,1-0,Malawi,Friendly,Nairobi › Kenya
+Tue Sep 11 2018,South Korea,0-0,Chile,Friendly,Suwon › South Korea
+Tue Sep 11 2018,Laos,0-3,United Arab Emirates,Friendly,Llagostera › Laos
+Tue Sep 11 2018,Liberia,1-2,Nigeria,Friendly,Monrovia › Liberia
+Tue Sep 11 2018,Northern Ireland,3-0,Israel,Friendly,Belfast › Northern Ireland
+Tue Sep 11 2018,Panama,0-2,Venezuela,Friendly,Panama City › Panama
+Tue Sep 11 2018,Poland,1-1,Republic of Ireland,Friendly,Wroclaw › Poland
+Tue Sep 11 2018,Qatar,3-0,Palestine,Friendly,Doha › Qatar
+Tue Sep 11 2018,Singapore,2-0,Fiji,Friendly,Bishan › Singapore
+Tue Sep 11 2018,United States,1-0,Mexico,Friendly,Nashville › United States
+Tue Sep 11 2018,Uzbekistan,0-1,Iran,Friendly,Tashkent › Uzbekistan
+Tue Sep 11 2018,Saint Martin,0-3,Guadeloupe,CONCACAF Nations League qualification,The Valley › Anguilla
+Wed Sep 12 2018,Brazil,5-0,El Salvador,Friendly,Landover › United States
+Wed Sep 12 2018,India,3-1,Pakistan,SAFF Cup,Dhaka › Bangladesh
+Wed Sep 12 2018,Nepal,0-3,Maldives,SAFF Cup,Dhaka › Bangladesh
+Sat Sep 15 2018,Maldives,2-1,India,SAFF Cup,Dhaka › Bangladesh
+Sun Sep 30 2018,Botswana,1-0,Namibia,Friendly,Gaborone › Botswana
+Sun Sep 30 2018,Saint Vincent and the Grenadines,1-1,Barbados,Friendly,Georgetown › Saint Vincent and the Grenadines
+Wed Oct 10 2018,Albania,0-0,Jordan,Friendly,Elbasan › Albania
+Wed Oct 10 2018,Indonesia,3-0,Myanmar,Friendly,Cikarang › Indonesia
+Wed Oct 10 2018,Italy,1-1,Ukraine,Friendly,Genoa › Italy
+Wed Oct 10 2018,Ethiopia,0-0,Kenya,African Cup of Nations qualification,Bahir Dar › Ethiopia
+Wed Oct 10 2018,Zambia,2-1,Guinea-Bissau,African Cup of Nations qualification,Lusaka › Zambia
+Thu Oct 11 2018,Poland,2-3,Portugal,UEFA Nations League,Chorzow › Poland
+Thu Oct 11 2018,Russia,0-0,Sweden,UEFA Nations League,Kaliningrad › Russia
+Thu Oct 11 2018,Israel,2-1,Scotland,UEFA Nations League,Haifa › Israel
+Thu Oct 11 2018,Montenegro,0-2,Serbia,UEFA Nations League,Podgorica › Montenegro
+Thu Oct 11 2018,Lithuania,1-2,Romania,UEFA Nations League,Vilnius › Lithuania
+Thu Oct 11 2018,Faroe Islands,0-3,Azerbaijan,UEFA Nations League,Tórshavn › Faroe Islands
+Thu Oct 11 2018,Kosovo,3-1,Malta,UEFA Nations League,Pristina › Kosovo
+Thu Oct 11 2018,Argentina,4-0,Iraq,Friendly,Riyadh › Saudi Arabia
+Thu Oct 11 2018,Bahrain,0-1,Syria,Friendly,East Riffa › Bahrain
+Thu Oct 11 2018,France,2-2,Iceland,Friendly,Guingamp › France
+Thu Oct 11 2018,Honduras,1-1,United Arab Emirates,Friendly,Barcelona › Spain
+Thu Oct 11 2018,Hong Kong,0-1,Thailand,Friendly,Hong Kong › Hong Kong
+Thu Oct 11 2018,Kuwait,1-0,Lebanon,Friendly,Kuwait City › Kuwait
+Thu Oct 11 2018,Mexico,3-2,Costa Rica,Friendly,San Nicolás de los Garza › Mexico
+Thu Oct 11 2018,Turkey,0-0,Bosnia and Herzegovina,Friendly,Rize › Turkey
+Thu Oct 11 2018,United States,2-4,Colombia,Friendly,Tampa › United States
+Thu Oct 11 2018,Wales,1-4,Spain,Friendly,Cardiff › Wales
+Thu Oct 11 2018,Congo,3-1,Liberia,African Cup of Nations qualification,Brazzaville › Congo
+Thu Oct 11 2018,French Guiana,0-1,Saint Vincent and the Grenadines,CONCACAF Nations League qualification,Cayenne › French Guiana
+Fri Oct 12 2018,Belgium,2-1,Switzerland,UEFA Nations League,Brussels › Belgium
+Fri Oct 12 2018,Croatia,0-0,England,UEFA Nations League,Rijeka › Croatia
+Fri Oct 12 2018,Austria,1-0,Northern Ireland,UEFA Nations League,Vienna › Austria
+Fri Oct 12 2018,Estonia,0-1,Finland,UEFA Nations League,Tallinn › Estonia
+Fri Oct 12 2018,Greece,1-0,Hungary,UEFA Nations League,Athens › Greece
+Fri Oct 12 2018,Belarus,1-0,Luxembourg,UEFA Nations League,Minsk › Belarus
+Fri Oct 12 2018,Moldova,2-0,San Marino,UEFA Nations League,Chișinău › Moldova
+Fri Oct 12 2018,Cambodia,2-2,Timor-Leste,Friendly,Phnom Penh › Cambodia
+Fri Oct 12 2018,Japan,3-0,Panama,Friendly,Niigata › Japan
+Fri Oct 12 2018,South Korea,2-1,Uruguay,Friendly,Seoul › South Korea
+Fri Oct 12 2018,Peru,3-0,Chile,Friendly,Miami Gardens › United States
+Fri Oct 12 2018,Qatar,4-3,Ecuador,Friendly,Doha › Qatar
+Fri Oct 12 2018,Saudi Arabia,0-2,Brazil,Friendly,Riyadh › Saudi Arabia
+Fri Oct 12 2018,Singapore,2-0,Mongolia,Friendly,Bishan › Singapore
+Fri Oct 12 2018,Sri Lanka,1-4,Malaysia,Friendly,Colombo › Sri Lanka
+Fri Oct 12 2018,Cameroon,1-0,Malawi,African Cup of Nations qualification,Yaoundé › Cameroon
+Fri Oct 12 2018,Gabon,3-0,South Sudan,African Cup of Nations qualification,Libreville › Gabon
+Fri Oct 12 2018,Togo,1-1,Gambia,African Cup of Nations qualification,Lomé › Togo
+Fri Oct 12 2018,Ivory Coast,4-0,Central African Republic,African Cup of Nations qualification,Bouaké › Ivory Coast
+Fri Oct 12 2018,Angola,4-1,Mauritania,African Cup of Nations qualification,Luanda › Angola
+Fri Oct 12 2018,Egypt,4-1,Eswatini,African Cup of Nations qualification,Cairo › Egypt
+Fri Oct 12 2018,Cape Verde,3-0,Tanzania,African Cup of Nations qualification,Praia › Cape Verde
+Fri Oct 12 2018,Basque Country,4-2,Venezuela,Friendly,Vitoria-Gasteiz › Spain
+Fri Oct 12 2018,U.S. Virgin Islands,0-5,Curaçao,CONCACAF Nations League qualification,Bradenton › United States
+Fri Oct 12 2018,Bahamas,0-6,Antigua and Barbuda,CONCACAF Nations League qualification,Nassau › Bahamas
+Fri Oct 12 2018,Dominican Republic,3-0,Cayman Islands,CONCACAF Nations League qualification,Santiago de los Caballeros › Dominican Republic
+Fri Oct 12 2018,Bermuda,12-0,Sint Maarten,CONCACAF Nations League qualification,Hamilton › Bermuda
+Fri Oct 12 2018,Grenada,0-2,Cuba,CONCACAF Nations League qualification,Saint George's › Grenada
+Sat Oct 13 2018,Netherlands,3-0,Germany,UEFA Nations League,Amsterdam › Netherlands
+Sat Oct 13 2018,Slovakia,1-2,Czech Republic,UEFA Nations League,Trnava › Slovakia
+Sat Oct 13 2018,Republic of Ireland,0-0,Denmark,UEFA Nations League,Dublin › Republic of Ireland
+Sat Oct 13 2018,Norway,1-0,Slovenia,UEFA Nations League,Oslo › Norway
+Sat Oct 13 2018,Bulgaria,2-1,Cyprus,UEFA Nations League,Sofia › Bulgaria
+Sat Oct 13 2018,Latvia,1-1,Kazakhstan,UEFA Nations League,Riga › Latvia
+Sat Oct 13 2018,Georgia,3-0,Andorra,UEFA Nations League,Tbilisi › Georgia
+Sat Oct 13 2018,Armenia,0-1,Gibraltar,UEFA Nations League,Yerevan › Armenia
+Sat Oct 13 2018,North Macedonia,4-1,Liechtenstein,UEFA Nations League,Skopje › North Macedonia
+Sat Oct 13 2018,China PR,0-0,India,Friendly,Suzhou › China PR
+Sat Oct 13 2018,Myanmar,0-3,Bolivia,Friendly,Yangon › Myanmar
+Sat Oct 13 2018,Oman,1-1,Philippines,Friendly,Al Rayyan › Oman
+Sat Oct 13 2018,Uzbekistan,2-0,North Korea,Friendly,Tashkent › Uzbekistan
+Sat Oct 13 2018,Equatorial Guinea,0-1,Madagascar,African Cup of Nations qualification,Bata › Equatorial Guinea
+Sat Oct 13 2018,Nigeria,4-0,Libya,African Cup of Nations qualification,Uyo › Nigeria
+Sat Oct 13 2018,Puerto Rico,0-1,Martinique,CONCACAF Nations League qualification,Bayamón › Puerto Rico
+Sat Oct 13 2018,Turks and Caicos Islands,0-8,Guyana,CONCACAF Nations League qualification,Providenciales › Turks and Caicos Islands
+Sat Oct 13 2018,Suriname,5-0,British Virgin Islands,CONCACAF Nations League qualification,Paramaribo › Suriname
+Sat Oct 13 2018,El Salvador,3-0,Barbados,CONCACAF Nations League qualification,San Salvador › El Salvador
+Sun Oct 14 2018,Poland,0-1,Italy,UEFA Nations League,Chorzow › Poland
+Sun Oct 14 2018,Russia,2-0,Turkey,UEFA Nations League,Sochi › Russia
+Sun Oct 14 2018,Israel,2-0,Albania,UEFA Nations League,Beer Sheva › Israel
+Sun Oct 14 2018,Romania,0-0,Serbia,UEFA Nations League,Bucharest › Romania
+Sun Oct 14 2018,Lithuania,1-4,Montenegro,UEFA Nations League,Vilnius › Lithuania
+Sun Oct 14 2018,Faroe Islands,1-1,Kosovo,UEFA Nations League,Tórshavn › Faroe Islands
+Sun Oct 14 2018,Azerbaijan,1-1,Malta,UEFA Nations League,Baku › Azerbaijan
+Sun Oct 14 2018,Scotland,1-3,Portugal,Friendly,Glasgow › Scotland
+Sun Oct 14 2018,Thailand,1-0,Trinidad and Tobago,Friendly,Suphan Buri › Thailand
+Sun Oct 14 2018,Guinea-Bissau,2-1,Zambia,African Cup of Nations qualification,Bissau › Guinea-Bissau
+Sun Oct 14 2018,Saint Martin,0-10,Saint Kitts and Nevis,CONCACAF Nations League qualification,The Valley › Anguilla
+Sun Oct 14 2018,Bonaire,0-6,Jamaica,CONCACAF Nations League qualification,Willemstad › Netherlands Antilles
+Sun Oct 14 2018,Montserrat,1-0,Belize,CONCACAF Nations League qualification,Lookout › Montserrat
+Sun Oct 14 2018,Nicaragua,6-0,Anguilla,CONCACAF Nations League qualification,Heredia › Costa Rica
+Mon Oct 15 2018,Iceland,1-2,Switzerland,UEFA Nations League,Reykjavík › Iceland
+Mon Oct 15 2018,Spain,2-3,England,UEFA Nations League,Sevilla › Spain
+Mon Oct 15 2018,Bosnia and Herzegovina,2-0,Northern Ireland,UEFA Nations League,Sarajevo › Bosnia and Herzegovina
+Mon Oct 15 2018,Estonia,3-3,Hungary,UEFA Nations League,Tallinn › Estonia
+Mon Oct 15 2018,Finland,2-0,Greece,UEFA Nations League,Tampere › Finland
+Mon Oct 15 2018,Luxembourg,3-0,San Marino,UEFA Nations League,Luxembourg City › Luxembourg
+Mon Oct 15 2018,Belarus,0-0,Moldova,UEFA Nations League,Minsk › Belarus
+Mon Oct 15 2018,Croatia,2-1,Jordan,Friendly,Rijeka › Croatia
+Mon Oct 15 2018,Kuwait,0-4,Australia,Friendly,Kuwait City › Kuwait
+Mon Oct 15 2018,Saudi Arabia,1-1,Iraq,Friendly,Riyadh › Saudi Arabia
+Tue Oct 16 2018,France,2-1,Germany,UEFA Nations League,Paris › France
+Tue Oct 16 2018,Ukraine,1-0,Czech Republic,UEFA Nations League,Kharkiv › Ukraine
+Tue Oct 16 2018,Republic of Ireland,0-1,Wales,UEFA Nations League,Dublin › Republic of Ireland
+Tue Oct 16 2018,Norway,1-0,Bulgaria,UEFA Nations League,Oslo › Norway
+Tue Oct 16 2018,Slovenia,1-1,Cyprus,UEFA Nations League,Ljubljana › Slovenia
+Tue Oct 16 2018,Kazakhstan,4-0,Andorra,UEFA Nations League,Astana › Kazakhstan
+Tue Oct 16 2018,Latvia,0-3,Georgia,UEFA Nations League,Riga › Latvia
+Tue Oct 16 2018,Armenia,4-0,North Macedonia,UEFA Nations League,Yerevan › Armenia
+Tue Oct 16 2018,Gibraltar,2-1,Liechtenstein,UEFA Nations League,Gibraltar › Gibraltar
+Tue Oct 16 2018,Bahrain,4-1,Myanmar,Friendly,East Riffa › Bahrain
+Tue Oct 16 2018,Belgium,1-1,Netherlands,Friendly,Brussels › Belgium
+Tue Oct 16 2018,Cambodia,1-2,Singapore,Friendly,Phnom Penh › Cambodia
+Tue Oct 16 2018,China PR,2-0,Syria,Friendly,Nanjing › China PR
+Tue Oct 16 2018,Colombia,3-1,Costa Rica,Friendly,Harrison › United States
+Tue Oct 16 2018,Denmark,2-0,Austria,Friendly,Herning › Denmark
+Tue Oct 16 2018,Indonesia,1-1,Hong Kong,Friendly,Cikarang › Indonesia
+Tue Oct 16 2018,Iran,2-1,Bolivia,Friendly,Tehran › Iran
+Tue Oct 16 2018,Japan,4-3,Uruguay,Friendly,Saitama › Japan
+Tue Oct 16 2018,South Korea,2-2,Panama,Friendly,Cheonan › South Korea
+Tue Oct 16 2018,Laos,1-4,Mongolia,Friendly,Vientiane › Laos
+Tue Oct 16 2018,Malaysia,0-1,Kyrgyzstan,Friendly,Malacca City › Malaysia
+Tue Oct 16 2018,Mexico,0-1,Chile,Friendly,Queretaro › Mexico
+Tue Oct 16 2018,Oman,0-0,Ecuador,Friendly,Doha › Qatar
+Tue Oct 16 2018,Sweden,1-1,Slovakia,Friendly,Stockholm › Sweden
+Tue Oct 16 2018,United Arab Emirates,0-2,Venezuela,Friendly,Barcelona › Spain
+Tue Oct 16 2018,United States,1-1,Peru,Friendly,East Hartford › United States
+Tue Oct 16 2018,Uzbekistan,2-0,Qatar,Friendly,Tashkent › Uzbekistan
+Tue Oct 16 2018,Madagascar,1-0,Equatorial Guinea,African Cup of Nations qualification,Antananarivo › Madagascar
+Tue Oct 16 2018,Malawi,0-0,Cameroon,African Cup of Nations qualification,Blantyre › Malawi
+Tue Oct 16 2018,Burundi,1-1,Mali,African Cup of Nations qualification,Bujumbura › Burundi
+Tue Oct 16 2018,Benin,1-0,Algeria,African Cup of Nations qualification,Cotonou › Benin
+Tue Oct 16 2018,Seychelles,0-0,South Africa,African Cup of Nations qualification,Victoria › Seychelles
+Tue Oct 16 2018,Liberia,2-1,Congo,African Cup of Nations qualification,Monrovia › Liberia
+Tue Oct 16 2018,Central African Republic,0-0,Ivory Coast,African Cup of Nations qualification,Bangui › Central African Republic
+Tue Oct 16 2018,Mauritania,1-0,Angola,African Cup of Nations qualification,Nouakchott › Mauritania
+Tue Oct 16 2018,Eswatini,0-2,Egypt,African Cup of Nations qualification,Manzini › Eswatini
+Tue Oct 16 2018,Tanzania,2-0,Cape Verde,African Cup of Nations qualification,Dar es Salaam › Tanzania
+Tue Oct 16 2018,Argentina,0-1,Brazil,Friendly,Jeddah › Saudi Arabia
+Tue Oct 16 2018,Martinique,4-0,British Virgin Islands,CONCACAF Nations League qualification,Fort de France › Martinique
+Tue Oct 16 2018,Canada,5-0,Dominica,CONCACAF Nations League qualification,Toronto › Canada
+Tue Oct 16 2018,Guadeloupe,0-0,Aruba,CONCACAF Nations League qualification,Les Abymes › Guadeloupe
+Tue Oct 16 2018,Saint Lucia,1-2,Haiti,CONCACAF Nations League qualification,Fort de France › Martinique
+Sun Oct 21 2018,Parishes of Jersey,2-1,Yorkshire,Friendly,St. Peter › Jersey
+Sat Nov 3 2018,Malaysia,3-0,Maldives,Friendly,Kuala Lumpur › Malaysia
+Thu Nov 8 2018,Cambodia,0-1,Malaysia,AFF Championship,Phnom Penh › Cambodia
+Thu Nov 8 2018,Laos,0-3,Vietnam,AFF Championship,Vientiane › Laos
+Fri Nov 9 2018,Timor-Leste,0-7,Thailand,AFF Championship,Bangkok › Thailand
+Fri Nov 9 2018,Singapore,1-0,Indonesia,AFF Championship,Kallang › Singapore
+Sun Nov 11 2018,North Korea,4-1,Mongolia,EAFF Championship,Taipei › Chinese Taipei
+Sun Nov 11 2018,Chinese Taipei,1-2,Hong Kong,EAFF Championship,Taipei › Chinese Taipei
+Mon Nov 12 2018,Myanmar,4-1,Cambodia,AFF Championship,Mandalay › Myanmar
+Mon Nov 12 2018,Malaysia,3-1,Laos,AFF Championship,Kuala Lumpur › Malaysia
+Tue Nov 13 2018,Indonesia,3-1,Timor-Leste,AFF Championship,Jakarta › Indonesia
+Tue Nov 13 2018,Philippines,1-0,Singapore,AFF Championship,Bacolod › Philippines
+Tue Nov 13 2018,Chinese Taipei,2-1,Mongolia,EAFF Championship,Taipei › Chinese Taipei
+Tue Nov 13 2018,Hong Kong,0-0,North Korea,EAFF Championship,Taipei › Chinese Taipei
+Wed Nov 14 2018,Switzerland,0-1,Qatar,Friendly,Lugano › Switzerland
+Wed Nov 14 2018,Vanuatu,0-1,New Caledonia,Friendly,Port Vila › Vanuatu
+Thu Nov 15 2018,Belgium,2-0,Iceland,UEFA Nations League,Brussels › Belgium
+Thu Nov 15 2018,Croatia,3-2,Spain,UEFA Nations League,Zagreb › Croatia
+Thu Nov 15 2018,Austria,0-0,Bosnia and Herzegovina,UEFA Nations League,Vienna › Austria
+Thu Nov 15 2018,Hungary,2-0,Estonia,UEFA Nations League,Budapest › Hungary
+Thu Nov 15 2018,Greece,1-0,Finland,UEFA Nations League,Athens › Greece
+Thu Nov 15 2018,Andorra,1-1,Georgia,UEFA Nations League,Andorra la Vella › Andorra
+Thu Nov 15 2018,Kazakhstan,1-1,Latvia,UEFA Nations League,Astana › Kazakhstan
+Thu Nov 15 2018,Luxembourg,0-2,Belarus,UEFA Nations League,Luxembourg City › Luxembourg
+Thu Nov 15 2018,San Marino,0-1,Moldova,UEFA Nations League,Serravalle › San Marino
+Thu Nov 15 2018,England,3-0,United States,Friendly,London › England
+Thu Nov 15 2018,Germany,3-0,Russia,Friendly,Leipzig › Germany
+Thu Nov 15 2018,Iran,1-0,Trinidad and Tobago,Friendly,Tehran › Iran
+Thu Nov 15 2018,Israel,7-0,Guatemala,Friendly,Netanya › Israel
+Thu Nov 15 2018,Peru,0-2,Ecuador,Friendly,Lima › Peru
+Thu Nov 15 2018,Poland,0-1,Czech Republic,Friendly,Gdańsk › Poland
+Thu Nov 15 2018,Republic of Ireland,0-0,Northern Ireland,Friendly,Dublin › Republic of Ireland
+Thu Nov 15 2018,Uzbekistan,0-0,Lebanon,Friendly,Robina › Australia
+Fri Nov 16 2018,Netherlands,2-0,France,UEFA Nations League,Rotterdam › Netherlands
+Fri Nov 16 2018,Slovakia,4-1,Ukraine,UEFA Nations League,Trnava › Slovakia
+Fri Nov 16 2018,Wales,1-2,Denmark,UEFA Nations League,Cardiff › Wales
+Fri Nov 16 2018,Slovenia,1-1,Norway,UEFA Nations League,Ljubljana › Slovenia
+Fri Nov 16 2018,Cyprus,1-1,Bulgaria,UEFA Nations League,Nicosia › Cyprus
+Fri Nov 16 2018,Gibraltar,2-6,Armenia,UEFA Nations League,Gibraltar › Gibraltar
+Fri Nov 16 2018,Liechtenstein,0-2,North Macedonia,UEFA Nations League,Vaduz › Liechtenstein
+Fri Nov 16 2018,Argentina,2-0,Mexico,Friendly,Cordoba › Argentina
+Fri Nov 16 2018,Brazil,1-0,Uruguay,Friendly,London › England
+Fri Nov 16 2018,Chile,2-3,Costa Rica,Friendly,Rancagua › Chile
+Fri Nov 16 2018,Honduras,1-0,Panama,Friendly,Tegucigalpa › Honduras
+Fri Nov 16 2018,Japan,1-1,Venezuela,Friendly,Ōita › Japan
+Fri Nov 16 2018,Oman,1-1,Syria,Friendly,Muscat › Oman
+Fri Nov 16 2018,Palestine,2-1,Pakistan,Friendly,Al Ram › Palestine
+Fri Nov 16 2018,Saudi Arabia,1-0,Yemen,Friendly,Damman › Saudi Arabia
+Fri Nov 16 2018,United Arab Emirates,0-0,Bolivia,Friendly,Dubai › United Arab Emirates
+Fri Nov 16 2018,Laos,1-3,Myanmar,AFF Championship,Vientiane › Laos
+Fri Nov 16 2018,Vietnam,2-0,Malaysia,AFF Championship,Hanoi › Vietnam
+Fri Nov 16 2018,Morocco,2-0,Cameroon,African Cup of Nations qualification,Casablanca › Morocco
+Fri Nov 16 2018,South Sudan,2-5,Burundi,African Cup of Nations qualification,Juba › South Sudan
+Fri Nov 16 2018,Egypt,3-2,Tunisia,African Cup of Nations qualification,Alexandria › Egypt
+Fri Nov 16 2018,Chinese Taipei,0-2,North Korea,EAFF Championship,Taipei › Chinese Taipei
+Fri Nov 16 2018,Mongolia,1-5,Hong Kong,EAFF Championship,Taipei › Chinese Taipei
+Fri Nov 16 2018,Grenada,5-2,Saint Martin,CONCACAF Nations League qualification,Saint George's › Grenada
+Fri Nov 16 2018,Bermuda,1-0,El Salvador,CONCACAF Nations League qualification,Hamilton › Bermuda
+Fri Nov 16 2018,Aruba,0-2,Montserrat,CONCACAF Nations League qualification,Willemstad › Netherlands Antilles
+Fri Nov 16 2018,Belize,1-0,Puerto Rico,CONCACAF Nations League qualification,Belmopan › Belize
+Sat Nov 17 2018,Italy,0-0,Portugal,UEFA Nations League,Milan › Italy
+Sat Nov 17 2018,Turkey,0-1,Sweden,UEFA Nations League,Konya › Turkey
+Sat Nov 17 2018,Albania,0-4,Scotland,UEFA Nations League,Shkodër › Albania
+Sat Nov 17 2018,Serbia,2-1,Montenegro,UEFA Nations League,Belgrade › Serbia
+Sat Nov 17 2018,Romania,3-0,Lithuania,UEFA Nations League,Ploiești › Romania
+Sat Nov 17 2018,Malta,0-5,Kosovo,UEFA Nations League,Attard › Malta
+Sat Nov 17 2018,Azerbaijan,2-0,Faroe Islands,UEFA Nations League,Baku › Azerbaijan
+Sat Nov 17 2018,Australia,1-1,South Korea,Friendly,Brisbane › Australia
+Sat Nov 17 2018,Jordan,2-1,India,Friendly,Amman › Jordan
+Sat Nov 17 2018,Vanuatu,2-2,New Caledonia,Friendly,Port Vila › Vanuatu
+Sat Nov 17 2018,Thailand,4-2,Indonesia,AFF Championship,Bangkok › Thailand
+Sat Nov 17 2018,Timor-Leste,2-3,Philippines,AFF Championship,Kuala Lumpur › Malaysia
+Sat Nov 17 2018,Equatorial Guinea,0-1,Senegal,African Cup of Nations qualification,Bata › Equatorial Guinea
+Sat Nov 17 2018,Gambia,3-1,Benin,African Cup of Nations qualification,Bakau › Gambia
+Sat Nov 17 2018,Seychelles,1-8,Libya,African Cup of Nations qualification,Victoria › Seychelles
+Sat Nov 17 2018,Namibia,0-0,Guinea-Bissau,African Cup of Nations qualification,Windhoek › Namibia
+Sat Nov 17 2018,Uganda,1-0,Cape Verde,African Cup of Nations qualification,Kira › Uganda
+Sat Nov 17 2018,Cuba,1-0,Dominican Republic,CONCACAF Nations League qualification,Havana › Cuba
+Sat Nov 17 2018,Jamaica,2-1,Suriname,CONCACAF Nations League qualification,Kingston › Jamaica
+Sat Nov 17 2018,Cayman Islands,0-0,Saint Lucia,CONCACAF Nations League qualification,George Town › Cayman Islands
+Sat Nov 17 2018,Nicaragua,0-2,Haiti,CONCACAF Nations League qualification,Managua › Nicaragua
+Sun Nov 18 2018,Switzerland,5-2,Belgium,UEFA Nations League,Luzern › Switzerland
+Sun Nov 18 2018,England,2-1,Croatia,UEFA Nations League,London › England
+Sun Nov 18 2018,Northern Ireland,1-2,Austria,UEFA Nations League,Belfast › Northern Ireland
+Sun Nov 18 2018,Greece,0-1,Estonia,UEFA Nations League,Athens › Greece
+Sun Nov 18 2018,Hungary,2-0,Finland,UEFA Nations League,Budapest › Hungary
+Sun Nov 18 2018,San Marino,0-2,Belarus,UEFA Nations League,Serravalle › San Marino
+Sun Nov 18 2018,Moldova,1-1,Luxembourg,UEFA Nations League,Chișinău › Moldova
+Sun Nov 18 2018,Spain,1-0,Bosnia and Herzegovina,Friendly,Las Palmas › Spain
+Sun Nov 18 2018,Ethiopia,0-2,Ghana,African Cup of Nations qualification,Addis Ababa › Ethiopia
+Sun Nov 18 2018,Congo,1-1,DR Congo,African Cup of Nations qualification,Brazzaville › Congo
+Sun Nov 18 2018,Guinea,1-1,Ivory Coast,African Cup of Nations qualification,Conakry › Guinea
+Sun Nov 18 2018,Angola,2-1,Burkina Faso,African Cup of Nations qualification,Luanda › Angola
+Sun Nov 18 2018,Yorkshire,5-4,Panjab,Friendly,Ossett › England
+Sun Nov 18 2018,Turks and Caicos Islands,3-2,Saint Vincent and the Grenadines,CONCACAF Nations League qualification,Providenciales › Turks and Caicos Islands
+Sun Nov 18 2018,Bahamas,1-1,Anguilla,CONCACAF Nations League qualification,Nassau › Bahamas
+Sun Nov 18 2018,Barbados,3-0,U.S. Virgin Islands,CONCACAF Nations League qualification,Bridgetown › Barbados
+Sun Nov 18 2018,Saint Kitts and Nevis,0-1,Canada,CONCACAF Nations League qualification,Basseterre › Saint Kitts and Nevis
+Mon Nov 19 2018,Germany,2-2,Netherlands,UEFA Nations League,Gelsenkirchen › Germany
+Mon Nov 19 2018,Czech Republic,1-0,Slovakia,UEFA Nations League,Prague › Czech Republic
+Mon Nov 19 2018,Denmark,0-0,Republic of Ireland,UEFA Nations League,Aarhus › Denmark
+Mon Nov 19 2018,Bulgaria,1-1,Slovenia,UEFA Nations League,Sofia › Bulgaria
+Mon Nov 19 2018,Cyprus,0-2,Norway,UEFA Nations League,Nicosia › Cyprus
+Mon Nov 19 2018,Andorra,0-0,Latvia,UEFA Nations League,Andorra la Vella › Andorra
+Mon Nov 19 2018,Georgia,2-1,Kazakhstan,UEFA Nations League,Tbilisi › Georgia
+Mon Nov 19 2018,North Macedonia,4-0,Gibraltar,UEFA Nations League,Skopje › North Macedonia
+Mon Nov 19 2018,Liechtenstein,2-2,Armenia,UEFA Nations League,Vaduz › Liechtenstein
+Mon Nov 19 2018,Iceland,2-2,Qatar,Friendly,Eupen › Belgium
+Mon Nov 19 2018,Oman,2-1,Bahrain,Friendly,Muscat › Oman
+Mon Nov 19 2018,Curaçao,6-0,Guadeloupe,CONCACAF Nations League qualification,Willemstad › Curaçao
+Mon Nov 19 2018,Martinique,4-2,Antigua and Barbuda,CONCACAF Nations League qualification,Fort de France › Martinique
+Tue Nov 20 2018,Portugal,1-1,Poland,UEFA Nations League,Guimaraes › Portugal
+Tue Nov 20 2018,Sweden,2-0,Russia,UEFA Nations League,Stockholm › Sweden
+Tue Nov 20 2018,Scotland,3-2,Israel,UEFA Nations League,Glasgow › Scotland
+Tue Nov 20 2018,Montenegro,0-1,Romania,UEFA Nations League,Podgorica › Montenegro
+Tue Nov 20 2018,Serbia,4-1,Lithuania,UEFA Nations League,Belgrade › Serbia
+Tue Nov 20 2018,Kosovo,4-0,Azerbaijan,UEFA Nations League,Pristina › Kosovo
+Tue Nov 20 2018,Malta,1-1,Faroe Islands,UEFA Nations League,Attard › Malta
+Tue Nov 20 2018,Albania,1-0,Wales,Friendly,Elbasan › Albania
+Tue Nov 20 2018,Argentina,2-0,Mexico,Friendly,Mendoza › Argentina
+Tue Nov 20 2018,Australia,3-0,Lebanon,Friendly,Sydney › Australia
+Tue Nov 20 2018,Brazil,1-0,Cameroon,Friendly,London › England
+Tue Nov 20 2018,Chile,4-1,Honduras,Friendly,Temuco › Chile
+Tue Nov 20 2018,China PR,1-1,Palestine,Friendly,Wuhan › China PR
+Tue Nov 20 2018,El Salvador,1-0,Haiti,Friendly,San Salvador › El Salvador
+Tue Nov 20 2018,France,1-0,Uruguay,Friendly,Paris › France
+Tue Nov 20 2018,Iran,1-1,Venezuela,Friendly,Doha › Qatar
+Tue Nov 20 2018,Iraq,0-0,Bolivia,Friendly,Al-Ain › Iraq
+Tue Nov 20 2018,Italy,1-0,United States,Friendly,Genk › Belgium
+Tue Nov 20 2018,Japan,4-0,Kyrgyzstan,Friendly,Toyota › Japan
+Tue Nov 20 2018,Jordan,1-1,Saudi Arabia,Friendly,Amman › Jordan
+Tue Nov 20 2018,South Korea,4-0,Uzbekistan,Friendly,Brisbane › Australia
+Tue Nov 20 2018,Kuwait,1-2,Syria,Friendly,Al Farwaniyah › Kuwait
+Tue Nov 20 2018,Nigeria,0-0,Uganda,Friendly,Asaba › Nigeria
+Tue Nov 20 2018,Panama,1-2,Ecuador,Friendly,Panama City › Panama
+Tue Nov 20 2018,Peru,2-3,Costa Rica,Friendly,Arequipa › Peru
+Tue Nov 20 2018,South Africa,1-1,Paraguay,Friendly,Durban › South Africa
+Tue Nov 20 2018,Tunisia,0-1,Morocco,Friendly,Radès › Tunisia
+Tue Nov 20 2018,Turkey,0-0,Ukraine,Friendly,Antalya › Turkey
+Tue Nov 20 2018,United Arab Emirates,2-0,Yemen,Friendly,Dubai › United Arab Emirates
+Tue Nov 20 2018,Myanmar,0-0,Vietnam,AFF Championship,Yangon › Myanmar
+Tue Nov 20 2018,Cambodia,3-1,Laos,AFF Championship,Phnom Penh › Cambodia
+Tue Nov 20 2018,Sint Maarten,0-2,Dominica,CONCACAF Nations League qualification,The Valley › Anguilla
+Tue Nov 20 2018,French Guiana,2-1,Guyana,CONCACAF Nations League qualification,Cayenne › French Guiana
+Wed Nov 21 2018,Philippines,1-1,Thailand,AFF Championship,Bacolod › Philippines
+Wed Nov 21 2018,Singapore,6-1,Timor-Leste,AFF Championship,Kallang › Singapore
+Sat Nov 24 2018,Vietnam,3-0,Cambodia,AFF Championship,Hanoi › Vietnam
+Sat Nov 24 2018,Malaysia,3-0,Myanmar,AFF Championship,Kuala Lumpur › Malaysia
+Sun Nov 25 2018,Indonesia,0-0,Philippines,AFF Championship,Jakarta › Indonesia
+Sun Nov 25 2018,Thailand,3-0,Singapore,AFF Championship,Bangkok › Thailand
+Sat Dec 1 2018,Malaysia,0-0,Thailand,AFF Championship,Kuala Lumpur › Malaysia
+Sun Dec 2 2018,Philippines,1-2,Vietnam,AFF Championship,Bacolod › Philippines
+Wed Dec 5 2018,Thailand,2-2,Malaysia,AFF Championship,Bangkok › Thailand
+Thu Dec 6 2018,Vietnam,2-1,Philippines,AFF Championship,Hanoi › Vietnam
+Tue Dec 11 2018,Malaysia,2-2,Vietnam,AFF Championship,Kuala Lumpur › Malaysia
+Thu Dec 13 2018,Oman,2-1,Tajikistan,Friendly,Muscat › Oman
+Sat Dec 15 2018,Vietnam,1-0,Malaysia,AFF Championship,Hanoi › Vietnam
+Sun Dec 16 2018,Oman,1-0,Tajikistan,Friendly,Muscat › Oman
+Sun Dec 16 2018,Palestine,2-0,Pakistan,Friendly,Doha › Qatar
+Thu Dec 20 2018,Bahrain,5-0,Tajikistan,Friendly,Isa Town › Bahrain
+Thu Dec 20 2018,Jordan,0-1,Kyrgyzstan,Friendly,Doha › Qatar
+Sun Dec 23 2018,Qatar,2-0,Jordan,Friendly,Doha › Qatar
+Mon Dec 24 2018,Iraq,2-1,China PR,Friendly,Doha › Qatar
+Mon Dec 24 2018,Palestine,1-1,Iran,Friendly,Doha › Qatar
+Tue Dec 25 2018,Afghanistan,0-2,Turkmenistan,Friendly,Antalya › Turkey
+Tue Dec 25 2018,Qatar,1-0,Kyrgyzstan,Friendly,Doha › Qatar
+Tue Dec 25 2018,Vietnam,1-1,North Korea,Friendly,Hanoi › Vietnam
+Thu Dec 27 2018,Bahrain,1-0,Lebanon,Friendly,East Riffa › Bahrain
+Thu Dec 27 2018,India,0-0,Oman,Friendly,Abu Dhabi › United Arab Emirates
+Thu Dec 27 2018,Qatar,0-1,Algeria,Friendly,Doha › Qatar
+Fri Dec 28 2018,China PR,1-1,Jordan,Friendly,Doha › Qatar
+Fri Dec 28 2018,Iraq,1-0,Palestine,Friendly,Doha › Qatar
+Fri Dec 28 2018,United Arab Emirates,0-2,Kuwait,Friendly,Dubai › United Arab Emirates
+Sat Dec 29 2018,Bahrain,4-0,North Korea,Friendly,Isa Town › Bahrain
+Sun Dec 30 2018,Australia,5-0,Oman,Friendly,Dubai › United Arab Emirates
+Sun Dec 30 2018,Yemen,0-1,Syria,Friendly,Abu Dhabi › United Arab Emirates
+Mon Dec 31 2018,South Korea,0-0,Saudi Arabia,Friendly,Abu Dhabi › United Arab Emirates
+Mon Dec 31 2018,Kyrgyzstan,2-1,Palestine,Friendly,Doha › Qatar
+Mon Dec 31 2018,Philippines,2-4,Vietnam,Friendly,Doha › Qatar
+Mon Dec 31 2018,Qatar,1-2,Iran,Friendly,Doha › Qatar

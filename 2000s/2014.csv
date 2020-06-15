@@ -1,0 +1,861 @@
+Date,Team 1,Score,Team 2,Tournament,City
+Wed Jan 1 2014,Kuwait,1-2,Jordan,WAFF Championship,Doha › Qatar
+Sat Jan 4 2014,Bahrain,0-1,Jordan,WAFF Championship,Doha › Qatar
+Sat Jan 4 2014,Namibia,0-1,Ghana,Friendly,Windhoek › Namibia
+Sat Jan 4 2014,Nigeria,2-1,Ethiopia,Friendly,Abuja › Nigeria
+Sat Jan 4 2014,Qatar,3-0,Kuwait,WAFF Championship,Doha › Qatar
+Tue Jan 7 2014,Bahrain,0-0,Kuwait,WAFF Championship,Doha › Qatar
+Tue Jan 7 2014,Qatar,2-0,Jordan,WAFF Championship,Doha › Qatar
+Tue Jan 7 2014,Zimbabwe,2-0,Gabon,Friendly,Johannesburg › South Africa
+Sat Jan 11 2014,Mali,2-1,Nigeria,African Nations Championship,Cape Town › South Africa
+Sat Jan 11 2014,South Africa,3-1,Mozambique,African Nations Championship,Cape Town › South Africa
+Sun Jan 12 2014,Uganda,2-1,Burkina Faso,African Nations Championship,Cape Town › South Africa
+Sun Jan 12 2014,Zimbabwe,0-0,Morocco,African Nations Championship,Cape Town › South Africa
+Mon Jan 13 2014,Ghana,1-0,Congo,African Nations Championship,Bloemfontein › South Africa
+Mon Jan 13 2014,Libya,2-0,Ethiopia,African Nations Championship,Bloemfontein › South Africa
+Tue Jan 14 2014,DR Congo,1-0,Mauritania,African Nations Championship,Polokwane › South Africa
+Tue Jan 14 2014,Gabon,0-0,Burundi,African Nations Championship,Polokwane › South Africa
+Wed Jan 15 2014,Moldova,1-2,Norway,Friendly,Abu Dhabi › United Arab Emirates
+Wed Jan 15 2014,Nigeria,4-2,Mozambique,African Nations Championship,Cape Town › South Africa
+Wed Jan 15 2014,South Africa,1-1,Mali,African Nations Championship,Cape Town › South Africa
+Thu Jan 16 2014,Burkina Faso,1-1,Morocco,African Nations Championship,Cape Town › South Africa
+Thu Jan 16 2014,Zimbabwe,0-0,Uganda,African Nations Championship,Cape Town › South Africa
+Fri Jan 17 2014,Ethiopia,0-1,Congo,African Nations Championship,Bloemfontein › South Africa
+Fri Jan 17 2014,Ghana,1-1,Libya,African Nations Championship,Bloemfontein › South Africa
+Fri Jan 17 2014,Moldova,1-2,Sweden,Friendly,Abu Dhabi › United Arab Emirates
+Sat Jan 18 2014,Burundi,3-2,Mauritania,African Nations Championship,Polokwane › South Africa
+Sat Jan 18 2014,DR Congo,0-1,Gabon,African Nations Championship,Polokwane › South Africa
+Sat Jan 18 2014,Norway,0-3,Poland,Friendly,Abu Dhabi › United Arab Emirates
+Sun Jan 19 2014,Mozambique,1-2,Mali,African Nations Championship,Cape Town › South Africa
+Sun Jan 19 2014,South Africa,1-3,Nigeria,African Nations Championship,Cape Town › South Africa
+Mon Jan 20 2014,Burkina Faso,0-1,Zimbabwe,African Nations Championship,Cape Town › South Africa
+Mon Jan 20 2014,Moldova,0-1,Poland,Friendly,Abu Dhabi › United Arab Emirates
+Mon Jan 20 2014,Morocco,3-1,Uganda,African Nations Championship,Cape Town › South Africa
+Tue Jan 21 2014,Congo,2-2,Libya,African Nations Championship,Polokwane › South Africa
+Tue Jan 21 2014,Ethiopia,0-1,Ghana,African Nations Championship,Bloemfontein › South Africa
+Tue Jan 21 2014,Iceland,0-2,Sweden,Friendly,Abu Dhabi › United Arab Emirates
+Wed Jan 22 2014,Burundi,1-2,DR Congo,African Nations Championship,Polokwane › South Africa
+Wed Jan 22 2014,Chile,4-0,Costa Rica,Friendly,Coquimbo › Chile
+Wed Jan 22 2014,Mauritania,2-4,Gabon,African Nations Championship,Bloemfontein › South Africa
+Fri Jan 24 2014,Oman,0-0,Finland,Friendly,Nizwa › Oman
+Sat Jan 25 2014,Costa Rica,0-1,South Korea,Friendly,Los Angeles › United States
+Sat Jan 25 2014,Mali,1-2,Zimbabwe,African Nations Championship,Cape Town › South Africa
+Sat Jan 25 2014,Morocco,3-4,Nigeria,African Nations Championship,Cape Town › South Africa
+Sun Jan 26 2014,Gabon,1-1,Libya,African Nations Championship,Polokwane › South Africa
+Sun Jan 26 2014,Ghana,1-0,DR Congo,African Nations Championship,Bloemfontein › South Africa
+Wed Jan 29 2014,Mexico,4-0,South Korea,Friendly,San Antonio › United States
+Wed Jan 29 2014,Nigeria,0-0,Ghana,African Nations Championship,Bloemfontein › South Africa
+Wed Jan 29 2014,Zimbabwe,0-0,Libya,African Nations Championship,Bloemfontein › South Africa
+Fri Jan 31 2014,Oman,0-0,Jordan,AFC Asian Cup qualification,Muscat › Oman
+Sat Feb 1 2014,Libya,0-0,Ghana,African Nations Championship,Cape Town › South Africa
+Sat Feb 1 2014,United States,2-0,South Korea,Friendly,Carson › United States
+Sat Feb 1 2014,Zimbabwe,0-1,Nigeria,African Nations Championship,Cape Town › South Africa
+Tue Feb 4 2014,Singapore,1-3,Jordan,AFC Asian Cup qualification,Singapore › Singapore
+Wed Feb 19 2014,Lebanon,3-1,Pakistan,Friendly,Beirut › Lebanon
+Fri Feb 21 2014,Iraq,2-0,North Korea,Friendly,Dubai › United Arab Emirates
+Sat Mar 1 2014,Gibraltar,1-4,Faroe Islands,Friendly,Gibraltar › Gibraltar
+Sat Mar 1 2014,Malaysia,0-0,Philippines,Friendly,Selayang › Malaysia
+Mon Mar 3 2014,Iran,3-2,Kuwait,AFC Asian Cup qualification,Karaj › Iran
+Wed Mar 5 2014,Albania,2-0,Malta,Friendly,Durrës › Albania
+Wed Mar 5 2014,Algeria,2-0,Slovenia,Friendly,Blida › Algeria
+Wed Mar 5 2014,Andorra,0-3,Moldova,Friendly,Sant Julià de Lòria › Andorra
+Wed Mar 5 2014,Australia,3-4,Ecuador,Friendly,London › England
+Wed Mar 5 2014,Austria,1-1,Uruguay,Friendly,Klagenfurt › Austria
+Wed Mar 5 2014,Belgium,2-2,Ivory Coast,Friendly,Brussels › Belgium
+Wed Mar 5 2014,Bosnia and Herzegovina,0-2,Egypt,Friendly,Innsbruck › Austria
+Wed Mar 5 2014,Botswana,3-0,South Sudan,Friendly,Gaborone › Botswana
+Wed Mar 5 2014,Bulgaria,2-1,Belarus,Friendly,Sofia › Bulgaria
+Wed Mar 5 2014,Burkina Faso,1-1,Comoros,Friendly,Martigues › France
+Wed Mar 5 2014,Burundi,1-1,Rwanda,Friendly,Bujumbura › Burundi
+Wed Mar 5 2014,Colombia,1-1,Tunisia,Friendly,Barcelona › Spain
+Wed Mar 5 2014,Cyprus,0-0,Northern Ireland,Friendly,Nicosia › Cyprus
+Wed Mar 5 2014,Czech Republic,2-2,Norway,Friendly,Prague › Czech Republic
+Wed Mar 5 2014,England,1-0,Denmark,Friendly,London › England
+Wed Mar 5 2014,France,2-0,Netherlands,Friendly,Saint-Denis › France
+Wed Mar 5 2014,Georgia,2-0,Liechtenstein,Friendly,Tbilisi › Georgia
+Wed Mar 5 2014,Germany,1-0,Chile,Friendly,Stuttgart › Germany
+Wed Mar 5 2014,Gibraltar,0-2,Estonia,Friendly,Gibraltar › Gibraltar
+Wed Mar 5 2014,Greece,0-2,South Korea,Friendly,Piraeus › Greece
+Wed Mar 5 2014,Hungary,1-2,Finland,Friendly,Győr › Hungary
+Wed Mar 5 2014,India,2-2,Bangladesh,Friendly,Margao › India
+Wed Mar 5 2014,Iran,1-2,Guinea,Friendly,Teheran › Iran
+Wed Mar 5 2014,Iraq,3-1,China PR,AFC Asian Cup qualification,Sharjah › United Arab Emirates
+Wed Mar 5 2014,Republic of Ireland,1-2,Serbia,Friendly,Dublin › Republic of Ireland
+Wed Mar 5 2014,Israel,1-3,Slovakia,Friendly,Netanya › Israel
+Wed Mar 5 2014,Japan,4-2,New Zealand,Friendly,Tokyo › Japan
+Wed Mar 5 2014,Jordan,2-1,Syria,AFC Asian Cup qualification,Amman › Jordan
+Wed Mar 5 2014,Kazakhstan,1-1,Lithuania,Friendly,Antalya › Turkey
+Wed Mar 5 2014,Kosovo,0-0,Haiti,Friendly,Mitrovica › Kosovo
+Wed Mar 5 2014,Luxembourg,0-0,Cape Verde,Friendly,Luxembourg › Luxembourg
+Wed Mar 5 2014,North Macedonia,2-1,Latvia,Friendly,Skopje › North Macedonia
+Wed Mar 5 2014,Malawi,1-4,Zimbabwe,Friendly,Blantyre › Malawi
+Wed Mar 5 2014,Mali,1-1,Senegal,Friendly,Saint-Leu-la-Forêt › France
+Wed Mar 5 2014,Mauritania,1-1,Niger,Friendly,Nouakchott › Mauritania
+Wed Mar 5 2014,Montenegro,1-0,Ghana,Friendly,Podgorica › Montenegro
+Wed Mar 5 2014,Morocco,1-1,Gabon,Friendly,Marrakech › Morocco
+Wed Mar 5 2014,Mozambique,1-1,Angola,Friendly,Maputo › Mozambique
+Wed Mar 5 2014,Namibia,1-1,Tanzania,Friendly,Windhoek › Namibia
+Wed Mar 5 2014,Oman,3-1,Singapore,AFC Asian Cup qualification,Muscat › Oman
+Wed Mar 5 2014,Philippines,0-1,Azerbaijan,Friendly,Dubai › United Arab Emirates
+Wed Mar 5 2014,Poland,0-1,Scotland,Friendly,Warsaw › Poland
+Wed Mar 5 2014,Portugal,5-1,Cameroon,Friendly,Leiria › Portugal
+Wed Mar 5 2014,Qatar,0-0,Bahrain,AFC Asian Cup qualification,Doha › Qatar
+Wed Mar 5 2014,Romania,0-0,Argentina,Friendly,Bucharest › Romania
+Wed Mar 5 2014,Russia,2-0,Armenia,Friendly,Krasnodar › Russia
+Wed Mar 5 2014,Saudi Arabia,1-0,Indonesia,AFC Asian Cup qualification,Dammam › Saudi Arabia
+Wed Mar 5 2014,South Africa,0-5,Brazil,Friendly,Johannesburg › South Africa
+Wed Mar 5 2014,Spain,1-0,Italy,Friendly,Madrid › Spain
+Wed Mar 5 2014,Saint Lucia,0-5,Jamaica,Friendly,Castries › Saint Lucia
+Wed Mar 5 2014,Switzerland,2-2,Croatia,Friendly,St. Gallen › Switzerland
+Wed Mar 5 2014,Thailand,2-5,Lebanon,AFC Asian Cup qualification,Bangkok › Thailand
+Wed Mar 5 2014,Turkey,2-1,Sweden,Friendly,Ankara › Turkey
+Wed Mar 5 2014,Ukraine,2-0,United States,Friendly,Larnaca › Cyprus
+Wed Mar 5 2014,Uzbekistan,1-1,United Arab Emirates,AFC Asian Cup qualification,Tashkent › Uzbekistan
+Wed Mar 5 2014,Vietnam,3-1,Hong Kong,AFC Asian Cup qualification,Hanoi › Vietnam
+Wed Mar 5 2014,Wales,3-1,Iceland,Friendly,Cardiff › Wales
+Wed Mar 5 2014,Yemen,1-2,Malaysia,AFC Asian Cup qualification,al-Ain › United Arab Emirates
+Wed Mar 5 2014,Zambia,2-1,Uganda,Friendly,Ndola › Zambia
+Fri Mar 7 2014,Lesotho,0-1,Eswatini,Friendly,Maseru › Lesotho
+Sun Mar 9 2014,Lesotho,0-0,Eswatini,Friendly,Maseru › Lesotho
+Wed Mar 19 2014,Saint Lucia,0-0,Martinique,Friendly,Gros Islet › Saint Lucia
+Tue Mar 25 2014,Yemen,2-0,Nepal,Friendly,Doha › Qatar
+Wed Mar 26 2014,Andorra,0-1,Indonesia,Friendly,Alzira › Spain
+Thu Mar 27 2014,Aruba,2-2,Guam,Friendly,Oranjestad › Aruba
+Sat Mar 29 2014,Cuba,1-0,Indonesia,Friendly,Alzira › Spain
+Sun Mar 30 2014,Aruba,2-0,Guam,Friendly,Oranjestad › Aruba
+Sat Apr 12 2014,Mauritania,1-0,Mauritius,African Cup of Nations qualification,Nouakchott › Mauritania
+Sun Apr 13 2014,Afghanistan,0-0,Kyrgyzstan,Friendly,Dubai › United Arab Emirates
+Tue Apr 15 2014,Yemen,0-0,Chad,Friendly,Doha › Qatar
+Thu Apr 17 2014,Guadeloupe,3-2,French Guiana,Friendly,Les Abymes › Guadeloupe
+Sun Apr 20 2014,Mauritius,0-2,Mauritania,African Cup of Nations qualification,Curepipe › Mauritius
+Sat Apr 26 2014,Tanzania,0-3,Burundi,Friendly,Dar es Salaam › Tanzania
+Sun Apr 27 2014,Philippines,0-0,Malaysia,Friendly,Cebu › Philippines
+Fri May 2 2014,Grenada,0-1,Saint Lucia,Windward Islands Tournament,Roseau › Dominica
+Sun May 4 2014,Dominica,3-5,Grenada,Windward Islands Tournament,Roseau › Dominica
+Sat May 10 2014,Vatican City,0-2,Monaco,Friendly,Rome › Italy
+Mon May 12 2014,Afghanistan,1-0,Kyrgyzstan,Friendly,Kuwait City › Kuwait
+Tue May 13 2014,Germany,0-0,Poland,Friendly,Hamburg › Germany
+Wed May 14 2014,Kuwait,3-2,Afghanistan,Friendly,Kuwait City › Kuwait
+Fri May 16 2014,Kuwait,2-2,Kyrgyzstan,Friendly,Kuwait City › Kuwait
+Sat May 17 2014,Malawi,2-0,Chad,African Cup of Nations qualification,Blantyre › Malawi
+Sat May 17 2014,Mauritania,1-0,Equatorial Guinea,African Cup of Nations qualification,Nouakchott › Mauritania
+Sat May 17 2014,Namibia,1-0,Congo,African Cup of Nations qualification,Windhoek › Namibia
+Sat May 17 2014,Netherlands,1-1,Ecuador,Friendly,Amsterdam › Netherlands
+Sat May 17 2014,São Tomé and Príncipe,0-2,Benin,African Cup of Nations qualification,São Tomé › São Tomé and Príncipe
+Sun May 18 2014,Belarus,0-0,Iran,Friendly,Kapfenberg › Austria
+Sun May 18 2014,Burundi,0-0,Botswana,African Cup of Nations qualification,Bujumbura › Burundi
+Sun May 18 2014,Central African Republic,0-0,Guinea-Bissau,African Cup of Nations qualification,Brazzaville › Congo
+Sun May 18 2014,Liberia,1-0,Lesotho,African Cup of Nations qualification,Monrovia › Liberia
+Sun May 18 2014,Libya,0-0,Rwanda,African Cup of Nations qualification,Radès › Tunisia
+Sun May 18 2014,Tanzania,1-0,Zimbabwe,African Cup of Nations qualification,Dar es Salaam › Tanzania
+Mon May 19 2014,Maldives,2-3,Burma,AFC Challenge Cup,Malé › Maldives
+Mon May 19 2014,Palestine,1-0,Kyrgyzstan,AFC Challenge Cup,Malé › Maldives
+Tue May 20 2014,French Guiana,0-0,Suriname,Friendly,Cayenne › French Guiana
+Tue May 20 2014,Philippines,0-0,Afghanistan,AFC Challenge Cup,Addu City › Maldives
+Tue May 20 2014,Turkmenistan,5-1,Laos,AFC Challenge Cup,Addu City › Maldives
+Wed May 21 2014,Burkina Faso,1-1,Senegal,Friendly,Ouagadougou › Burkina Faso
+Wed May 21 2014,Burma,0-2,Palestine,AFC Challenge Cup,Malé › Maldives
+Wed May 21 2014,Finland,2-2,Czech Republic,Friendly,Helsinki › Finland
+Wed May 21 2014,Kosovo,1-6,Turkey,Friendly,Mitrovica › Kosovo
+Wed May 21 2014,Liechtenstein,1-5,Belarus,Friendly,Vaduz › Liechtenstein
+Wed May 21 2014,Maldives,2-0,Kyrgyzstan,AFC Challenge Cup,Malé › Maldives
+Thu May 22 2014,Afghanistan,3-1,Turkmenistan,AFC Challenge Cup,Addu City › Maldives
+Thu May 22 2014,Hungary,2-2,Denmark,Friendly,Debrecen › Hungary
+Thu May 22 2014,Laos,0-2,Philippines,AFC Challenge Cup,Addu City › Maldives
+Thu May 22 2014,Ukraine,2-1,Niger,Friendly,Kyïv › Ukraine
+Fri May 23 2014,Bulgaria,1-1,Canada,Friendly,Ritzing › Austria
+Fri May 23 2014,Kyrgyzstan,1-0,Burma,AFC Challenge Cup,Addu City › Maldives
+Fri May 23 2014,Maldives,0-0,Palestine,AFC Challenge Cup,Malé › Maldives
+Fri May 23 2014,Slovakia,2-0,Montenegro,Friendly,Senec › Slovakia
+Sat May 24 2014,Afghanistan,0-0,Laos,AFC Challenge Cup,Addu City › Maldives
+Sat May 24 2014,Moldova,4-0,Saudi Arabia,Friendly,Jerez de la Frontera › Spain
+Sat May 24 2014,Turkmenistan,0-2,Philippines,AFC Challenge Cup,Malé › Maldives
+Sun May 25 2014,Republic of Ireland,1-2,Turkey,Friendly,Dublin › Republic of Ireland
+Sun May 25 2014,Kosovo,1-3,Senegal,Friendly,Lancy › Switzerland
+Sun May 25 2014,Mali,1-2,Guinea,Friendly,Colombes › France
+Sun May 25 2014,Thailand,1-1,Kuwait,Friendly,Bangkok › Thailand
+Mon May 26 2014,Australia,1-1,South Africa,Friendly,Sydney › Australia
+Mon May 26 2014,Belgium,5-1,Luxembourg,Friendly,Genk › Belgium
+Mon May 26 2014,Estonia,1-1,Gibraltar,Friendly,Tallinn › Estonia
+Mon May 26 2014,Jamaica,1-2,Serbia,Friendly,Harrison › United States
+Mon May 26 2014,North Macedonia,0-2,Cameroon,Friendly,Kufstein › Austria
+Mon May 26 2014,Montenegro,0-0,Iran,Friendly,Hartberg › Austria
+Mon May 26 2014,Russia,1-0,Slovakia,Friendly,St. Petersburg › Russia
+Tue May 27 2014,Armenia,4-3,United Arab Emirates,Friendly,Carouge › Switzerland
+Tue May 27 2014,France,4-0,Norway,Friendly,Saint-Denis › France
+Tue May 27 2014,Japan,1-0,Cyprus,Friendly,Saitama › Japan
+Tue May 27 2014,Maldives,2-3,Philippines,AFC Challenge Cup,Malé › Maldives
+Tue May 27 2014,Moldova,1-1,Canada,Friendly,Mauer › Austria
+Tue May 27 2014,Palestine,2-0,Afghanistan,AFC Challenge Cup,Malé › Maldives
+Tue May 27 2014,Suriname,1-0,French Guiana,Friendly,Paramaribo › Suriname
+Tue May 27 2014,Tanzania,1-0,Malawi,Friendly,Dar es Salaam › Tanzania
+Tue May 27 2014,Uzbekistan,0-1,Oman,Friendly,Olmaliq › Uzbekistan
+Wed May 28 2014,Angola,2-0,Morocco,Friendly,Faro › Portugal
+Wed May 28 2014,Denmark,1-0,Sweden,Friendly,Copenhagen › Denmark
+Wed May 28 2014,South Korea,0-1,Tunisia,Friendly,Seoul › South Korea
+Wed May 28 2014,Nigeria,2-2,Scotland,Friendly,London › England
+Thu May 29 2014,Cameroon,1-2,Paraguay,Friendly,Kufstein › Austria
+Thu May 29 2014,Finland,0-1,Lithuania,Baltic Cup,Ventspils › Latvia
+Thu May 29 2014,Georgia,2-0,Saudi Arabia,Friendly,Jerez de la Frontera › Spain
+Thu May 29 2014,Latvia,0-0,Estonia,Baltic Cup,Liepāja › Latvia
+Thu May 29 2014,Maldives,1-1,Afghanistan,AFC Challenge Cup,Malé › Maldives
+Thu May 29 2014,Uzbekistan,0-1,Oman,Friendly,Tashkent › Uzbekistan
+Fri May 30 2014,Angola,1-1,Iran,Friendly,Hartberg › Austria
+Fri May 30 2014,Aruba,1-0,Turks and Caicos Islands,CFU Caribbean Cup qualification,Oranjestad › Aruba
+Fri May 30 2014,Austria,1-1,Iceland,Friendly,Innsbruck › Austria
+Fri May 30 2014,Bosnia and Herzegovina,2-1,Ivory Coast,Friendly,St. Louis › United States
+Fri May 30 2014,Comoros,1-1,Kenya,African Cup of Nations qualification,Mitsamiouli › Comoros
+Fri May 30 2014,England,3-0,Peru,Friendly,London › England
+Fri May 30 2014,French Guiana,6-0,British Virgin Islands,CFU Caribbean Cup qualification,Oranjestad › Aruba
+Fri May 30 2014,North Macedonia,0-0,Qatar,Friendly,Rieti › Italy
+Fri May 30 2014,Montserrat,1-0,U.S. Virgin Islands,CFU Caribbean Cup qualification,Lookout › Montserrat
+Fri May 30 2014,New Zealand,0-0,South Africa,Friendly,Auckland › New Zealand
+Fri May 30 2014,Palestine,1-0,Philippines,AFC Challenge Cup,Malé › Maldives
+Fri May 30 2014,South Sudan,0-0,Mozambique,African Cup of Nations qualification,Khartoum › Sudan
+Fri May 30 2014,Spain,2-0,Bolivia,Friendly,Seville › Spain
+Fri May 30 2014,Switzerland,1-0,Jamaica,Friendly,Lucerne › Switzerland
+Fri May 30 2014,Uruguay,1-0,Northern Ireland,Friendly,Montevideo › Uruguay
+Sat May 31 2014,Albania,0-1,Romania,Friendly,Yverdon-les-Bains › Switzerland
+Sat May 31 2014,Armenia,1-3,Algeria,Friendly,Sion › Switzerland
+Sat May 31 2014,Chad,3-1,Malawi,African Cup of Nations qualification,N'Djamena › Chad
+Sat May 31 2014,Colombia,2-2,Senegal,Friendly,Buenos Aires › Argentina
+Sat May 31 2014,Croatia,2-1,Mali,Friendly,Osijek › Croatia
+Sat May 31 2014,Finland,2-0,Estonia,Baltic Cup,Ventspils › Latvia
+Sat May 31 2014,Guinea-Bissau,3-1,Central African Republic,African Cup of Nations qualification,Bissau › Guinea-Bissau
+Sat May 31 2014,Italy,0-0,Republic of Ireland,Friendly,London › England
+Sat May 31 2014,Latvia,1-0,Lithuania,Baltic Cup,Liepāja › Latvia
+Sat May 31 2014,Mexico,3-1,Ecuador,Friendly,Arlington › United States
+Sat May 31 2014,Netherlands,1-0,Ghana,Friendly,Rotterdam › Netherlands
+Sat May 31 2014,Norway,1-1,Russia,Friendly,Oslo › Norway
+Sat May 31 2014,Portugal,0-0,Greece,Friendly,Oeiras › Portugal
+Sat May 31 2014,Rwanda,3-0,Libya,African Cup of Nations qualification,Kigali › Rwanda
+Sat May 31 2014,Sierra Leone,1-0,Eswatini,African Cup of Nations qualification,Freetown › Sierra Leone
+Sat May 31 2014,Uganda,1-0,Madagascar,African Cup of Nations qualification,Kampala › Uganda
+Sun Jun 1 2014,Aruba,7-0,British Virgin Islands,CFU Caribbean Cup qualification,Oranjestad › Aruba
+Sun Jun 1 2014,Benin,2-0,São Tomé and Príncipe,African Cup of Nations qualification,Porto-Novo › Benin
+Sun Jun 1 2014,Botswana,1-0,Burundi,African Cup of Nations qualification,Lobatse › Botswana
+Sun Jun 1 2014,Congo,3-0,Namibia,African Cup of Nations qualification,Pointe-Noire › Congo
+Sun Jun 1 2014,Equatorial Guinea,3-0,Mauritania,African Cup of Nations qualification,Malabo › Equatorial Guinea
+Sun Jun 1 2014,France,1-1,Paraguay,Friendly,Nice › France
+Sun Jun 1 2014,Germany,2-2,Cameroon,Friendly,Mönchengladbach › Germany
+Sun Jun 1 2014,Honduras,2-4,Israel,Friendly,Houston › United States
+Sun Jun 1 2014,Lesotho,2-0,Liberia,African Cup of Nations qualification,Maseru › Lesotho
+Sun Jun 1 2014,Sweden,0-2,Belgium,Friendly,Solna › Sweden
+Sun Jun 1 2014,Turks and Caicos Islands,0-6,French Guiana,CFU Caribbean Cup qualification,Oranjestad › Aruba
+Sun Jun 1 2014,United States,2-1,Turkey,Friendly,Harrison › United States
+Sun Jun 1 2014,U.S. Virgin Islands,1-2,Bonaire,CFU Caribbean Cup qualification,Lookout › Montserrat
+Sun Jun 1 2014,Zimbabwe,2-2,Tanzania,African Cup of Nations qualification,Harare › Zimbabwe
+Sun Jun 1 2014,Iraqi Kurdistan,1-2,Arameans Suryoye,CONIFA World Football Cup,Östersund › Sweden
+Sun Jun 1 2014,Abkhazia,1-1,Occitania,CONIFA World Football Cup,Östersund › Sweden
+Sun Jun 1 2014,Darfur,0-20,Padania,CONIFA World Football Cup,Östersund › Sweden
+Sun Jun 1 2014,Ellan Vannin,3-2,Artsakh,CONIFA World Football Cup,Östersund › Sweden
+Mon Jun 2 2014,Costa Rica,1-3,Japan,Friendly,Tampa › United States
+Mon Jun 2 2014,Tamil Eelam,0-2,Arameans Suryoye,CONIFA World Football Cup,Östersund › Sweden
+Mon Jun 2 2014,Sápmi,1-2,Abkhazia,CONIFA World Football Cup,Östersund › Sweden
+Mon Jun 2 2014,Darfur,0-19,South Ossetia,CONIFA World Football Cup,Östersund › Sweden
+Mon Jun 2 2014,Ellan Vannin,4-2,County of Nice,CONIFA World Football Cup,Östersund › Sweden
+Tue Jun 3 2014,Aruba,0-2,French Guiana,CFU Caribbean Cup qualification,Oranjestad › Aruba
+Tue Jun 3 2014,Brazil,4-0,Panama,Friendly,Goiânia › Brazil
+Tue Jun 3 2014,British Virgin Islands,0-2,Turks and Caicos Islands,CFU Caribbean Cup qualification,Oranjestad › Aruba
+Tue Jun 3 2014,Czech Republic,1-2,Austria,Friendly,Olomouc › Czech Republic
+Tue Jun 3 2014,Georgia,0-1,United Arab Emirates,Friendly,Meyrin › Switzerland
+Tue Jun 3 2014,Greece,0-0,Nigeria,Friendly,Chester › United States
+Tue Jun 3 2014,Mexico,0-1,Bosnia and Herzegovina,Friendly,Chicago › United States
+Tue Jun 3 2014,Switzerland,2-0,Peru,Friendly,Lucerne › Switzerland
+Tue Jun 3 2014,Tamil Eelam,0-9,Iraqi Kurdistan,CONIFA World Football Cup,Östersund › Sweden
+Tue Jun 3 2014,Sápmi,0-1,Occitania,CONIFA World Football Cup,Östersund › Sweden
+Tue Jun 3 2014,South Ossetia,1-3,Padania,CONIFA World Football Cup,Östersund › Sweden
+Tue Jun 3 2014,Artsakh,0-1,County of Nice,CONIFA World Football Cup,Östersund › Sweden
+Wed Jun 4 2014,Argentina,3-0,Trinidad and Tobago,Friendly,Buenos Aires › Argentina
+Wed Jun 4 2014,Ecuador,2-2,England,Friendly,Miami Gardens › United States
+Wed Jun 4 2014,El Salvador,1-2,Ivory Coast,Friendly,Frisco › United States
+Wed Jun 4 2014,Gibraltar,1-0,Malta,Friendly,Faro › Portugal
+Wed Jun 4 2014,Hungary,1-0,Albania,Friendly,Budapest › Hungary
+Wed Jun 4 2014,Iceland,1-0,Estonia,Friendly,Reykjavík › Iceland
+Wed Jun 4 2014,Italy,1-1,Luxembourg,Friendly,Perugia › Italy
+Wed Jun 4 2014,Jamaica,2-2,Egypt,Friendly,London › England
+Wed Jun 4 2014,Netherlands,2-0,Wales,Friendly,Amsterdam › Netherlands
+Wed Jun 4 2014,Romania,1-2,Algeria,Friendly,Lancy › Switzerland
+Wed Jun 4 2014,Padania,1-2,County of Nice,CONIFA World Football Cup,Östersund › Sweden
+Wed Jun 4 2014,Abkhazia,0-0,South Ossetia,CONIFA World Football Cup,Östersund › Sweden
+Wed Jun 4 2014,Arameans Suryoye,0-0,Occitania,CONIFA World Football Cup,Östersund › Sweden
+Wed Jun 4 2014,Ellan Vannin,1-1,Iraqi Kurdistan,CONIFA World Football Cup,Östersund › Sweden
+Thu Jun 5 2014,Sápmi,4-2,Tamil Eelam,CONIFA World Football Cup,Östersund › Sweden
+Thu Jun 5 2014,Darfur,0-12,Artsakh,CONIFA World Football Cup,Östersund › Sweden
+Thu Jun 5 2014,Padania,3-3,Abkhazia,CONIFA World Football Cup,Östersund › Sweden
+Thu Jun 5 2014,Occitania,2-2,Iraqi Kurdistan,CONIFA World Football Cup,Östersund › Sweden
+Fri Jun 6 2014,Bolivia,1-2,Greece,Friendly,Harrison › United States
+Fri Jun 6 2014,Brazil,1-0,Serbia,Friendly,São Paulo › Brazil
+Fri Jun 6 2014,Colombia,3-0,Jordan,Friendly,Buenos Aires › Argentina
+Fri Jun 6 2014,Costa Rica,1-1,Republic of Ireland,Friendly,Chester › United States
+Fri Jun 6 2014,Croatia,1-0,Australia,Friendly,Salvador › Brazil
+Fri Jun 6 2014,Germany,6-1,Armenia,Friendly,Mainz › Germany
+Fri Jun 6 2014,Japan,4-3,Zambia,Friendly,Tampa › United States
+Fri Jun 6 2014,Mexico,0-1,Portugal,Friendly,Foxborough › United States
+Fri Jun 6 2014,Poland,2-1,Lithuania,Friendly,Gdańsk › Poland
+Fri Jun 6 2014,Russia,2-0,Morocco,Friendly,Moscow › Russia
+Fri Jun 6 2014,County of Nice,3-0,South Ossetia,CONIFA World Football Cup,Östersund › Sweden
+Fri Jun 6 2014,Arameans Suryoye,1-4,Ellan Vannin,CONIFA World Football Cup,Östersund › Sweden
+Sat Jun 7 2014,Argentina,2-0,Slovenia,Friendly,La Plata › Argentina
+Sat Jun 7 2014,Belgium,1-0,Tunisia,Friendly,Brussels › Belgium
+Sat Jun 7 2014,Cameroon,1-0,Moldova,Friendly,Yaoundé › Cameroon
+Sat Jun 7 2014,El Salvador,0-2,Spain,Friendly,Landover › United States
+Sat Jun 7 2014,Estonia,2-1,Tajikistan,Friendly,Tallinn › Estonia
+Sat Jun 7 2014,Honduras,0-0,England,Friendly,Miami Gardens › United States
+Sat Jun 7 2014,Hungary,3-0,Kazakhstan,Friendly,Budapest › Hungary
+Sat Jun 7 2014,United States,2-1,Nigeria,Friendly,Jacksonville › United States
+Sat Jun 7 2014,Sápmi,1-5,Artsakh,CONIFA World Football Cup,Östersund › Sweden
+Sat Jun 7 2014,Tamil Eelam,10-0,Darfur,CONIFA World Football Cup,Östersund › Sweden
+Sat Jun 7 2014,Abkhazia,0-1,Occitania,CONIFA World Football Cup,Östersund › Sweden
+Sat Jun 7 2014,Padania,1-1,Iraqi Kurdistan,CONIFA World Football Cup,Östersund › Sweden
+Sun Jun 8 2014,France,8-0,Jamaica,Friendly,Villeneuve-d'Ascq › France
+Sun Jun 8 2014,Iran,2-0,Trinidad and Tobago,Friendly,São Paulo › Brazil
+Sun Jun 8 2014,San Marino,0-3,Albania,Friendly,Serravalle › San Marino
+Sun Jun 8 2014,South Ossetia,1-4,Arameans Suryoye,CONIFA World Football Cup,Östersund › Sweden
+Sun Jun 8 2014,County of Nice,0-0,Ellan Vannin,CONIFA World Football Cup,Östersund › Sweden
+Mon Jun 9 2014,Ghana,4-0,South Korea,Friendly,Miami Gardens › United States
+Tue Jun 10 2014,Republic of Ireland,1-5,Portugal,Friendly,East Rutherford › United States
+Thu Jun 12 2014,Brazil,3-1,Croatia,FIFA World Cup,São Paulo › Brazil
+Fri Jun 13 2014,Chile,3-1,Australia,FIFA World Cup,Cuiabá › Brazil
+Fri Jun 13 2014,Mexico,1-0,Cameroon,FIFA World Cup,Natal › Brazil
+Fri Jun 13 2014,Spain,1-5,Netherlands,FIFA World Cup,Salvador › Brazil
+Sat Jun 14 2014,Colombia,3-0,Greece,FIFA World Cup,Belo Horizonte › Brazil
+Sat Jun 14 2014,England,1-2,Italy,FIFA World Cup,Manaus › Brazil
+Sat Jun 14 2014,Ivory Coast,2-1,Japan,FIFA World Cup,Recife › Brazil
+Sat Jun 14 2014,Uruguay,1-3,Costa Rica,FIFA World Cup,Fortaleza › Brazil
+Sun Jun 15 2014,Argentina,2-1,Bosnia and Herzegovina,FIFA World Cup,Rio de Janeiro › Brazil
+Sun Jun 15 2014,France,3-0,Honduras,FIFA World Cup,Porto Alegre › Brazil
+Sun Jun 15 2014,Switzerland,2-1,Ecuador,FIFA World Cup,Brasília › Brazil
+Mon Jun 16 2014,Germany,4-0,Portugal,FIFA World Cup,Salvador › Brazil
+Mon Jun 16 2014,Ghana,1-2,United States,FIFA World Cup,Natal › Brazil
+Mon Jun 16 2014,Iran,0-0,Nigeria,FIFA World Cup,Curitiba › Brazil
+Tue Jun 17 2014,Belgium,2-1,Algeria,FIFA World Cup,Belo Horizonte › Brazil
+Tue Jun 17 2014,Brazil,0-0,Mexico,FIFA World Cup,Fortaleza › Brazil
+Tue Jun 17 2014,Russia,1-1,South Korea,FIFA World Cup,Cuiabá › Brazil
+Wed Jun 18 2014,Australia,2-3,Netherlands,FIFA World Cup,Curitiba › Brazil
+Wed Jun 18 2014,Cameroon,0-4,Croatia,FIFA World Cup,Manaus › Brazil
+Wed Jun 18 2014,China PR,2-0,North Macedonia,Friendly,Shenyang › China PR
+Wed Jun 18 2014,Spain,0-2,Chile,FIFA World Cup,Rio de Janeiro › Brazil
+Thu Jun 19 2014,Colombia,2-1,Ivory Coast,FIFA World Cup,Brasília › Brazil
+Thu Jun 19 2014,Japan,0-0,Greece,FIFA World Cup,Natal › Brazil
+Thu Jun 19 2014,Uruguay,2-1,England,FIFA World Cup,São Paulo › Brazil
+Fri Jun 20 2014,Honduras,1-2,Ecuador,FIFA World Cup,Curitiba › Brazil
+Fri Jun 20 2014,Italy,0-1,Costa Rica,FIFA World Cup,Recife › Brazil
+Fri Jun 20 2014,Switzerland,2-5,France,FIFA World Cup,Salvador › Brazil
+Sat Jun 21 2014,Argentina,1-0,Iran,FIFA World Cup,Belo Horizonte › Brazil
+Sat Jun 21 2014,Germany,2-2,Ghana,FIFA World Cup,Fortaleza › Brazil
+Sat Jun 21 2014,Indonesia,4-0,Pakistan,Friendly,Surabaya › Indonesia
+Sat Jun 21 2014,Nigeria,1-0,Bosnia and Herzegovina,FIFA World Cup,Cuiabá › Brazil
+Sun Jun 22 2014,Belgium,1-0,Russia,FIFA World Cup,Rio de Janeiro › Brazil
+Sun Jun 22 2014,China PR,0-0,North Macedonia,Friendly,Jinan › China PR
+Sun Jun 22 2014,South Korea,2-4,Algeria,FIFA World Cup,Porto Alegre › Brazil
+Sun Jun 22 2014,United States,2-2,Portugal,FIFA World Cup,Manaus › Brazil
+Mon Jun 23 2014,Australia,0-3,Spain,FIFA World Cup,Curitiba › Brazil
+Mon Jun 23 2014,Brazil,4-1,Cameroon,FIFA World Cup,Brasília › Brazil
+Mon Jun 23 2014,Croatia,1-3,Mexico,FIFA World Cup,Recife › Brazil
+Mon Jun 23 2014,Netherlands,2-0,Chile,FIFA World Cup,São Paulo › Brazil
+Tue Jun 24 2014,Costa Rica,0-0,England,FIFA World Cup,Belo Horizonte › Brazil
+Tue Jun 24 2014,Greece,2-1,Ivory Coast,FIFA World Cup,Fortaleza › Brazil
+Tue Jun 24 2014,Italy,0-1,Uruguay,FIFA World Cup,Natal › Brazil
+Tue Jun 24 2014,Japan,1-4,Colombia,FIFA World Cup,Cuiabá › Brazil
+Wed Jun 25 2014,Bosnia and Herzegovina,3-1,Iran,FIFA World Cup,Salvador › Brazil
+Wed Jun 25 2014,Ecuador,0-0,France,FIFA World Cup,Rio de Janeiro › Brazil
+Wed Jun 25 2014,Honduras,0-3,Switzerland,FIFA World Cup,Manaus › Brazil
+Wed Jun 25 2014,Indonesia,2-0,Nepal,Friendly,Malang › Indonesia
+Wed Jun 25 2014,Nigeria,2-3,Argentina,FIFA World Cup,Porto Alegre › Brazil
+Thu Jun 26 2014,Algeria,1-1,Russia,FIFA World Cup,Curitiba › Brazil
+Thu Jun 26 2014,South Korea,0-1,Belgium,FIFA World Cup,São Paulo › Brazil
+Thu Jun 26 2014,Portugal,2-1,Ghana,FIFA World Cup,Brasília › Brazil
+Thu Jun 26 2014,United States,0-1,Germany,FIFA World Cup,Recife › Brazil
+Sat Jun 28 2014,Brazil,1-1,Chile,FIFA World Cup,Belo Horizonte › Brazil
+Sat Jun 28 2014,Colombia,2-0,Uruguay,FIFA World Cup,Rio de Janeiro › Brazil
+Sun Jun 29 2014,China PR,1-3,Mali,Friendly,Shenzhen › China PR
+Sun Jun 29 2014,Costa Rica,1-1,Greece,FIFA World Cup,Recife › Brazil
+Sun Jun 29 2014,Netherlands,2-1,Mexico,FIFA World Cup,Fortaleza › Brazil
+Mon Jun 30 2014,France,2-0,Nigeria,FIFA World Cup,Brasília › Brazil
+Mon Jun 30 2014,Germany,2-1,Algeria,FIFA World Cup,Porto Alegre › Brazil
+Tue Jul 1 2014,Argentina,1-0,Switzerland,FIFA World Cup,São Paulo › Brazil
+Tue Jul 1 2014,Belgium,2-1,United States,FIFA World Cup,Salvador › Brazil
+Wed Jul 2 2014,Vietnam,6-0,Burma,Friendly,Thủ Dầu Một › Vietnam
+Fri Jul 4 2014,Brazil,2-1,Colombia,FIFA World Cup,Fortaleza › Brazil
+Fri Jul 4 2014,France,0-1,Germany,FIFA World Cup,Rio de Janeiro › Brazil
+Sat Jul 5 2014,Argentina,1-0,Belgium,FIFA World Cup,Brasília › Brazil
+Sat Jul 5 2014,Netherlands,0-0,Costa Rica,FIFA World Cup,Salvador › Brazil
+Sun Jul 6 2014,Malawi,1-1,Mozambique,Friendly,Lilongwe › Malawi
+Tue Jul 8 2014,Brazil,1-7,Germany,FIFA World Cup,Belo Horizonte › Brazil
+Wed Jul 9 2014,Netherlands,0-0,Argentina,FIFA World Cup,São Paulo › Brazil
+Fri Jul 11 2014,Uganda,1-0,Seychelles,Friendly,Kampala › Uganda
+Sat Jul 12 2014,Brazil,0-3,Netherlands,FIFA World Cup,Brasília › Brazil
+Sat Jul 12 2014,Rwanda,1-0,Gabon,Friendly,Kigali › Rwanda
+Sun Jul 13 2014,Germany,1-0,Argentina,FIFA World Cup,Rio de Janeiro › Brazil
+Mon Jul 14 2014,Botswana,2-0,Lesotho,Friendly,Gaborone › Botswana
+Mon Jul 14 2014,Qatar,2-2,Indonesia,Friendly,al-Wakrah › Qatar
+Tue Jul 15 2014,Kenya,0-0,Burundi,Friendly,Nairobi › Kenya
+Tue Jul 15 2014,Uganda,0-0,Malawi,Friendly,Kampala › Uganda
+Sat Jul 19 2014,Botswana,2-0,Guinea-Bissau,African Cup of Nations qualification,Gaborone › Botswana
+Sat Jul 19 2014,Sierra Leone,2-0,Seychelles,African Cup of Nations qualification,Freetown › Sierra Leone
+Sat Jul 19 2014,Uganda,2-0,Mauritania,African Cup of Nations qualification,Kampala › Uganda
+Sun Jul 20 2014,Benin,1-0,Malawi,African Cup of Nations qualification,Cotonou › Benin
+Sun Jul 20 2014,Congo,2-0,Rwanda,African Cup of Nations qualification,Pointe-Noire › Congo
+Sun Jul 20 2014,Lesotho,1-0,Kenya,African Cup of Nations qualification,Maseru › Lesotho
+Sun Jul 20 2014,Tanzania,2-2,Mozambique,African Cup of Nations qualification,Dar es Salaam › Tanzania
+Mon Jul 21 2014,Guam,0-0,Macau,EAFF Championship,Dededo › Guam
+Mon Jul 21 2014,Mongolia,4-0,Northern Mariana Islands,EAFF Championship,Dededo › Guam
+Wed Jul 23 2014,Guam,2-0,Mongolia,EAFF Championship,Dededo › Guam
+Wed Jul 23 2014,Northern Mariana Islands,2-1,Macau,EAFF Championship,Dededo › Guam
+Fri Jul 25 2014,Guam,5-0,Northern Mariana Islands,EAFF Championship,Dededo › Guam
+Fri Jul 25 2014,Macau,3-2,Mongolia,EAFF Championship,Dededo › Guam
+Sun Jul 27 2014,Gabon,0-1,Rwanda,Friendly,Libreville › Gabon
+Sat Aug 2 2014,Guinea-Bissau,1-1,Botswana,African Cup of Nations qualification,Bissau › Guinea-Bissau
+Sat Aug 2 2014,Malawi,1-0,Benin,African Cup of Nations qualification,Blantyre › Malawi
+Sat Aug 2 2014,Rwanda,2-0,Congo,African Cup of Nations qualification,Kigali › Rwanda
+Sun Aug 3 2014,Kenya,0-0,Lesotho,African Cup of Nations qualification,Nairobi › Kenya
+Sun Aug 3 2014,Mauritania,0-1,Uganda,African Cup of Nations qualification,Nouakchott › Mauritania
+Sun Aug 3 2014,Mozambique,2-1,Tanzania,African Cup of Nations qualification,Maputo › Mozambique
+Fri Aug 8 2014,Tajikistan,4-1,Malaysia,Friendly,Dushanbe › Tajikistan
+Tue Aug 12 2014,Kazakhstan,2-1,Tajikistan,Friendly,Almaty › Kazakhstan
+Wed Aug 13 2014,Angola,0-0,Botswana,Friendly,Luanda › Angola
+Thu Aug 14 2014,Guatemala,3-0,Nicaragua,Friendly,Antigua Guatemala › Guatemala
+Sat Aug 16 2014,British Virgin Islands,2-4,Saint Martin,Friendly,Road Town › British Virgin Islands
+Wed Aug 20 2014,Azerbaijan,0-0,Uzbekistan,Friendly,Baku › Azerbaijan
+Wed Aug 20 2014,Panama,4-0,Cuba,Friendly,Panama City › Panama
+Sat Aug 23 2014,Guatemala,1-0,Cuba,Friendly,Guatemala › Guatemala
+Sun Aug 24 2014,French Guiana,0-1,Suriname,Friendly,Saint-Laurent-du-Maroni › French Guiana
+Tue Aug 26 2014,Seychelles,1-2,Sri Lanka,Friendly,Victoria › Seychelles
+Tue Aug 26 2014,Saint Lucia,0-2,Martinique,Friendly,Gros Islet › Saint Lucia
+Wed Aug 27 2014,Norway,0-0,United Arab Emirates,Friendly,Stavanger › Norway
+Thu Aug 28 2014,Seychelles,3-0,Sri Lanka,Friendly,Victoria › Seychelles
+Thu Aug 28 2014,Saint Lucia,0-1,Martinique,Friendly,Gros Islet › Saint Lucia
+Sat Aug 30 2014,Egypt,1-0,Kenya,Friendly,Aswan › Egypt
+Sat Aug 30 2014,El Salvador,2-0,Dominican Republic,Friendly,San Salvador › El Salvador
+Sun Aug 31 2014,Zambia,3-1,Sudan,Friendly,Lusaka › Zambia
+Tue Sep 2 2014,Niger,2-0,Uganda,Friendly,Niamey › Niger
+Wed Sep 3 2014,Burma,4-1,Palestine,Friendly,Manila › Philippines
+Wed Sep 3 2014,Costa Rica,3-0,Nicaragua,UNCAF Cup,Washington › United States
+Wed Sep 3 2014,Czech Republic,0-1,United States,Friendly,Prague › Czech Republic
+Wed Sep 3 2014,Denmark,1-2,Turkey,Friendly,Odense › Denmark
+Wed Sep 3 2014,England,1-0,Norway,Friendly,London › England
+Wed Sep 3 2014,Germany,2-4,Argentina,Friendly,Düsseldorf › Germany
+Wed Sep 3 2014,Grenada,1-1,French Guiana,CFU Caribbean Cup qualification,Bayamón › Puerto Rico
+Wed Sep 3 2014,Guyana,0-0,Dominica,CFU Caribbean Cup qualification,Basseterre › Saint Kitts and Nevis
+Wed Sep 3 2014,Republic of Ireland,2-0,Oman,Friendly,Dublin › Republic of Ireland
+Wed Sep 3 2014,Latvia,2-0,Armenia,Friendly,Riga › Latvia
+Wed Sep 3 2014,Lithuania,1-1,United Arab Emirates,Friendly,Matrei in Osttirol › Austria
+Wed Sep 3 2014,Morocco,0-0,Qatar,Friendly,Rabat › Morocco
+Wed Sep 3 2014,Philippines,5-1,Chinese Taipei,Friendly,Manila › Philippines
+Wed Sep 3 2014,Puerto Rico,2-2,Curaçao,CFU Caribbean Cup qualification,Bayamón › Puerto Rico
+Wed Sep 3 2014,Russia,4-0,Azerbaijan,Friendly,Khimki › Russia
+Wed Sep 3 2014,Ukraine,1-0,Moldova,Friendly,Kyïv › Ukraine
+Thu Sep 4 2014,Belarus,6-1,Tajikistan,Friendly,Barysaw › Belarus
+Thu Sep 4 2014,Belgium,2-0,Australia,Friendly,Liège › Belgium
+Thu Sep 4 2014,Bosnia and Herzegovina,3-0,Liechtenstein,Friendly,Tuzla › Bosnia and Herzegovina
+Thu Sep 4 2014,China PR,3-1,Kuwait,Friendly,Anshan › China PR
+Thu Sep 4 2014,Croatia,2-0,Cyprus,Friendly,Pula › Croatia
+Thu Sep 4 2014,France,1-0,Spain,Friendly,Saint-Denis › France
+Thu Sep 4 2014,Iraq,0-2,Peru,Friendly,Dubai › United Arab Emirates
+Thu Sep 4 2014,Italy,2-0,Netherlands,Friendly,Bari › Italy
+Thu Sep 4 2014,Slovakia,1-0,Malta,Friendly,Žilina › Slovakia
+Thu Sep 4 2014,Sweden,2-0,Estonia,Friendly,Solna › Sweden
+Thu Sep 4 2014,Uzbekistan,2-0,Jordan,Friendly,Tashkent › Uzbekistan
+Fri Sep 5 2014,Curaçao,2-1,Grenada,CFU Caribbean Cup qualification,Bayamón › Puerto Rico
+Fri Sep 5 2014,Guinea,2-1,Togo,African Cup of Nations qualification,Casablanca › Morocco
+Fri Sep 5 2014,Japan,0-2,Uruguay,Friendly,Sapporo › Japan
+Fri Sep 5 2014,Kazakhstan,7-1,Kyrgyzstan,Friendly,Astana › Kazakhstan
+Fri Sep 5 2014,South Korea,3-1,Venezuela,Friendly,Bucheon › South Korea
+Fri Sep 5 2014,Puerto Rico,1-2,French Guiana,CFU Caribbean Cup qualification,Bayamón › Puerto Rico
+Fri Sep 5 2014,Senegal,2-0,Egypt,African Cup of Nations qualification,Dakar › Senegal
+Fri Sep 5 2014,Saint Kitts and Nevis,5-0,Dominica,CFU Caribbean Cup qualification,Basseterre › Saint Kitts and Nevis
+Fri Sep 5 2014,Saint Lucia,2-0,Guyana,CFU Caribbean Cup qualification,Basseterre › Saint Kitts and Nevis
+Fri Sep 5 2014,Saint Vincent and the Grenadines,4-0,Anguilla,CFU Caribbean Cup qualification,St. John's › Antigua and Barbuda
+Fri Sep 5 2014,Sudan,0-3,South Africa,African Cup of Nations qualification,Omdurman › Sudan
+Fri Sep 5 2014,Suriname,2-3,Bonaire,CFU Caribbean Cup qualification,Rivière-Pilote › Martinique
+Sat Sep 6 2014,Burkina Faso,2-0,Lesotho,African Cup of Nations qualification,Ouagadougou › Burkina Faso
+Sat Sep 6 2014,DR Congo,0-2,Cameroon,African Cup of Nations qualification,Lubumbashi › DR Congo
+Sat Sep 6 2014,Ethiopia,1-2,Algeria,African Cup of Nations qualification,Addis Abeba › Ethiopia
+Sat Sep 6 2014,Gabon,1-0,Angola,African Cup of Nations qualification,Libreville › Gabon
+Sat Sep 6 2014,Ghana,1-1,Uganda,African Cup of Nations qualification,Kumasi › Ghana
+Sat Sep 6 2014,Ivory Coast,2-1,Sierra Leone,African Cup of Nations qualification,Abidjan › Ivory Coast
+Sat Sep 6 2014,Mexico,0-0,Chile,Friendly,Santa Clara › United States
+Sat Sep 6 2014,Niger,1-3,Cape Verde,African Cup of Nations qualification,Niamey › Niger
+Sat Sep 6 2014,Nigeria,2-3,Congo,African Cup of Nations qualification,Calabar › Nigeria
+Sat Sep 6 2014,Palestine,7-3,Chinese Taipei,Friendly,Manila › Philippines
+Sat Sep 6 2014,Philippines,2-3,Burma,Friendly,Manila › Philippines
+Sat Sep 6 2014,Singapore,2-1,Papua New Guinea,Friendly,Hougang › Singapore
+Sat Sep 6 2014,Tunisia,2-1,Botswana,African Cup of Nations qualification,Monastir › Tunisia
+Sat Sep 6 2014,Vietnam,3-1,Hong Kong,Friendly,Hải Phòng › Vietnam
+Sat Sep 6 2014,Zambia,0-0,Mozambique,African Cup of Nations qualification,Ndola › Zambia
+Sun Sep 7 2014,Bonaire,1-4,Barbados,CFU Caribbean Cup qualification,Fort-de-France › Martinique
+Sun Sep 7 2014,Burundi,2-0,Tanzania,Friendly,Bujumbura › Burundi
+Sun Sep 7 2014,Costa Rica,2-2,Panama,UNCAF Cup,Dallas › United States
+Sun Sep 7 2014,Denmark,2-1,Armenia,UEFA Euro qualification,Copenhagen › Denmark
+Sun Sep 7 2014,Dominica,1-2,Saint Lucia,CFU Caribbean Cup qualification,Basseterre › Saint Kitts and Nevis
+Sun Sep 7 2014,Faroe Islands,1-3,Finland,UEFA Euro qualification,Tórshavn › Faroe Islands
+Sun Sep 7 2014,French Guiana,0-0,Curaçao,CFU Caribbean Cup qualification,Bayamón › Puerto Rico
+Sun Sep 7 2014,Georgia,1-2,Republic of Ireland,UEFA Euro qualification,Tbilisi › Georgia
+Sun Sep 7 2014,Germany,2-1,Scotland,UEFA Euro qualification,Dortmund › Germany
+Sun Sep 7 2014,Gibraltar,0-7,Poland,UEFA Euro qualification,Faro › Portugal
+Sun Sep 7 2014,Greece,0-1,Romania,UEFA Euro qualification,Piraeus › Greece
+Sun Sep 7 2014,Hungary,1-2,Northern Ireland,UEFA Euro qualification,Budapest › Hungary
+Sun Sep 7 2014,Kosovo,1-0,Oman,Friendly,Prishtina › Kosovo
+Sun Sep 7 2014,Mali,2-0,Malawi,African Cup of Nations qualification,Bamako › Mali
+Sun Sep 7 2014,Morocco,3-0,Libya,Friendly,Marrakech › Morocco
+Sun Sep 7 2014,Paraguay,0-0,United Arab Emirates,Friendly,Villach › Austria
+Sun Sep 7 2014,Portugal,0-1,Albania,UEFA Euro qualification,Aveiro › Portugal
+Sun Sep 7 2014,Puerto Rico,2-2,Grenada,CFU Caribbean Cup qualification,Bayamón › Puerto Rico
+Sun Sep 7 2014,Serbia,1-1,France,Friendly,Belgrade › Serbia
+Mon Sep 8 2014,Australia,3-2,Saudi Arabia,Friendly,London › England
+Mon Sep 8 2014,Austria,1-1,Sweden,UEFA Euro qualification,Vienna › Austria
+Mon Sep 8 2014,Estonia,1-0,Slovenia,UEFA Euro qualification,Tallinn › Estonia
+Mon Sep 8 2014,South Korea,0-1,Uruguay,Friendly,Goyang › South Korea
+Mon Sep 8 2014,Luxembourg,1-1,Belarus,UEFA Euro qualification,Luxembourg › Luxembourg
+Mon Sep 8 2014,Montenegro,2-0,Moldova,UEFA Euro qualification,Podgorica › Montenegro
+Mon Sep 8 2014,Russia,4-0,Liechtenstein,UEFA Euro qualification,Khimki › Russia
+Mon Sep 8 2014,San Marino,0-2,Lithuania,UEFA Euro qualification,Serravalle › San Marino
+Mon Sep 8 2014,Spain,5-1,North Macedonia,UEFA Euro qualification,Valencia › Spain
+Mon Sep 8 2014,Switzerland,0-2,England,UEFA Euro qualification,Basel › Switzerland
+Mon Sep 8 2014,Ukraine,0-1,Slovakia,UEFA Euro qualification,Kyïv › Ukraine
+Mon Sep 8 2014,Uzbekistan,3-1,New Zealand,Friendly,Tashkent › Uzbekistan
+Tue Sep 9 2014,Andorra,1-2,Wales,UEFA Euro qualification,Sant Julià de Lòria › Andorra
+Tue Sep 9 2014,Azerbaijan,1-2,Bulgaria,UEFA Euro qualification,Baku › Azerbaijan
+Tue Sep 9 2014,Bosnia and Herzegovina,1-2,Cyprus,UEFA Euro qualification,Zenica › Bosnia and Herzegovina
+Tue Sep 9 2014,China PR,1-1,Jordan,Friendly,Harbin › China PR
+Tue Sep 9 2014,Croatia,2-0,Malta,UEFA Euro qualification,Zagreb › Croatia
+Tue Sep 9 2014,Czech Republic,2-1,Netherlands,UEFA Euro qualification,Prague › Czech Republic
+Tue Sep 9 2014,Haiti,0-1,Chile,Friendly,Fort Lauderdale › United States
+Tue Sep 9 2014,Iceland,3-0,Turkey,UEFA Euro qualification,Reykjavík › Iceland
+Tue Sep 9 2014,Indonesia,0-0,Yemen,Friendly,Yogyakarta › Indonesia
+Tue Sep 9 2014,Japan,2-2,Venezuela,Friendly,Yokohama › Japan
+Tue Sep 9 2014,Kazakhstan,0-0,Latvia,UEFA Euro qualification,Astana › Kazakhstan
+Tue Sep 9 2014,Kuwait,0-1,Bahrain,Friendly,al-Farwaniyah › Kuwait
+Tue Sep 9 2014,Mexico,1-0,Bolivia,Friendly,Commerce City › United States
+Tue Sep 9 2014,Norway,0-2,Italy,UEFA Euro qualification,Oslo › Norway
+Tue Sep 9 2014,Qatar,0-2,Peru,Friendly,Doha › Qatar
+Tue Sep 9 2014,Singapore,0-0,Hong Kong,Friendly,Hougang › Singapore
+Wed Sep 10 2014,Algeria,1-0,Mali,African Cup of Nations qualification,Blida › Algeria
+Wed Sep 10 2014,Angola,0-3,Burkina Faso,African Cup of Nations qualification,Luanda › Angola
+Wed Sep 10 2014,Botswana,0-2,Senegal,African Cup of Nations qualification,Gaborone › Botswana
+Wed Sep 10 2014,Cameroon,4-1,Ivory Coast,African Cup of Nations qualification,Yaoundé › Cameroon
+Wed Sep 10 2014,Cape Verde,2-1,Zambia,African Cup of Nations qualification,Praia › Cape Verde
+Wed Sep 10 2014,Congo,2-0,Sudan,African Cup of Nations qualification,Pointe-Noire › Congo
+Wed Sep 10 2014,DR Congo,2-0,Sierra Leone,African Cup of Nations qualification,Lubumbashi › DR Congo
+Wed Sep 10 2014,Egypt,0-1,Tunisia,African Cup of Nations qualification,Cairo › Egypt
+Wed Sep 10 2014,Lesotho,1-1,Gabon,African Cup of Nations qualification,Maseru › Lesotho
+Wed Sep 10 2014,Malawi,3-2,Ethiopia,African Cup of Nations qualification,Blantyre › Malawi
+Wed Sep 10 2014,Mozambique,1-1,Niger,African Cup of Nations qualification,Maputo › Mozambique
+Wed Sep 10 2014,South Africa,0-0,Nigeria,African Cup of Nations qualification,Cape Town › South Africa
+Wed Sep 10 2014,Togo,2-3,Ghana,African Cup of Nations qualification,Lomé › Togo
+Wed Sep 10 2014,Uganda,2-0,Guinea,African Cup of Nations qualification,Kampala › Uganda
+Sun Sep 14 2014,Indonesia,2-0,Malaysia,Friendly,Sidoarjo › Indonesia
+Sat Sep 20 2014,Malaysia,4-1,Cambodia,Friendly,Shah Alam › Malaysia
+Thu Sep 25 2014,Indonesia,1-0,Cambodia,Friendly,Malang › Indonesia
+Tue Sep 30 2014,Botswana,1-0,Zimbabwe,Friendly,Gaborone › Botswana
+Mon Oct 6 2014,India,2-3,Palestine,Friendly,Siliguri › India
+Mon Oct 6 2014,Qatar,3-0,Uzbekistan,Friendly,Doha › Qatar
+Wed Oct 8 2014,Antigua and Barbuda,2-1,Saint Lucia,CFU Caribbean Cup qualification,Couva › Trinidad and Tobago
+Wed Oct 8 2014,Curaçao,1-1,Martinique,CFU Caribbean Cup qualification,Les Abymes › Guadeloupe
+Wed Oct 8 2014,Haiti,2-2,French Guiana,CFU Caribbean Cup qualification,Port-au-Prince › Haiti
+Wed Oct 8 2014,Saint Kitts and Nevis,2-3,Barbados,CFU Caribbean Cup qualification,Port-au-Prince › Haiti
+Wed Oct 8 2014,Trinidad and Tobago,6-1,Dominican Republic,CFU Caribbean Cup qualification,Couva › Trinidad and Tobago
+Thu Oct 9 2014,Belarus,0-2,Ukraine,UEFA Euro qualification,Barysaw › Belarus
+Thu Oct 9 2014,England,5-0,San Marino,UEFA Euro qualification,London › England
+Thu Oct 9 2014,Liechtenstein,0-0,Montenegro,UEFA Euro qualification,Vaduz › Liechtenstein
+Thu Oct 9 2014,Lithuania,1-0,Estonia,UEFA Euro qualification,Vilnius › Lithuania
+Thu Oct 9 2014,North Macedonia,3-2,Luxembourg,UEFA Euro qualification,Skopje › North Macedonia
+Thu Oct 9 2014,Moldova,1-2,Austria,UEFA Euro qualification,Chișinău › Moldova
+Thu Oct 9 2014,Morocco,4-0,Central African Republic,Friendly,Marrakech › Morocco
+Thu Oct 9 2014,Qatar,5-0,Lebanon,Friendly,Doha › Qatar
+Thu Oct 9 2014,Slovakia,2-1,Spain,UEFA Euro qualification,Žilina › Slovakia
+Thu Oct 9 2014,Slovenia,1-0,Switzerland,UEFA Euro qualification,Maribor › Slovenia
+Thu Oct 9 2014,Sweden,1-1,Russia,UEFA Euro qualification,Solna › Sweden
+Fri Oct 10 2014,Belgium,6-0,Andorra,UEFA Euro qualification,Brussels › Belgium
+Fri Oct 10 2014,Botswana,0-2,Egypt,African Cup of Nations qualification,Gaborone › Botswana
+Fri Oct 10 2014,Bulgaria,0-1,Croatia,UEFA Euro qualification,Sofia › Bulgaria
+Fri Oct 10 2014,China PR,3-0,Thailand,Friendly,Wuhan › China PR
+Fri Oct 10 2014,Cyprus,1-2,Israel,UEFA Euro qualification,Nicosia › Cyprus
+Fri Oct 10 2014,French Guiana,1-2,Saint Kitts and Nevis,CFU Caribbean Cup qualification,Port-au-Prince › Haiti
+Fri Oct 10 2014,Hong Kong,2-1,Singapore,Friendly,Kowloon › Hong Kong
+Fri Oct 10 2014,Italy,2-1,Azerbaijan,UEFA Euro qualification,Palermo › Italy
+Fri Oct 10 2014,Japan,1-0,Jamaica,Friendly,Niigata › Japan
+Fri Oct 10 2014,Jordan,0-1,Kuwait,Friendly,Amman › Jordan
+Fri Oct 10 2014,South Korea,2-0,Paraguay,Friendly,Cheonan › South Korea
+Fri Oct 10 2014,Latvia,0-3,Iceland,UEFA Euro qualification,Riga › Latvia
+Fri Oct 10 2014,Lesotho,0-0,Angola,African Cup of Nations qualification,Maseru › Lesotho
+Fri Oct 10 2014,Malta,0-3,Norway,UEFA Euro qualification,Attard › Malta
+Fri Oct 10 2014,Netherlands,3-1,Kazakhstan,UEFA Euro qualification,Amsterdam › Netherlands
+Fri Oct 10 2014,Oman,3-4,Costa Rica,Friendly,Muscat › Oman
+Fri Oct 10 2014,Saudi Arabia,1-1,Uruguay,Friendly,Jeddah › Saudi Arabia
+Fri Oct 10 2014,Senegal,0-0,Tunisia,African Cup of Nations qualification,Dakar › Senegal
+Fri Oct 10 2014,Saint Vincent and the Grenadines,1-0,Curaçao,CFU Caribbean Cup qualification,Les Abymes › Guadeloupe
+Fri Oct 10 2014,Trinidad and Tobago,2-0,Saint Lucia,CFU Caribbean Cup qualification,Couva › Trinidad and Tobago
+Fri Oct 10 2014,Turkey,1-2,Czech Republic,UEFA Euro qualification,Istanbul › Turkey
+Fri Oct 10 2014,United Arab Emirates,0-0,Australia,Friendly,Abu Dhabi › United Arab Emirates
+Fri Oct 10 2014,Uzbekistan,0-0,Bahrain,Friendly,Dubai › United Arab Emirates
+Fri Oct 10 2014,Wales,0-0,Bosnia and Herzegovina,UEFA Euro qualification,Cardiff › Wales
+Fri Oct 10 2014,Yemen,1-1,Iraq,Friendly,Manama › Bahrain
+Sat Oct 11 2014,Albania,1-1,Denmark,UEFA Euro qualification,Elbasan › Albania
+Sat Oct 11 2014,Argentina,0-2,Brazil,Friendly,Beijing › China PR
+Sat Oct 11 2014,Armenia,1-1,Serbia,UEFA Euro qualification,Yerevan › Armenia
+Sat Oct 11 2014,Cameroon,0-0,Sierra Leone,African Cup of Nations qualification,Yaoundé › Cameroon
+Sat Oct 11 2014,Congo,0-2,South Africa,African Cup of Nations qualification,Pointe-Noire › Congo
+Sat Oct 11 2014,DR Congo,1-2,Ivory Coast,African Cup of Nations qualification,Kinshasa › DR Congo
+Sat Oct 11 2014,Ethiopia,0-2,Mali,African Cup of Nations qualification,Addis Ababa › Ethiopia
+Sat Oct 11 2014,Finland,1-1,Greece,UEFA Euro qualification,Helsinki › Finland
+Sat Oct 11 2014,France,2-1,Portugal,Friendly,Saint-Denis › France
+Sat Oct 11 2014,Gabon,2-0,Burkina Faso,African Cup of Nations qualification,Libreville › Gabon
+Sat Oct 11 2014,Guinea,1-1,Ghana,African Cup of Nations qualification,Casablanca › Morocco
+Sat Oct 11 2014,Republic of Ireland,7-0,Gibraltar,UEFA Euro qualification,Dublin › Republic of Ireland
+Sat Oct 11 2014,Malawi,0-2,Algeria,African Cup of Nations qualification,Blantyre › Malawi
+Sat Oct 11 2014,Mozambique,2-0,Cape Verde,African Cup of Nations qualification,Maputo › Mozambique
+Sat Oct 11 2014,Niger,0-0,Zambia,African Cup of Nations qualification,Niamey › Niger
+Sat Oct 11 2014,Northern Ireland,2-0,Faroe Islands,UEFA Euro qualification,Belfast › Northern Ireland
+Sat Oct 11 2014,Poland,2-0,Germany,UEFA Euro qualification,Warsaw › Poland
+Sat Oct 11 2014,Romania,1-1,Hungary,UEFA Euro qualification,Bucharest › Romania
+Sat Oct 11 2014,Scotland,1-0,Georgia,UEFA Euro qualification,Glasgow › Scotland
+Sat Oct 11 2014,Sudan,1-0,Nigeria,African Cup of Nations qualification,Khartoum › Sudan
+Sat Oct 11 2014,Uganda,0-1,Togo,African Cup of Nations qualification,Kampala › Uganda
+Sun Oct 12 2014,Austria,1-0,Montenegro,UEFA Euro qualification,Vienna › Austria
+Sun Oct 12 2014,Barbados,0-2,French Guiana,CFU Caribbean Cup qualification,Port-au-Prince › Haiti
+Sun Oct 12 2014,Belarus,1-3,Slovakia,UEFA Euro qualification,Barysaw › Belarus
+Sun Oct 12 2014,East Timor,4-2,Brunei,AFF Championship,Vientiane › Laos
+Sun Oct 12 2014,Estonia,0-1,England,UEFA Euro qualification,Tallinn › Estonia
+Sun Oct 12 2014,Guadeloupe,0-1,Curaçao,CFU Caribbean Cup qualification,Les Abymes › Guadeloupe
+Sun Oct 12 2014,Haiti,0-0,Saint Kitts and Nevis,CFU Caribbean Cup qualification,Port-au-Prince › Haiti
+Sun Oct 12 2014,Laos,3-2,Cambodia,AFF Championship,Vientiane › Laos
+Sun Oct 12 2014,Lithuania,0-2,Slovenia,UEFA Euro qualification,Vilnius › Lithuania
+Sun Oct 12 2014,Luxembourg,0-4,Spain,UEFA Euro qualification,Luxembourg › Luxembourg
+Sun Oct 12 2014,Mexico,1-0,Panama,Friendly,Querétaro › Mexico
+Sun Oct 12 2014,Pakistan,0-2,Palestine,Friendly,Lahore › Pakistan
+Sun Oct 12 2014,Philippines,5-0,Papua New Guinea,Friendly,Manila › Philippines
+Sun Oct 12 2014,Russia,1-1,Moldova,UEFA Euro qualification,Moscow › Russia
+Sun Oct 12 2014,Saint Lucia,2-3,Dominican Republic,CFU Caribbean Cup qualification,Couva › Trinidad and Tobago
+Sun Oct 12 2014,Sweden,2-0,Liechtenstein,UEFA Euro qualification,Solna › Sweden
+Sun Oct 12 2014,Tanzania,4-1,Benin,Friendly,Dar es Salaam › Tanzania
+Sun Oct 12 2014,Trinidad and Tobago,1-0,Antigua and Barbuda,CFU Caribbean Cup qualification,Couva › Trinidad and Tobago
+Sun Oct 12 2014,Ukraine,1-0,North Macedonia,UEFA Euro qualification,L'viv › Ukraine
+Mon Oct 13 2014,Andorra,1-4,Israel,UEFA Euro qualification,Sant Julià de Lòria › Andorra
+Mon Oct 13 2014,Bosnia and Herzegovina,1-1,Belgium,UEFA Euro qualification,Zenica › Bosnia and Herzegovina
+Mon Oct 13 2014,Croatia,6-0,Azerbaijan,UEFA Euro qualification,Osijek › Croatia
+Mon Oct 13 2014,Iceland,2-0,Netherlands,UEFA Euro qualification,Reykjavík › Iceland
+Mon Oct 13 2014,Jordan,1-1,Kuwait,Friendly,Amman › Jordan
+Mon Oct 13 2014,Kazakhstan,2-4,Czech Republic,UEFA Euro qualification,Astana › Kazakhstan
+Mon Oct 13 2014,Latvia,1-1,Turkey,UEFA Euro qualification,Riga › Latvia
+Mon Oct 13 2014,Malta,0-1,Italy,UEFA Euro qualification,Attard › Malta
+Mon Oct 13 2014,Morocco,3-0,Kenya,Friendly,Marrakech › Morocco
+Mon Oct 13 2014,Norway,2-1,Bulgaria,UEFA Euro qualification,Oslo › Norway
+Mon Oct 13 2014,Oman,0-3,Uruguay,Friendly,Muscat › Oman
+Mon Oct 13 2014,Wales,2-1,Cyprus,UEFA Euro qualification,Cardiff › Wales
+Tue Oct 14 2014,Armenia,0-3,France,Friendly,Yerevan › Armenia
+Tue Oct 14 2014,Bahrain,0-0,Iraq,Friendly,Riffa › Bahrain
+Tue Oct 14 2014,Burma,0-0,East Timor,AFF Championship,Vientiane › Laos
+Tue Oct 14 2014,China PR,2-1,Paraguay,Friendly,Changsha › China PR
+Tue Oct 14 2014,Denmark,0-1,Portugal,UEFA Euro qualification,Copenhagen › Denmark
+Tue Oct 14 2014,Faroe Islands,0-1,Hungary,UEFA Euro qualification,Tórshavn › Faroe Islands
+Tue Oct 14 2014,Finland,0-2,Romania,UEFA Euro qualification,Helsinki › Finland
+Tue Oct 14 2014,Germany,1-1,Republic of Ireland,UEFA Euro qualification,Gelsenkirchen › Germany
+Tue Oct 14 2014,Gibraltar,0-3,Georgia,UEFA Euro qualification,Faro › Portugal
+Tue Oct 14 2014,Greece,0-2,Northern Ireland,UEFA Euro qualification,Piraeus › Greece
+Tue Oct 14 2014,Hong Kong,0-7,Argentina,Friendly,So Kon Po › Hong Kong
+Tue Oct 14 2014,Japan,0-4,Brazil,Friendly,Kallang › Singapore
+Tue Oct 14 2014,South Korea,1-3,Costa Rica,Friendly,Seoul › South Korea
+Tue Oct 14 2014,Laos,4-2,Brunei,AFF Championship,Vientiane › Laos
+Tue Oct 14 2014,Macau,2-2,Singapore,Friendly,Taipa › Macau
+Tue Oct 14 2014,Poland,2-2,Scotland,UEFA Euro qualification,Warsaw › Poland
+Tue Oct 14 2014,Qatar,1-0,Australia,Friendly,Doha › Qatar
+Tue Oct 14 2014,San Marino,0-4,Switzerland,UEFA Euro qualification,Serravalle › San Marino
+Tue Oct 14 2014,Saudi Arabia,1-1,Lebanon,Friendly,Jeddah › Saudi Arabia
+Tue Oct 14 2014,Serbia,0-3,Albania,UEFA Euro qualification,Belgrade › Serbia
+Tue Oct 14 2014,United Arab Emirates,0-4,Uzbekistan,Friendly,Dubai › United Arab Emirates
+Tue Oct 14 2014,United States,1-1,Honduras,Friendly,Boca Raton › United States
+Wed Oct 15 2014,Algeria,3-0,Malawi,African Cup of Nations qualification,Blida › Algeria
+Wed Oct 15 2014,Angola,4-0,Lesotho,African Cup of Nations qualification,Luanda › Angola
+Wed Oct 15 2014,Burkina Faso,1-1,Gabon,African Cup of Nations qualification,Ouagadougou › Burkina Faso
+Wed Oct 15 2014,Cameroon,2-0,Sierra Leone,African Cup of Nations qualification,Yaoundé › Cameroon
+Wed Oct 15 2014,Cape Verde,1-0,Mozambique,African Cup of Nations qualification,Praia › Cape Verde
+Wed Oct 15 2014,Egypt,2-0,Botswana,African Cup of Nations qualification,Cairo › Egypt
+Wed Oct 15 2014,Ghana,3-1,Guinea,African Cup of Nations qualification,Accra › Ghana
+Wed Oct 15 2014,Ivory Coast,3-4,DR Congo,African Cup of Nations qualification,Abidjan › Ivory Coast
+Wed Oct 15 2014,Mali,2-3,Ethiopia,African Cup of Nations qualification,Bamako › Mali
+Wed Oct 15 2014,Nigeria,3-1,Sudan,African Cup of Nations qualification,Abuja › Nigeria
+Wed Oct 15 2014,South Africa,0-0,Congo,African Cup of Nations qualification,Polokwane › South Africa
+Wed Oct 15 2014,Eswatini,0-2,Zimbabwe,Friendly,Lobamba › Eswatini
+Wed Oct 15 2014,Togo,1-0,Uganda,African Cup of Nations qualification,Lomé › Togo
+Wed Oct 15 2014,Tunisia,1-0,Senegal,African Cup of Nations qualification,Monastir › Tunisia
+Wed Oct 15 2014,Zambia,3-0,Niger,African Cup of Nations qualification,Ndola › Zambia
+Thu Oct 16 2014,Brunei,1-3,Burma,AFF Championship,Vientiane › Laos
+Thu Oct 16 2014,East Timor,2-3,Cambodia,AFF Championship,Vientiane › Laos
+Sat Oct 18 2014,Cambodia,0-1,Burma,AFF Championship,Vientiane › Laos
+Sat Oct 18 2014,Laos,2-0,East Timor,AFF Championship,Vientiane › Laos
+Mon Oct 20 2014,Cambodia,1-0,Brunei,AFF Championship,Vientiane › Laos
+Mon Oct 20 2014,Laos,1-2,Burma,AFF Championship,Vientiane › Laos
+Fri Oct 24 2014,Bangladesh,1-1,Sri Lanka,Friendly,Jessore › Bangladesh
+Sat Oct 25 2014,Zambia,1-1,Ivory Coast,Friendly,Lusaka › Zambia
+Mon Oct 27 2014,Bangladesh,1-0,Sri Lanka,Friendly,Rajshahi › Bangladesh
+Fri Oct 31 2014,North Korea,0-1,Kuwait,Friendly,Dubai › United Arab Emirates
+Fri Oct 31 2014,Philippines,3-0,Nepal,Friendly,Doha › Qatar
+Sun Nov 2 2014,Bahrain,2-2,North Korea,Friendly,Riffa › Bahrain
+Tue Nov 4 2014,Kuwait,1-1,Yemen,Friendly,Abu Dhabi › United Arab Emirates
+Thu Nov 6 2014,Qatar,3-1,North Korea,Friendly,Doha › Qatar
+Thu Nov 6 2014,Saudi Arabia,2-0,Palestine,Friendly,Dammam › Saudi Arabia
+Thu Nov 6 2014,United Arab Emirates,3-2,Lebanon,Friendly,al-Hasa › Saudi Arabia
+Fri Nov 7 2014,Bahrain,2-0,Singapore,Friendly,Riffa › Bahrain
+Fri Nov 7 2014,Oman,2-0,Yemen,Friendly,Muscat › Oman
+Sun Nov 9 2014,Thailand,3-0,Philippines,Friendly,Nakhon Ratchasima › Thailand
+Sun Nov 9 2014,Uganda,3-0,Ethiopia,Friendly,Kampala › Uganda
+Sun Nov 9 2014,Vietnam,1-3,Palestine,Friendly,Hanoi › Vietnam
+Tue Nov 11 2014,Cuba,1-1,French Guiana,CFU Caribbean Cup,Montego Bay › Jamaica
+Tue Nov 11 2014,Curaçao,2-3,Trinidad and Tobago,CFU Caribbean Cup,Montego Bay › Jamaica
+Wed Nov 12 2014,Argentina,2-1,Croatia,Friendly,London › England
+Wed Nov 12 2014,Belgium,3-1,Iceland,Friendly,Brussels › Belgium
+Wed Nov 12 2014,Haiti,2-2,Antigua and Barbuda,CFU Caribbean Cup,Montego Bay › Jamaica
+Wed Nov 12 2014,Netherlands,2-3,Mexico,Friendly,Amsterdam › Netherlands
+Wed Nov 12 2014,Norway,0-1,Estonia,Friendly,Oslo › Norway
+Wed Nov 12 2014,Turkey,0-4,Brazil,Friendly,Istanbul › Turkey
+Thu Nov 13 2014,Curaçao,2-3,Cuba,CFU Caribbean Cup,Montego Bay › Jamaica
+Thu Nov 13 2014,North Korea,2-1,Hong Kong,EAFF Championship,Taipei › Chinese Taipei
+Thu Nov 13 2014,Morocco,6-1,Benin,Friendly,Agadir › Morocco
+Thu Nov 13 2014,Saudi Arabia,1-1,Qatar,Gulf Cup,Riyadh › Saudi Arabia
+Thu Nov 13 2014,Singapore,2-0,Laos,Friendly,Yishun › Singapore
+Thu Nov 13 2014,Trinidad and Tobago,4-2,French Guiana,CFU Caribbean Cup,Montego Bay › Jamaica
+Thu Nov 13 2014,Uruguay,3-3,Costa Rica,Friendly,Montevideo › Uruguay
+Thu Nov 13 2014,Yemen,0-0,Bahrain,Gulf Cup,Riyadh › Saudi Arabia
+Fri Nov 14 2014,Botswana,0-0,Tunisia,African Cup of Nations qualification,Gaborone › Botswana
+Fri Nov 14 2014,China PR,1-1,New Zealand,Friendly,Nanchang › China PR
+Fri Nov 14 2014,France,1-1,Albania,Friendly,Rennes › France
+Fri Nov 14 2014,Georgia,0-4,Poland,UEFA Euro qualification,Tbilisi › Georgia
+Fri Nov 14 2014,Germany,4-0,Gibraltar,UEFA Euro qualification,Nuremberg › Germany
+Fri Nov 14 2014,Greece,0-1,Faroe Islands,UEFA Euro qualification,Piraeus › Greece
+Fri Nov 14 2014,Hungary,1-0,Finland,UEFA Euro qualification,Budapest › Hungary
+Fri Nov 14 2014,Iraq,0-1,Kuwait,Gulf Cup,Riyadh › Saudi Arabia
+Fri Nov 14 2014,Ivory Coast,5-1,Sierra Leone,African Cup of Nations qualification,Abidjan › Ivory Coast
+Fri Nov 14 2014,Japan,6-0,Honduras,Friendly,Toyota › Japan
+Fri Nov 14 2014,Jordan,0-1,South Korea,Friendly,Amman › Jordan
+Fri Nov 14 2014,Martinique,0-3,Haiti,CFU Caribbean Cup,Montego Bay › Jamaica
+Fri Nov 14 2014,Paraguay,2-1,Peru,Friendly,Luque › Paraguay
+Fri Nov 14 2014,Philippines,3-0,Cambodia,Friendly,Manila › Philippines
+Fri Nov 14 2014,Portugal,1-0,Armenia,UEFA Euro qualification,Faro › Portugal
+Fri Nov 14 2014,Romania,2-0,Northern Ireland,UEFA Euro qualification,Bucharest › Romania
+Fri Nov 14 2014,Scotland,1-0,Republic of Ireland,UEFA Euro qualification,Glasgow › Scotland
+Fri Nov 14 2014,Serbia,1-3,Denmark,UEFA Euro qualification,Belgrade › Serbia
+Fri Nov 14 2014,United Arab Emirates,0-0,Oman,Gulf Cup,Riyadh › Saudi Arabia
+Fri Nov 14 2014,United States,1-2,Colombia,Friendly,London › England
+Sat Nov 15 2014,Algeria,3-1,Ethiopia,African Cup of Nations qualification,Blida › Algeria
+Sat Nov 15 2014,Angola,0-0,Gabon,African Cup of Nations qualification,Luanda › Angola
+Sat Nov 15 2014,Austria,1-0,Russia,UEFA Euro qualification,Vienna › Austria
+Sat Nov 15 2014,Cameroon,1-0,DR Congo,African Cup of Nations qualification,Yaoundé › Cameroon
+Sat Nov 15 2014,Cape Verde,3-1,Niger,African Cup of Nations qualification,Praia › Cape Verde
+Sat Nov 15 2014,Congo,0-2,Nigeria,African Cup of Nations qualification,Pointe-Noire › Congo
+Sat Nov 15 2014,Egypt,0-1,Senegal,African Cup of Nations qualification,Cairo › Egypt
+Sat Nov 15 2014,England,3-1,Slovenia,UEFA Euro qualification,London › England
+Sat Nov 15 2014,French Guiana,4-1,Curaçao,CFU Caribbean Cup,Montego Bay › Jamaica
+Sat Nov 15 2014,Indonesia,0-2,Syria,Friendly,Jakarta › Indonesia
+Sat Nov 15 2014,Lesotho,0-1,Burkina Faso,African Cup of Nations qualification,Maseru › Lesotho
+Sat Nov 15 2014,Luxembourg,0-3,Ukraine,UEFA Euro qualification,Luxembourg › Luxembourg
+Sat Nov 15 2014,North Macedonia,0-2,Slovakia,UEFA Euro qualification,Skopje › North Macedonia
+Sat Nov 15 2014,Malawi,2-0,Mali,African Cup of Nations qualification,Blantyre › Malawi
+Sat Nov 15 2014,Moldova,0-1,Liechtenstein,UEFA Euro qualification,Chișinău › Moldova
+Sat Nov 15 2014,Montenegro,1-1,Sweden,UEFA Euro qualification,Podgorica › Montenegro
+Sat Nov 15 2014,Mozambique,0-1,Zambia,African Cup of Nations qualification,Maputo › Mozambique
+Sat Nov 15 2014,San Marino,0-0,Estonia,UEFA Euro qualification,Serravalle › San Marino
+Sat Nov 15 2014,South Africa,2-1,Sudan,African Cup of Nations qualification,Nelspruit › South Africa
+Sat Nov 15 2014,Spain,3-0,Belarus,UEFA Euro qualification,Huelva › Spain
+Sat Nov 15 2014,Switzerland,4-0,Lithuania,UEFA Euro qualification,St. Gallen › Switzerland
+Sat Nov 15 2014,Togo,1-4,Guinea,African Cup of Nations qualification,Lomé › Togo
+Sat Nov 15 2014,Uganda,1-0,Ghana,African Cup of Nations qualification,Kampala › Uganda
+Sun Nov 16 2014,Antigua and Barbuda,0-2,Martinique,CFU Caribbean Cup,Montego Bay › Jamaica
+Sun Nov 16 2014,Azerbaijan,0-1,Norway,UEFA Euro qualification,Baku › Azerbaijan
+Sun Nov 16 2014,Belgium,0-0,Wales,UEFA Euro qualification,Brussels › Belgium
+Sun Nov 16 2014,Bulgaria,1-1,Malta,UEFA Euro qualification,Sofia › Bulgaria
+Sun Nov 16 2014,Cyprus,5-0,Andorra,UEFA Euro qualification,Nicosia › Cyprus
+Sun Nov 16 2014,Czech Republic,2-1,Iceland,UEFA Euro qualification,Plzeň › Czech Republic
+Sun Nov 16 2014,Guam,1-5,North Korea,EAFF Championship,Taipei › Chinese Taipei
+Sun Nov 16 2014,Israel,3-0,Bosnia and Herzegovina,UEFA Euro qualification,Haifa › Israel
+Sun Nov 16 2014,Italy,1-1,Croatia,UEFA Euro qualification,Milan › Italy
+Sun Nov 16 2014,Morocco,2-1,Zimbabwe,Friendly,Agadir › Morocco
+Sun Nov 16 2014,Netherlands,6-0,Latvia,UEFA Euro qualification,Amsterdam › Netherlands
+Sun Nov 16 2014,Saudi Arabia,3-0,Bahrain,Gulf Cup,Riyadh › Saudi Arabia
+Sun Nov 16 2014,Eswatini,1-1,Tanzania,Friendly,Lobamba › Eswatini
+Sun Nov 16 2014,Turkey,3-1,Kazakhstan,UEFA Euro qualification,Istanbul › Turkey
+Sun Nov 16 2014,Vietnam,3-1,Malaysia,Friendly,Hanoi › Vietnam
+Sun Nov 16 2014,Yemen,0-0,Qatar,Gulf Cup,Riyadh › Saudi Arabia
+Mon Nov 17 2014,Iraq,1-1,Oman,Gulf Cup,Riyadh › Saudi Arabia
+Mon Nov 17 2014,Singapore,4-2,Cambodia,Friendly,Yishun › Singapore
+Mon Nov 17 2014,United Arab Emirates,2-2,Kuwait,Gulf Cup,Riyadh › Saudi Arabia
+Tue Nov 18 2014,Austria,1-2,Brazil,Friendly,Vienna › Austria
+Tue Nov 18 2014,Belarus,3-2,Mexico,Friendly,Barysaw › Belarus
+Tue Nov 18 2014,Bolivia,3-2,Venezuela,Friendly,La Paz › Bolivia
+Tue Nov 18 2014,Chile,1-2,Uruguay,Friendly,Santiago › Chile
+Tue Nov 18 2014,China PR,0-0,Honduras,Friendly,Xi'an › China PR
+Tue Nov 18 2014,Cuba,1-2,Haiti,CFU Caribbean Cup,Montego Bay › Jamaica
+Tue Nov 18 2014,Estonia,1-0,Jordan,Friendly,Tallinn › Estonia
+Tue Nov 18 2014,France,1-0,Sweden,Friendly,Marseille › France
+Tue Nov 18 2014,Greece,0-2,Serbia,Friendly,Perivólia › Greece
+Tue Nov 18 2014,Hungary,1-2,Russia,Friendly,Budapest › Hungary
+Tue Nov 18 2014,Iran,1-0,South Korea,Friendly,Teheran › Iran
+Tue Nov 18 2014,Republic of Ireland,4-1,United States,Friendly,Dublin › Republic of Ireland
+Tue Nov 18 2014,Italy,1-0,Albania,Friendly,Genoa › Italy
+Tue Nov 18 2014,Jamaica,0-0,Trinidad and Tobago,CFU Caribbean Cup,Montego Bay › Jamaica
+Tue Nov 18 2014,Japan,2-1,Australia,Friendly,Osaka › Japan
+Tue Nov 18 2014,Nicaragua,0-2,El Salvador,Friendly,Managua › Nicaragua
+Tue Nov 18 2014,Panama,0-0,Canada,Friendly,Panama City › Panama
+Tue Nov 18 2014,Peru,2-1,Paraguay,Friendly,Lima › Peru
+Tue Nov 18 2014,Portugal,1-0,Argentina,Friendly,Manchester › England
+Tue Nov 18 2014,Romania,2-0,Denmark,Friendly,Bucharest › Romania
+Tue Nov 18 2014,Scotland,1-3,England,Friendly,Glasgow › Scotland
+Tue Nov 18 2014,Slovakia,2-1,Finland,Friendly,Žilina › Slovakia
+Tue Nov 18 2014,Slovenia,0-1,Colombia,Friendly,Ljubljana › Slovenia
+Tue Nov 18 2014,Spain,0-1,Germany,Friendly,Vigo › Spain
+Tue Nov 18 2014,Thailand,2-0,New Zealand,Friendly,Nakhon Ratchasima › Thailand
+Tue Nov 18 2014,Ukraine,0-0,Lithuania,Friendly,Kyïv › Ukraine
+Wed Nov 19 2014,Bahrain,0-0,Qatar,Gulf Cup,Riyadh › Saudi Arabia
+Wed Nov 19 2014,Burkina Faso,1-1,Angola,African Cup of Nations qualification,Ouagadougou › Burkina Faso
+Wed Nov 19 2014,DR Congo,3-1,Sierra Leone,African Cup of Nations qualification,Kinshasa › DR Congo
+Wed Nov 19 2014,Ethiopia,0-0,Malawi,African Cup of Nations qualification,Addis Ababa › Ethiopia
+Wed Nov 19 2014,Gabon,4-2,Lesotho,African Cup of Nations qualification,Libreville › Gabon
+Wed Nov 19 2014,Ghana,3-1,Togo,African Cup of Nations qualification,Tamale › Ghana
+Wed Nov 19 2014,Guam,0-0,Hong Kong,EAFF Championship,Taipei › Chinese Taipei
+Wed Nov 19 2014,Guinea,2-0,Uganda,African Cup of Nations qualification,Casablanca › Morocco
+Wed Nov 19 2014,Ivory Coast,0-0,Cameroon,African Cup of Nations qualification,Abidjan › Ivory Coast
+Wed Nov 19 2014,Mali,2-0,Algeria,African Cup of Nations qualification,Bamako › Mali
+Wed Nov 19 2014,Niger,1-1,Mozambique,African Cup of Nations qualification,Niamey › Niger
+Wed Nov 19 2014,Nigeria,2-2,South Africa,African Cup of Nations qualification,Uyo › Nigeria
+Wed Nov 19 2014,Saudi Arabia,1-0,Yemen,Gulf Cup,Riyadh › Saudi Arabia
+Wed Nov 19 2014,Senegal,3-0,Botswana,African Cup of Nations qualification,Dakar › Senegal
+Wed Nov 19 2014,Sudan,0-1,Congo,African Cup of Nations qualification,Khartoum › Sudan
+Wed Nov 19 2014,Tunisia,2-1,Egypt,African Cup of Nations qualification,Monastir › Tunisia
+Wed Nov 19 2014,Zambia,1-0,Cape Verde,African Cup of Nations qualification,Ndola › Zambia
+Thu Nov 20 2014,Kuwait,0-5,Oman,Gulf Cup,Riyadh › Saudi Arabia
+Thu Nov 20 2014,United Arab Emirates,2-0,Iraq,Gulf Cup,Riyadh › Saudi Arabia
+Sat Nov 22 2014,Philippines,4-1,Laos,AFF Championship,Hanoi › Vietnam
+Sat Nov 22 2014,Vietnam,2-2,Indonesia,AFF Championship,Hanoi › Vietnam
+Sun Nov 23 2014,Malaysia,0-0,Burma,AFF Championship,Kallang › Singapore
+Sun Nov 23 2014,Oman,1-3,Qatar,Gulf Cup,Riyadh › Saudi Arabia
+Sun Nov 23 2014,Saudi Arabia,3-2,United Arab Emirates,Gulf Cup,Riyadh › Saudi Arabia
+Sun Nov 23 2014,Singapore,1-2,Thailand,AFF Championship,Kallang › Singapore
+Tue Nov 25 2014,Philippines,4-0,Indonesia,AFF Championship,Hanoi › Vietnam
+Tue Nov 25 2014,Vietnam,3-0,Laos,AFF Championship,Hanoi › Vietnam
+Tue Nov 25 2014,United Arab Emirates,1-0,Oman,Gulf Cup,Riyadh › Saudi Arabia
+Wed Nov 26 2014,Malaysia,2-3,Thailand,AFF Championship,Kallang › Singapore
+Wed Nov 26 2014,Saudi Arabia,1-2,Qatar,Gulf Cup,Riyadh › Saudi Arabia
+Wed Nov 26 2014,Singapore,4-2,Burma,AFF Championship,Kallang › Singapore
+Fri Nov 28 2014,Indonesia,5-1,Laos,AFF Championship,Hanoi › Vietnam
+Fri Nov 28 2014,Vietnam,3-1,Philippines,AFF Championship,Hanoi › Vietnam
+Sat Nov 29 2014,Singapore,1-3,Malaysia,AFF Championship,Kallang › Singapore
+Sat Nov 29 2014,Thailand,2-0,Burma,AFF Championship,Kallang › Singapore
+Sun Nov 30 2014,South Africa,2-0,Ivory Coast,Friendly,Nelspruit › South Africa
+Sat Dec 6 2014,Philippines,0-0,Thailand,AFF Championship,Manila › Philippines
+Sun Dec 7 2014,Malaysia,1-2,Vietnam,AFF Championship,Shah Alam › Malaysia
+Wed Dec 10 2014,Thailand,3-0,Philippines,AFF Championship,Bangkok › Thailand
+Thu Dec 11 2014,Vietnam,2-4,Malaysia,AFF Championship,Hanoi › Vietnam
+Sat Dec 13 2014,Uzbekistan,1-0,Palestine,Friendly,Dubai › United Arab Emirates
+Wed Dec 17 2014,Thailand,2-0,Malaysia,AFF Championship,Bangkok › Thailand
+Sat Dec 20 2014,Malaysia,3-2,Thailand,AFF Championship,Shah Alam › Malaysia
+Sun Dec 21 2014,China PR,0-0,Palestine,Friendly,Chenzhou › China PR
+Sun Dec 21 2014,Uzbekistan,2-1,Jordan,Friendly,Dubai › United Arab Emirates
+Mon Dec 22 2014,Iraq,1-1,Kuwait,Friendly,al-Hamriyah › United Arab Emirates
+Thu Dec 25 2014,Uzbekistan,0-1,Iraq,Friendly,Sharjah › United Arab Emirates
+Sat Dec 27 2014,Qatar,3-0,Estonia,Friendly,Doha › Qatar
+Sun Dec 28 2014,Uzbekistan,0-0,Iraq,Friendly,Sharjah › United Arab Emirates
+Sun Dec 28 2014,Basque Country,1-1,Catalonia,Friendly,Bilbao › Spain
+Tue Dec 30 2014,Bahrain,4-1,Saudi Arabia,Friendly,South Geelong › Australia
+Tue Dec 30 2014,United Arab Emirates,1-0,Jordan,Friendly,Robina › Australia
+Wed Dec 31 2014,Qatar,2-2,Oman,Friendly,Canberra › Australia

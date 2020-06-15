@@ -1,0 +1,898 @@
+Date,Team 1,Score,Team 2,Tournament,City
+Thu Jan 1 2009,Uganda,4-0,Rwanda,CECAFA Cup,Kampala › Uganda
+Thu Jan 1 2009,Zanzibar,2-0,Somalia,CECAFA Cup,Kampala › Uganda
+Fri Jan 2 2009,Djibouti,0-4,Burundi,CECAFA Cup,Jinja › Uganda
+Fri Jan 2 2009,Kenya,0-0,Zambia,CECAFA Cup,Jinja › Uganda
+Sat Jan 3 2009,Somalia,1-0,Tanzania,CECAFA Cup,Kampala › Uganda
+Sat Jan 3 2009,Uganda,0-0,Zanzibar,CECAFA Cup,Kampala › Uganda
+Sun Jan 4 2009,Bahrain,3-1,Iraq,Gulf Cup,Muscat › Oman
+Sun Jan 4 2009,Djibouti,1-1,Sudan,CECAFA Cup,Jinja › Uganda
+Sun Jan 4 2009,Oman,0-0,Kuwait,Gulf Cup,Muscat › Oman
+Sun Jan 4 2009,Zambia,1-1,Burundi,CECAFA Cup,Jinja › Uganda
+Mon Jan 5 2009,Rwanda,3-0,Somalia,CECAFA Cup,Kampala › Uganda
+Mon Jan 5 2009,Saudi Arabia,0-0,Qatar,Gulf Cup,Muscat › Oman
+Mon Jan 5 2009,Tanzania,2-1,Zanzibar,CECAFA Cup,Kampala › Uganda
+Mon Jan 5 2009,United Arab Emirates,3-1,Yemen,Gulf Cup,Muscat › Oman
+Tue Jan 6 2009,Burundi,1-0,Sudan,CECAFA Cup,Jinja › Uganda
+Tue Jan 6 2009,Kenya,5-1,Djibouti,CECAFA Cup,Jinja › Uganda
+Wed Jan 7 2009,Bahrain,0-1,Kuwait,Gulf Cup,Muscat › Oman
+Wed Jan 7 2009,Oman,4-0,Iraq,Gulf Cup,Muscat › Oman
+Wed Jan 7 2009,Rwanda,0-2,Tanzania,CECAFA Cup,Kampala › Uganda
+Wed Jan 7 2009,Uganda,4-0,Somalia,CECAFA Cup,Kampala › Uganda
+Thu Jan 8 2009,Burundi,0-1,Kenya,CECAFA Cup,Kampala › Uganda
+Thu Jan 8 2009,Qatar,0-0,United Arab Emirates,Gulf Cup,Muscat › Oman
+Thu Jan 8 2009,Saudi Arabia,6-0,Yemen,Gulf Cup,Muscat › Oman
+Thu Jan 8 2009,Sudan,2-0,Zambia,CECAFA Cup,Kampala › Uganda
+Fri Jan 9 2009,Iran,3-1,China PR,Friendly,Teheran › Iran
+Fri Jan 9 2009,Uganda,2-1,Tanzania,CECAFA Cup,Kampala › Uganda
+Fri Jan 9 2009,Zanzibar,0-3,Rwanda,CECAFA Cup,Kampala › Uganda
+Sat Jan 10 2009,Iraq,1-1,Kuwait,Gulf Cup,Muscat › Oman
+Sat Jan 10 2009,Oman,2-0,Bahrain,Gulf Cup,Muscat › Oman
+Sun Jan 11 2009,Kenya,2-1,Tanzania,CECAFA Cup,Kampala › Uganda
+Sun Jan 11 2009,Qatar,2-1,Yemen,Gulf Cup,Muscat › Oman
+Sun Jan 11 2009,Uganda,5-0,Burundi,CECAFA Cup,Kampala › Uganda
+Sun Jan 11 2009,United Arab Emirates,0-3,Saudi Arabia,Gulf Cup,Muscat › Oman
+Tue Jan 13 2009,Tanzania,3-2,Burundi,CECAFA Cup,Kampala › Uganda
+Tue Jan 13 2009,Uganda,1-0,Kenya,CECAFA Cup,Kampala › Uganda
+Wed Jan 14 2009,Hong Kong,2-1,India,Friendly,Victoria › Hong Kong
+Wed Jan 14 2009,Iran,6-0,Singapore,AFC Asian Cup qualification,Teheran › Iran
+Wed Jan 14 2009,Jordan,0-0,Thailand,AFC Asian Cup qualification,Amman › Jordan
+Wed Jan 14 2009,Kuwait,0-1,Saudi Arabia,Gulf Cup,Muscat › Oman
+Wed Jan 14 2009,Oman,1-0,Qatar,Gulf Cup,Muscat › Oman
+Wed Jan 14 2009,Syria,3-2,China PR,AFC Asian Cup qualification,Aleppo › Syria
+Wed Jan 14 2009,Vietnam,3-1,Lebanon,AFC Asian Cup qualification,Hanoi › Vietnam
+Sat Jan 17 2009,Guatemala,1-0,Haiti,Friendly,Fort Pierce › United States
+Sat Jan 17 2009,Oman,0-0,Saudi Arabia,Gulf Cup,Muscat › Oman
+Sun Jan 18 2009,Honduras,2-0,Chile,Friendly,Fort Lauderdale › United States
+Sun Jan 18 2009,Syria,5-1,Turkmenistan,Friendly,Kuwait City › Kuwait
+Mon Jan 19 2009,Oman,0-0,Indonesia,AFC Asian Cup qualification,Muscat › Oman
+Tue Jan 20 2009,Japan,2-1,Yemen,AFC Asian Cup qualification,Kumamoto › Japan
+Tue Jan 20 2009,Kuwait,2-0,Turkmenistan,Friendly,Kuwait City › Kuwait
+Wed Jan 21 2009,China PR,6-1,Vietnam,AFC Asian Cup qualification,Hangzhou › China PR
+Wed Jan 21 2009,Hong Kong,1-3,Bahrain,AFC Asian Cup qualification,So Kon Po › Hong Kong
+Wed Jan 21 2009,Malaysia,0-5,United Arab Emirates,AFC Asian Cup qualification,Kuala Lumpur › Malaysia
+Wed Jan 21 2009,Thailand,2-1,Lebanon,King's Cup,Phuket › Thailand
+Thu Jan 22 2009,El Salvador,1-1,Nicaragua,UNCAF Cup,Tegucigalpa › Honduras
+Thu Jan 22 2009,Honduras,2-1,Belize,UNCAF Cup,Tegucigalpa › Honduras
+Fri Jan 23 2009,Costa Rica,3-0,Panama,UNCAF Cup,Tegucigalpa › Honduras
+Fri Jan 23 2009,Egypt,1-0,Kenya,Friendly,Cairo › Egypt
+Fri Jan 23 2009,North Korea,0-1,Lebanon,King's Cup,Phuket › Thailand
+Fri Jan 23 2009,Kuwait,2-3,Syria,Friendly,Kuwait City › Kuwait
+Sat Jan 24 2009,Belize,1-4,El Salvador,UNCAF Cup,Tegucigalpa › Honduras
+Sat Jan 24 2009,Honduras,4-1,Nicaragua,UNCAF Cup,Tegucigalpa › Honduras
+Sat Jan 24 2009,United States,3-2,Sweden,Friendly,Carson › United States
+Sun Jan 25 2009,Guatemala,1-3,Costa Rica,UNCAF Cup,Tegucigalpa › Honduras
+Mon Jan 26 2009,Honduras,2-0,El Salvador,UNCAF Cup,Tegucigalpa › Honduras
+Mon Jan 26 2009,Nicaragua,1-1,Belize,UNCAF Cup,Tegucigalpa › Honduras
+Tue Jan 27 2009,Panama,1-0,Guatemala,UNCAF Cup,Tegucigalpa › Honduras
+Tue Jan 27 2009,South Africa,1-0,Zambia,Friendly,Atteridgeville › South Africa
+Wed Jan 28 2009,Bahrain,1-0,Japan,AFC Asian Cup qualification,Riffa › Bahrain
+Wed Jan 28 2009,Indonesia,0-0,Australia,AFC Asian Cup qualification,Jakarta › Indonesia
+Wed Jan 28 2009,Kuwait,0-1,Oman,AFC Asian Cup qualification,Kuwait City › Kuwait
+Wed Jan 28 2009,Lebanon,0-2,Syria,AFC Asian Cup qualification,Sidon › Lebanon
+Wed Jan 28 2009,Mexico,0-1,Sweden,Friendly,Oakland › United States
+Wed Jan 28 2009,Singapore,2-1,Jordan,AFC Asian Cup qualification,Singapore › Singapore
+Wed Jan 28 2009,Thailand,0-0,Iran,AFC Asian Cup qualification,Bangkok › Thailand
+Wed Jan 28 2009,United Arab Emirates,0-1,Uzbekistan,AFC Asian Cup qualification,Sharjah › United Arab Emirates
+Wed Jan 28 2009,Yemen,1-0,Hong Kong,AFC Asian Cup qualification,Sana'a › Yemen
+Thu Jan 29 2009,Nicaragua,2-0,Guatemala,UNCAF Cup,Tegucigalpa › Honduras
+Fri Jan 30 2009,Costa Rica,3-0,El Salvador,UNCAF Cup,Tegucigalpa › Honduras
+Fri Jan 30 2009,Honduras,0-1,Panama,UNCAF Cup,Tegucigalpa › Honduras
+Sun Feb 1 2009,Azerbaijan,1-1,Uzbekistan,Friendly,Dubai › United Arab Emirates
+Sun Feb 1 2009,Costa Rica,0-0,Panama,UNCAF Cup,Tegucigalpa › Honduras
+Sun Feb 1 2009,Honduras,1-0,El Salvador,UNCAF Cup,Tegucigalpa › Honduras
+Sun Feb 1 2009,Syria,1-1,South Korea,Friendly,Dubai › United Arab Emirates
+Wed Feb 4 2009,Bahrain,2-2,South Korea,Friendly,Dubai › United Arab Emirates
+Wed Feb 4 2009,Japan,5-1,Finland,Friendly,Tokyo › Japan
+Thu Feb 5 2009,Saudi Arabia,2-1,Thailand,Friendly,Sendai › Japan
+Fri Feb 6 2009,El Salvador,1-0,Peru,Friendly,Los Angeles › United States
+Sat Feb 7 2009,Lithuania,1-1,Poland,Friendly,Faro › Portugal
+Sun Feb 8 2009,Barbados,5-0,Grenada,Friendly,Bridgetown › Barbados
+Tue Feb 10 2009,Brazil,2-0,Italy,Friendly,London › England
+Tue Feb 10 2009,Cyprus,0-2,Serbia,Cyprus International Tournament,Nicosia › Cyprus
+Tue Feb 10 2009,Slovakia,2-3,Ukraine,Cyprus International Tournament,Limassol › Cyprus
+Wed Feb 11 2009,Algeria,2-1,Benin,Friendly,Algiers › Algeria
+Wed Feb 11 2009,Andorra,1-3,Lithuania,Friendly,Albufeira › Portugal
+Wed Feb 11 2009,Angola,0-4,Mali,Friendly,Bois-Guillaume › France
+Wed Feb 11 2009,Austria,0-2,Sweden,Friendly,Graz › Austria
+Wed Feb 11 2009,Belgium,2-0,Slovenia,Friendly,Genk › Belgium
+Wed Feb 11 2009,Burkina Faso,1-1,Togo,Friendly,Le Petit-Quevilly › France
+Wed Feb 11 2009,Cameroon,3-1,Guinea,Friendly,Évry/Bondoufle › France
+Wed Feb 11 2009,Colombia,2-0,Haiti,Friendly,Pereira › Colombia
+Wed Feb 11 2009,Costa Rica,2-0,Honduras,FIFA World Cup qualification,San José › Costa Rica
+Wed Feb 11 2009,Cyprus,3-2,Slovakia,Cyprus International Tournament,Nicosia › Cyprus
+Wed Feb 11 2009,Egypt,2-2,Ghana,Friendly,Cairo › Egypt
+Wed Feb 11 2009,El Salvador,2-2,Trinidad and Tobago,FIFA World Cup qualification,San Salvador › El Salvador
+Wed Feb 11 2009,Estonia,0-2,Kazakhstan,Friendly,Antalya › Turkey
+Wed Feb 11 2009,France,0-2,Argentina,Friendly,Marseille › France
+Wed Feb 11 2009,Germany,0-1,Norway,Friendly,Düsseldorf › Germany
+Wed Feb 11 2009,Greece,1-1,Denmark,Friendly,Piraeus › Greece
+Wed Feb 11 2009,Iran,1-1,South Korea,FIFA World Cup qualification,Teheran › Iran
+Wed Feb 11 2009,Republic of Ireland,2-1,Georgia,FIFA World Cup qualification,Dublin › Republic of Ireland
+Wed Feb 11 2009,Israel,1-0,Hungary,Friendly,Ramat-Gan › Israel
+Wed Feb 11 2009,Japan,0-0,Australia,FIFA World Cup qualification,Yokohama › Japan
+Wed Feb 11 2009,North Korea,1-0,Saudi Arabia,FIFA World Cup qualification,P'yongyang › North Korea
+Wed Feb 11 2009,Kuwait,1-1,Azerbaijan,Friendly,Kuwait City › Kuwait
+Wed Feb 11 2009,Latvia,0-0,Armenia,Friendly,Limassol › Cyprus
+Wed Feb 11 2009,Libya,2-3,Uruguay,Friendly,Tripoli › Libya
+Wed Feb 11 2009,Liechtenstein,0-2,Iceland,Friendly,Cartagena › Spain
+Wed Feb 11 2009,North Macedonia,1-1,Moldova,Friendly,Antalya › Turkey
+Wed Feb 11 2009,Malta,0-0,Albania,FIFA World Cup qualification,Attard › Malta
+Wed Feb 11 2009,Morocco,0-0,Czech Republic,Friendly,Casablanca › Morocco
+Wed Feb 11 2009,Mozambique,2-0,Malawi,Friendly,Maputo › Mozambique
+Wed Feb 11 2009,Nigeria,0-0,Jamaica,Friendly,London › England
+Wed Feb 11 2009,Peru,0-1,Paraguay,Friendly,Lima › Peru
+Wed Feb 11 2009,Portugal,1-0,Finland,Friendly,Faro › Portugal
+Wed Feb 11 2009,Romania,1-2,Croatia,Friendly,Bucharest › Romania
+Wed Feb 11 2009,San Marino,0-3,Northern Ireland,FIFA World Cup qualification,Serravalle › San Marino
+Wed Feb 11 2009,Serbia,0-1,Ukraine,Cyprus International Tournament,Nicosia › Cyprus
+Wed Feb 11 2009,South Africa,0-2,Chile,Friendly,Polokwane › South Africa
+Wed Feb 11 2009,Spain,2-0,England,Friendly,Seville › Spain
+Wed Feb 11 2009,Switzerland,1-1,Bulgaria,Friendly,Geneva › Switzerland
+Wed Feb 11 2009,Tanzania,0-0,Zimbabwe,Friendly,Dar es Salaam › Tanzania
+Wed Feb 11 2009,Tunisia,1-1,Netherlands,Friendly,Radès › Tunisia
+Wed Feb 11 2009,Turkey,1-1,Ivory Coast,Friendly,Izmir › Turkey
+Wed Feb 11 2009,United States,2-0,Mexico,FIFA World Cup qualification,Columbus › United States
+Wed Feb 11 2009,Uzbekistan,0-1,Bahrain,FIFA World Cup qualification,Tashkent › Uzbekistan
+Wed Feb 11 2009,Venezuela,2-1,Guatemala,Friendly,Maturín › Venezuela
+Wed Feb 11 2009,Wales,0-1,Poland,Friendly,Vila Real de Santo António › Portugal
+Thu Mar 5 2009,Australia,0-1,Kuwait,AFC Asian Cup qualification,Canberra › Australia
+Sat Mar 7 2009,Sudan,0-2,Uganda,Friendly,Khartoum › Sudan
+Wed Mar 11 2009,Guam,1-0,Mongolia,EAFF Championship,Yona › Guam
+Wed Mar 11 2009,Macau,6-1,Northern Mariana Islands,EAFF Championship,Yona › Guam
+Wed Mar 11 2009,Mexico,5-1,Bolivia,Friendly,Commerce City › United States
+Wed Mar 11 2009,Nepal,1-0,Pakistan,Friendly,Kathmandu › Nepal
+Fri Mar 13 2009,Guam,2-1,Northern Mariana Islands,EAFF Championship,Yona › Guam
+Fri Mar 13 2009,Macau,1-2,Mongolia,EAFF Championship,Yona › Guam
+Sat Mar 14 2009,Iran,1-0,Kenya,Friendly,Teheran › Iran
+Sat Mar 14 2009,Nepal,4-2,Sri Lanka,Friendly,Kathmandu › Nepal
+Sun Mar 15 2009,Guam,2-2,Macau,EAFF Championship,Yona › Guam
+Sun Mar 15 2009,Northern Mariana Islands,1-4,Mongolia,EAFF Championship,Yona › Guam
+Tue Mar 17 2009,Qatar,1-0,Kuwait,Friendly,Doha › Qatar
+Wed Mar 18 2009,Trinidad and Tobago,1-0,Panama,Friendly,San Fernando › Trinidad and Tobago
+Sat Mar 21 2009,Namibia,0-0,Botswana,Friendly,Keetmanshoop › Namibia
+Sat Mar 21 2009,Syria,1-2,Qatar,Friendly,Aleppo › Syria
+Sat Mar 21 2009,Uganda,2-1,Malawi,Friendly,Kampala › Uganda
+Sun Mar 22 2009,Iceland,1-2,Faroe Islands,Friendly,Kópavogur › Iceland
+Sun Mar 22 2009,Saudi Arabia,0-0,Iraq,Friendly,Riyadh › Saudi Arabia
+Mon Mar 23 2009,Bahrain,5-2,Zimbabwe,Friendly,Riffa › Bahrain
+Mon Mar 23 2009,Kuwait,0-1,Iran,Friendly,Kuwait City › Kuwait
+Wed Mar 25 2009,Angola,0-1,Cape Verde,Friendly,Olhão › Portugal
+Thu Mar 26 2009,Nepal,0-0,Palestine,AFC Challenge Cup qualification,Kathmandu › Nepal
+Sat Mar 28 2009,Albania,0-1,Hungary,FIFA World Cup qualification,Tirana › Albania
+Sat Mar 28 2009,Argentina,4-0,Venezuela,FIFA World Cup qualification,Buenos Aires › Argentina
+Sat Mar 28 2009,Armenia,2-2,Estonia,FIFA World Cup qualification,Yerevan › Armenia
+Sat Mar 28 2009,Belgium,2-4,Bosnia and Herzegovina,FIFA World Cup qualification,Genk › Belgium
+Sat Mar 28 2009,Burkina Faso,4-2,Guinea,FIFA World Cup qualification,Ouagadougou › Burkina Faso
+Sat Mar 28 2009,Cape Verde,5-0,Equatorial Guinea,Friendly,Espargos › Cape Verde
+Sat Mar 28 2009,Colombia,2-0,Bolivia,FIFA World Cup qualification,Bogotá › Colombia
+Sat Mar 28 2009,Cyprus,2-1,Georgia,FIFA World Cup qualification,Larnaca › Cyprus
+Sat Mar 28 2009,El Salvador,2-2,United States,FIFA World Cup qualification,San Salvador › El Salvador
+Sat Mar 28 2009,England,4-0,Slovakia,Friendly,London › England
+Sat Mar 28 2009,Germany,4-0,Liechtenstein,FIFA World Cup qualification,Leipzig › Germany
+Sat Mar 28 2009,Iran,1-2,Saudi Arabia,FIFA World Cup qualification,Teheran › Iran
+Sat Mar 28 2009,Republic of Ireland,1-1,Bulgaria,FIFA World Cup qualification,Dublin › Republic of Ireland
+Sat Mar 28 2009,Israel,1-1,Greece,FIFA World Cup qualification,Ramat-Gan › Israel
+Sat Mar 28 2009,Japan,1-0,Bahrain,FIFA World Cup qualification,Saitama › Japan
+Sat Mar 28 2009,Kenya,1-2,Tunisia,FIFA World Cup qualification,Nairobi › Kenya
+Sat Mar 28 2009,North Korea,2-0,United Arab Emirates,FIFA World Cup qualification,P'yongyang › North Korea
+Sat Mar 28 2009,South Korea,2-1,Iraq,Friendly,Suwon › South Korea
+Sat Mar 28 2009,Lithuania,0-1,France,FIFA World Cup qualification,Kaunas › Lithuania
+Sat Mar 28 2009,Luxembourg,0-4,Latvia,FIFA World Cup qualification,Luxembourg › Luxembourg
+Sat Mar 28 2009,Malta,0-3,Denmark,FIFA World Cup qualification,Attard › Malta
+Sat Mar 28 2009,Mexico,2-0,Costa Rica,FIFA World Cup qualification,Mexico City › Mexico
+Sat Mar 28 2009,Moldova,0-2,Switzerland,FIFA World Cup qualification,Chişinău › Moldova
+Sat Mar 28 2009,Montenegro,0-2,Italy,FIFA World Cup qualification,Podgorica › Montenegro
+Sat Mar 28 2009,Morocco,1-2,Gabon,FIFA World Cup qualification,Casablanca › Morocco
+Sat Mar 28 2009,Nepal,1-1,Kyrgyzstan,AFC Challenge Cup qualification,Kathmandu › Nepal
+Sat Mar 28 2009,Netherlands,3-0,Scotland,FIFA World Cup qualification,Amsterdam › Netherlands
+Sat Mar 28 2009,Northern Ireland,3-2,Poland,FIFA World Cup qualification,Belfast › Northern Ireland
+Sat Mar 28 2009,Oman,2-0,Senegal,Friendly,Muscat › Oman
+Sat Mar 28 2009,Portugal,0-0,Sweden,FIFA World Cup qualification,Porto › Portugal
+Sat Mar 28 2009,Romania,2-3,Serbia,FIFA World Cup qualification,Constanţa › Romania
+Sat Mar 28 2009,Russia,2-0,Azerbaijan,FIFA World Cup qualification,Moscow › Russia
+Sat Mar 28 2009,Rwanda,0-0,Algeria,FIFA World Cup qualification,Kigali › Rwanda
+Sat Mar 28 2009,Slovenia,0-0,Czech Republic,FIFA World Cup qualification,Maribor › Slovenia
+Sat Mar 28 2009,South Africa,2-1,Norway,Friendly,Rustenburg › South Africa
+Sat Mar 28 2009,Spain,1-0,Turkey,FIFA World Cup qualification,Madrid › Spain
+Sat Mar 28 2009,Sri Lanka,1-1,Maldives,Friendly,Colombo › Sri Lanka
+Sat Mar 28 2009,Sudan,1-1,Mali,FIFA World Cup qualification,Omdurman › Sudan
+Sat Mar 28 2009,Thailand,3-1,New Zealand,Friendly,Bangkok › Thailand
+Sat Mar 28 2009,Togo,1-0,Cameroon,FIFA World Cup qualification,Accra › Ghana
+Sat Mar 28 2009,Trinidad and Tobago,1-1,Honduras,FIFA World Cup qualification,Port of Spain › Trinidad and Tobago
+Sat Mar 28 2009,Uruguay,2-0,Paraguay,FIFA World Cup qualification,Montevideo › Uruguay
+Sat Mar 28 2009,Uzbekistan,4-0,Qatar,FIFA World Cup qualification,Tashkent › Uzbekistan
+Sat Mar 28 2009,Wales,0-2,Finland,FIFA World Cup qualification,Cardiff › Wales
+Sun Mar 29 2009,Ivory Coast,5-0,Malawi,FIFA World Cup qualification,Abidjan › Ivory Coast
+Mon Mar 30 2009,Kyrgyzstan,1-1,Palestine,AFC Challenge Cup qualification,Kathmandu › Nepal
+Tue Mar 31 2009,Angola,0-2,Morocco,Friendly,Lisbon › Portugal
+Tue Mar 31 2009,Panama,4-0,Haiti,Friendly,La Chorrera › Panama
+Tue Mar 31 2009,Portugal,2-0,South Africa,Friendly,Lausanne › Switzerland
+Tue Mar 31 2009,Venezuela,2-0,Colombia,FIFA World Cup qualification,Puerto Ordaz › Venezuela
+Wed Apr 1 2009,Andorra,0-2,Croatia,FIFA World Cup qualification,Sant Julià de Lòria › Andorra
+Wed Apr 1 2009,Australia,2-0,Uzbekistan,FIFA World Cup qualification,Sydney › Australia
+Wed Apr 1 2009,Austria,2-1,Romania,FIFA World Cup qualification,Klagenfurt › Austria
+Wed Apr 1 2009,Bahrain,1-0,Qatar,FIFA World Cup qualification,Riffa › Bahrain
+Wed Apr 1 2009,Bosnia and Herzegovina,2-1,Belgium,FIFA World Cup qualification,Zenica › Bosnia and Herzegovina
+Wed Apr 1 2009,Bulgaria,2-0,Cyprus,FIFA World Cup qualification,Sofia › Bulgaria
+Wed Apr 1 2009,Costa Rica,1-0,El Salvador,FIFA World Cup qualification,San José › Costa Rica
+Wed Apr 1 2009,Czech Republic,1-2,Slovakia,FIFA World Cup qualification,Prague › Czech Republic
+Wed Apr 1 2009,Denmark,3-0,Albania,FIFA World Cup qualification,Copenhagen › Denmark
+Wed Apr 1 2009,England,2-1,Ukraine,FIFA World Cup qualification,London › England
+Wed Apr 1 2009,Estonia,1-0,Armenia,FIFA World Cup qualification,Tallinn › Estonia
+Wed Apr 1 2009,France,1-0,Lithuania,FIFA World Cup qualification,Saint-Denis › France
+Wed Apr 1 2009,Georgia,0-0,Montenegro,FIFA World Cup qualification,Tbilisi › Georgia
+Wed Apr 1 2009,Greece,2-1,Israel,FIFA World Cup qualification,Heraklion › Greece
+Wed Apr 1 2009,Honduras,3-1,Mexico,FIFA World Cup qualification,San Pedro Sula › Honduras
+Wed Apr 1 2009,Hungary,3-0,Malta,FIFA World Cup qualification,Budapest › Hungary
+Wed Apr 1 2009,Iran,1-1,Senegal,Friendly,Teheran › Iran
+Wed Apr 1 2009,Italy,1-1,Republic of Ireland,FIFA World Cup qualification,Bari › Italy
+Wed Apr 1 2009,Kazakhstan,1-5,Belarus,FIFA World Cup qualification,Almaty › Kazakhstan
+Wed Apr 1 2009,South Korea,1-0,North Korea,FIFA World Cup qualification,Seoul › South Korea
+Wed Apr 1 2009,Latvia,2-0,Luxembourg,FIFA World Cup qualification,Riga › Latvia
+Wed Apr 1 2009,Lebanon,1-1,Namibia,Friendly,Beirut › Lebanon
+Wed Apr 1 2009,Lesotho,0-0,Botswana,Friendly,Maseru › Lesotho
+Wed Apr 1 2009,Liechtenstein,0-1,Russia,FIFA World Cup qualification,Vaduz › Liechtenstein
+Wed Apr 1 2009,Netherlands,4-0,North Macedonia,FIFA World Cup qualification,Amsterdam › Netherlands
+Wed Apr 1 2009,Northern Ireland,1-0,Slovenia,FIFA World Cup qualification,Belfast › Northern Ireland
+Wed Apr 1 2009,Norway,3-2,Finland,Friendly,Oslo › Norway
+Wed Apr 1 2009,Poland,10-0,San Marino,FIFA World Cup qualification,Kielce › Poland
+Wed Apr 1 2009,Saudi Arabia,3-2,United Arab Emirates,FIFA World Cup qualification,Riyadh › Saudi Arabia
+Wed Apr 1 2009,Scotland,2-1,Iceland,FIFA World Cup qualification,Glasgow › Scotland
+Wed Apr 1 2009,Serbia,2-0,Sweden,Friendly,Belgrade › Serbia
+Wed Apr 1 2009,Switzerland,2-0,Moldova,FIFA World Cup qualification,Geneva › Switzerland
+Wed Apr 1 2009,Turkey,1-2,Spain,FIFA World Cup qualification,Istanbul › Turkey
+Wed Apr 1 2009,United States,3-0,Trinidad and Tobago,FIFA World Cup qualification,Nashville › United States
+Wed Apr 1 2009,Wales,0-2,Germany,FIFA World Cup qualification,Cardiff › Wales
+Sat Apr 4 2009,Angola,0-0,Namibia,Friendly,Dundo › Angola
+Sat Apr 4 2009,Pakistan,1-1,Chinese Taipei,AFC Challenge Cup qualification,Colombo › Sri Lanka
+Sat Apr 4 2009,Sri Lanka,5-1,Brunei,AFC Challenge Cup qualification,Colombo › Sri Lanka
+Mon Apr 6 2009,Brunei,0-6,Pakistan,AFC Challenge Cup qualification,Colombo › Sri Lanka
+Tue Apr 7 2009,Macau,2-0,Mongolia,AFC Challenge Cup qualification,Macau › Macau
+Wed Apr 8 2009,Sri Lanka,2-2,Pakistan,AFC Challenge Cup qualification,Colombo › Sri Lanka
+Tue Apr 14 2009,Maldives,1-3,Turkmenistan,AFC Challenge Cup qualification,Malé › Maldives
+Tue Apr 14 2009,Mongolia,3-1,Macau,AFC Challenge Cup qualification,Ulaanbaatar › Mongolia
+Tue Apr 14 2009,Philippines,1-0,Bhutan,AFC Challenge Cup qualification,Malé › Maldives
+Thu Apr 16 2009,Bhutan,0-7,Turkmenistan,AFC Challenge Cup qualification,Malé › Maldives
+Thu Apr 16 2009,Maldives,3-2,Philippines,AFC Challenge Cup qualification,Malé › Maldives
+Sat Apr 18 2009,Maldives,5-0,Bhutan,AFC Challenge Cup qualification,Malé › Maldives
+Sat Apr 18 2009,Turkmenistan,5-0,Philippines,AFC Challenge Cup qualification,Malé › Maldives
+Wed Apr 22 2009,French Guiana,0-0,Suriname,Friendly,Cayenne › French Guiana
+Sun Apr 26 2009,Bangladesh,1-0,Cambodia,AFC Challenge Cup qualification,Dhaka › Bangladesh
+Sun Apr 26 2009,Burma,4-0,Macau,AFC Challenge Cup qualification,Dhaka › Bangladesh
+Tue Apr 28 2009,Bangladesh,1-2,Burma,AFC Challenge Cup qualification,Dhaka › Bangladesh
+Tue Apr 28 2009,Macau,1-2,Cambodia,AFC Challenge Cup qualification,Dhaka › Bangladesh
+Thu Apr 30 2009,Bangladesh,3-0,Macau,AFC Challenge Cup qualification,Dhaka › Bangladesh
+Thu Apr 30 2009,Burma,1-0,Cambodia,AFC Challenge Cup qualification,Dhaka › Bangladesh
+Sun May 3 2009,Guernsey,0-1,Jersey,Friendly,St. Sampson › Guernsey
+Sat May 9 2009,Tanzania,0-2,DR Congo,Friendly,Dar es Salaam › Tanzania
+Wed May 13 2009,Jordan,2-0,Zimbabwe,Friendly,Amman › Jordan
+Wed May 13 2009,Venezuela,1-1,Costa Rica,Friendly,San Cristóbal › Venezuela
+Wed May 20 2009,Argentina,3-1,Panama,Friendly,Santa Fe › Argentina
+Sat May 23 2009,Jamaica,2-2,Haiti,Friendly,Fort Lauderdale › United States
+Tue May 26 2009,Qatar,2-1,Saudi Arabia,Friendly,Doha › Qatar
+Wed May 27 2009,El Salvador,3-1,Ecuador,Friendly,Los Angeles › United States
+Wed May 27 2009,Japan,4-0,Chile,Kirin Cup,Osaka › Japan
+Wed May 27 2009,Jordan,1-1,Congo,Friendly,Amman › Jordan
+Thu May 28 2009,Tunisia,4-0,Sudan,Friendly,Radès › Tunisia
+Fri May 29 2009,Belgium,1-1,Chile,Kirin Cup,Chiba › Japan
+Fri May 29 2009,China PR,1-1,Germany,Friendly,Shanghai › China PR
+Fri May 29 2009,Republic of Ireland,1-1,Nigeria,Friendly,London › England
+Fri May 29 2009,Wales,1-0,Estonia,Friendly,Llanelli › Wales
+Sat May 30 2009,Cyprus,0-1,Canada,Friendly,Larnaca › Cyprus
+Sat May 30 2009,El Salvador,0-0,Jamaica,Friendly,Washington › United States
+Sat May 30 2009,Oman,0-1,Egypt,Friendly,Muscat › Oman
+Sun May 31 2009,Bahrain,3-1,Congo,Friendly,Riffa › Bahrain
+Sun May 31 2009,Ghana,2-1,Uganda,Friendly,Tamale › Ghana
+Sun May 31 2009,Japan,4-0,Belgium,Kirin Cup,Tokyo › Japan
+Sun May 31 2009,Kuwait,0-1,Vietnam,Friendly,Kuwait City › Kuwait
+Sun May 31 2009,Malawi,2-0,Rwanda,Friendly,Blantyre › Malawi
+Sun May 31 2009,Qatar,1-0,Iraq,Friendly,Doha › Qatar
+Mon Jun 1 2009,China PR,1-0,Iran,Friendly,Qinhuangdao › China PR
+Mon Jun 1 2009,Uzbekistan,0-0,Bosnia and Herzegovina,Friendly,Tashkent › Uzbekistan
+Tue Jun 2 2009,France,0-1,Nigeria,Friendly,Saint-Étienne › France
+Tue Jun 2 2009,Turkey,2-0,Azerbaijan,Friendly,Kayseri › Turkey
+Tue Jun 2 2009,United Arab Emirates,2-7,Germany,Friendly,Dubai › United Arab Emirates
+Wed Jun 3 2009,Antigua and Barbuda,2-1,Guyana,Friendly,Paramaribo › Suriname
+Wed Jun 3 2009,Bahrain,4-0,Jordan,Friendly,Riffa › Bahrain
+Wed Jun 3 2009,Costa Rica,3-1,United States,FIFA World Cup qualification,San José › Costa Rica
+Wed Jun 3 2009,Tanzania,2-1,New Zealand,Friendly,Dar es Salaam › Tanzania
+Thu Jun 4 2009,China PR,1-4,Saudi Arabia,Friendly,Tianjin › China PR
+Fri Jun 5 2009,Antigua and Barbuda,1-2,French Guiana,Friendly,Paramaribo › Suriname
+Fri Jun 5 2009,Czech Republic,1-0,Malta,Friendly,Jablonec nad Nisou nad Nisou › Czech Republic
+Fri Jun 5 2009,France,1-0,Turkey,Friendly,Lyon › France
+Sat Jun 6 2009,Albania,1-2,Portugal,FIFA World Cup qualification,Tirana › Albania
+Sat Jun 6 2009,Argentina,1-0,Colombia,FIFA World Cup qualification,Buenos Aires › Argentina
+Sat Jun 6 2009,Azerbaijan,0-1,Wales,FIFA World Cup qualification,Baku › Azerbaijan
+Sat Jun 6 2009,Belarus,5-1,Andorra,FIFA World Cup qualification,Hrodna › Belarus
+Sat Jun 6 2009,Bolivia,0-1,Venezuela,FIFA World Cup qualification,La Paz › Bolivia
+Sat Jun 6 2009,Botswana,0-0,New Zealand,Friendly,Gaborone › Botswana
+Sat Jun 6 2009,Bulgaria,1-1,Republic of Ireland,FIFA World Cup qualification,Sofia › Bulgaria
+Sat Jun 6 2009,Croatia,2-2,Ukraine,FIFA World Cup qualification,Zagreb › Croatia
+Sat Jun 6 2009,Cyprus,2-2,Montenegro,FIFA World Cup qualification,Larnaca › Cyprus
+Sat Jun 6 2009,El Salvador,2-1,Mexico,FIFA World Cup qualification,San Salvador › El Salvador
+Sat Jun 6 2009,Estonia,3-0,Equatorial Guinea,Friendly,Tallinn › Estonia
+Sat Jun 6 2009,Finland,2-1,Liechtenstein,FIFA World Cup qualification,Helsinki › Finland
+Sat Jun 6 2009,Gabon,3-0,Togo,FIFA World Cup qualification,Libreville › Gabon
+Sat Jun 6 2009,Georgia,1-2,Moldova,Friendly,Tbilisi › Georgia
+Sat Jun 6 2009,Iceland,1-2,Netherlands,FIFA World Cup qualification,Reykjavík › Iceland
+Sat Jun 6 2009,Italy,3-0,Northern Ireland,Friendly,Pisa › Italy
+Sat Jun 6 2009,Kazakhstan,0-4,England,FIFA World Cup qualification,Almaty › Kazakhstan
+Sat Jun 6 2009,North Korea,0-0,Iran,FIFA World Cup qualification,P'yongyang › North Korea
+Sat Jun 6 2009,Lithuania,0-1,Romania,FIFA World Cup qualification,Marijampolė › Lithuania
+Sat Jun 6 2009,North Macedonia,0-0,Norway,FIFA World Cup qualification,Skopje › North Macedonia
+Sat Jun 6 2009,Malawi,0-1,Burkina Faso,FIFA World Cup qualification,Blantyre › Malawi
+Sat Jun 6 2009,Namibia,4-0,DR Congo,Friendly,Windhoek › Namibia
+Sat Jun 6 2009,Paraguay,0-2,Chile,FIFA World Cup qualification,Asunción › Paraguay
+Sat Jun 6 2009,Qatar,0-0,Australia,FIFA World Cup qualification,Doha › Qatar
+Sat Jun 6 2009,Serbia,1-0,Austria,FIFA World Cup qualification,Belgrade › Serbia
+Sat Jun 6 2009,Slovakia,7-0,San Marino,FIFA World Cup qualification,Bratislava › Slovakia
+Sat Jun 6 2009,South Africa,1-0,Poland,Friendly,Johannesburg › South Africa
+Sat Jun 6 2009,Sweden,0-1,Denmark,FIFA World Cup qualification,Solna › Sweden
+Sat Jun 6 2009,Trinidad and Tobago,2-3,Costa Rica,FIFA World Cup qualification,Scarborough › Trinidad and Tobago
+Sat Jun 6 2009,Tunisia,2-0,Mozambique,FIFA World Cup qualification,Radès › Tunisia
+Sat Jun 6 2009,United Arab Emirates,0-2,South Korea,FIFA World Cup qualification,Dubai › United Arab Emirates
+Sat Jun 6 2009,Uruguay,0-4,Brazil,FIFA World Cup qualification,Montevideo › Uruguay
+Sat Jun 6 2009,United States,2-1,Honduras,FIFA World Cup qualification,Chicago › United States
+Sat Jun 6 2009,Uzbekistan,0-1,Japan,FIFA World Cup qualification,Tashkent › Uzbekistan
+Sat Jun 6 2009,Zambia,1-0,Rwanda,FIFA World Cup qualification,Chililabombwe › Zambia
+Sat Jun 6 2009,Corsica,1-1,Congo,Friendly,Ajaccio › France
+Sun Jun 7 2009,Guinea,1-2,Ivory Coast,FIFA World Cup qualification,Conakry › Guinea
+Sun Jun 7 2009,Guyana,2-3,French Guiana,Friendly,Paramaribo › Suriname
+Sun Jun 7 2009,Jamaica,3-2,Panama,Friendly,Kingston › Jamaica
+Tue Jun 9 2009,Azerbaijan,0-6,Spain,Friendly,Baku › Azerbaijan
+Tue Jun 9 2009,Bosnia and Herzegovina,2-1,Oman,Friendly,Cannes › France
+Tue Jun 9 2009,Iraq,1-1,Poland,Friendly,Cape Town › South Africa
+Wed Jun 10 2009,Albania,1-1,Georgia,Friendly,Tirana › Albania
+Wed Jun 10 2009,Australia,2-0,Bahrain,FIFA World Cup qualification,Sydney › Australia
+Wed Jun 10 2009,Belarus,2-2,Moldova,Friendly,Barysaw › Belarus
+Wed Jun 10 2009,Brazil,2-1,Paraguay,FIFA World Cup qualification,Recife › Brazil
+Wed Jun 10 2009,Chile,4-0,Bolivia,FIFA World Cup qualification,Santiago › Chile
+Wed Jun 10 2009,Colombia,1-0,Peru,FIFA World Cup qualification,Medellín › Colombia
+Wed Jun 10 2009,Ecuador,2-0,Argentina,FIFA World Cup qualification,Quito › Ecuador
+Wed Jun 10 2009,England,6-0,Andorra,FIFA World Cup qualification,London › England
+Wed Jun 10 2009,Estonia,0-0,Portugal,Friendly,Tallinn › Estonia
+Wed Jun 10 2009,Faroe Islands,0-2,Serbia,FIFA World Cup qualification,Tórshavn › Faroe Islands
+Wed Jun 10 2009,Finland,0-3,Russia,FIFA World Cup qualification,Helsinki › Finland
+Wed Jun 10 2009,Honduras,1-0,El Salvador,FIFA World Cup qualification,San Pedro Sula › Honduras
+Wed Jun 10 2009,Iran,1-0,United Arab Emirates,FIFA World Cup qualification,Teheran › Iran
+Wed Jun 10 2009,Italy,4-3,New Zealand,Friendly,Atteridgeville › South Africa
+Wed Jun 10 2009,Japan,1-1,Qatar,FIFA World Cup qualification,Yokohama › Japan
+Wed Jun 10 2009,South Korea,0-0,Saudi Arabia,FIFA World Cup qualification,Seoul › South Korea
+Wed Jun 10 2009,North Macedonia,2-0,Iceland,FIFA World Cup qualification,Skopje › North Macedonia
+Wed Jun 10 2009,Mexico,2-1,Trinidad and Tobago,FIFA World Cup qualification,Mexico City › Mexico
+Wed Jun 10 2009,Netherlands,2-0,Norway,FIFA World Cup qualification,Rotterdam › Netherlands
+Wed Jun 10 2009,Sweden,4-0,Malta,FIFA World Cup qualification,Gothenburg › Sweden
+Wed Jun 10 2009,Ukraine,2-1,Kazakhstan,FIFA World Cup qualification,Kyïv › Ukraine
+Wed Jun 10 2009,Venezuela,2-2,Uruguay,FIFA World Cup qualification,Puerto Ordaz › Venezuela
+Thu Jun 11 2009,Tonga,1-1,Cook Islands,Friendly,Ha'ateiho › Tonga
+Sat Jun 13 2009,Ivory Coast,2-1,Cameroon,Friendly,Abidjan › Ivory Coast
+Sat Jun 13 2009,Tonga,1-2,Cook Islands,Friendly,Ha'ateiho › Tonga
+Sun Jun 14 2009,Madagascar,2-0,Mayotte,Friendly,Mahajanga › Madagascar
+Sun Jun 14 2009,New Zealand,0-5,Spain,Confederations Cup,Rustenburg › South Africa
+Sun Jun 14 2009,South Africa,0-0,Iraq,Confederations Cup,Johannesburg › South Africa
+Mon Jun 15 2009,Brazil,4-3,Egypt,Confederations Cup,Bloemfontein › South Africa
+Mon Jun 15 2009,United States,1-3,Italy,Confederations Cup,Pretoria › South Africa
+Wed Jun 17 2009,Australia,2-1,Japan,FIFA World Cup qualification,Melbourne › Australia
+Wed Jun 17 2009,Bahrain,1-0,Uzbekistan,FIFA World Cup qualification,Riffa › Bahrain
+Wed Jun 17 2009,South Korea,1-1,Iran,FIFA World Cup qualification,Seoul › South Korea
+Wed Jun 17 2009,Saudi Arabia,0-0,North Korea,FIFA World Cup qualification,Riyadh › Saudi Arabia
+Wed Jun 17 2009,South Africa,2-0,New Zealand,Confederations Cup,Rustenburg › South Africa
+Wed Jun 17 2009,Spain,1-0,Iraq,Confederations Cup,Bloemfontein › South Africa
+Thu Jun 18 2009,Egypt,1-0,Italy,Confederations Cup,Johannesburg › South Africa
+Thu Jun 18 2009,United States,0-3,Brazil,Confederations Cup,Pretoria › South Africa
+Fri Jun 19 2009,Haiti,1-1,Panama,Friendly,Port-au-Prince › Haiti
+Fri Jun 19 2009,Eswatini,1-1,Lesotho,Friendly,Manzini › Eswatini
+Sat Jun 20 2009,Burkina Faso,2-3,Ivory Coast,FIFA World Cup qualification,Ouagadougou › Burkina Faso
+Sat Jun 20 2009,Iraq,0-0,New Zealand,Confederations Cup,Johannesburg › South Africa
+Sat Jun 20 2009,Kenya,2-1,Mozambique,FIFA World Cup qualification,Nairobi › Kenya
+Sat Jun 20 2009,Morocco,0-0,Togo,FIFA World Cup qualification,Rabat › Morocco
+Sat Jun 20 2009,South Africa,0-2,Spain,Confederations Cup,Bloemfontein › South Africa
+Sat Jun 20 2009,Sudan,0-2,Ghana,FIFA World Cup qualification,Omdurman › Sudan
+Sat Jun 20 2009,Tunisia,0-0,Nigeria,FIFA World Cup qualification,Radès › Tunisia
+Sat Jun 20 2009,Zambia,0-2,Algeria,FIFA World Cup qualification,Chililabombwe › Zambia
+Sun Jun 21 2009,Egypt,0-3,United States,Confederations Cup,Rustenburg › South Africa
+Sun Jun 21 2009,Italy,0-3,Brazil,Confederations Cup,Pretoria › South Africa
+Sun Jun 21 2009,Eswatini,1-1,Lesotho,Friendly,Lobamba › Eswatini
+Mon Jun 22 2009,Padania,1-0,Occitania,Viva World Cup,Novara › Italy
+Mon Jun 22 2009,Provence,3-1,Gozo,Viva World Cup,Novara › Italy
+Tue Jun 23 2009,Haiti,0-0,Martinique,Friendly,Saint-Marc › Haiti
+Tue Jun 23 2009,Occitania,0-4,Iraqi Kurdistan,Viva World Cup,Varese › Italy
+Tue Jun 23 2009,Sápmi,1-2,Provence,Viva World Cup,Varese › Italy
+Wed Jun 24 2009,Mexico,4-0,Venezuela,Friendly,Atlanta › United States
+Wed Jun 24 2009,Spain,0-2,United States,Confederations Cup,Bloemfontein › South Africa
+Wed Jun 24 2009,Padania,2-1,Iraqi Kurdistan,Viva World Cup,Brescia › Italy
+Wed Jun 24 2009,Sápmi,7-2,Gozo,Viva World Cup,Brescia › Italy
+Thu Jun 25 2009,South Africa,0-1,Brazil,Confederations Cup,Johannesburg › South Africa
+Thu Jun 25 2009,Provence,0-6,Iraqi Kurdistan,Viva World Cup,Varese › Italy
+Thu Jun 25 2009,Padania,4-0,Sápmi,Viva World Cup,Varese › Italy
+Fri Jun 26 2009,Occitania,2-1,Gozo,Viva World Cup,Brescia › Italy
+Fri Jun 26 2009,Provence,4-4,Sápmi,Viva World Cup,Brescia › Italy
+Sat Jun 27 2009,Costa Rica,1-0,Venezuela,Friendly,San José › Costa Rica
+Sat Jun 27 2009,Haiti,1-2,Syria,Friendly,Montréal › Canada
+Sat Jun 27 2009,Padania,2-0,Iraqi Kurdistan,Viva World Cup,Verona › Italy
+Sun Jun 28 2009,Cayman Islands,1-4,Jamaica,Friendly,George Town › Cayman Islands
+Sun Jun 28 2009,Grenada,2-2,Antigua and Barbuda,Friendly,St. George's › Grenada
+Sun Jun 28 2009,Mexico,0-0,Guatemala,Friendly,San Diego › United States
+Sun Jun 28 2009,Panama,0-2,Honduras,Friendly,Cary › United States
+Sun Jun 28 2009,South Africa,2-3,Spain,Confederations Cup,Rustenburg › South Africa
+Sun Jun 28 2009,United States,2-3,Brazil,Confederations Cup,Johannesburg › South Africa
+Sun Jun 28 2009,Åland Islands,4-2,Greenland,Island Games,Mariehamn › Sweden
+Sun Jun 28 2009,Shetland,2-2,Menorca,Island Games,Hammarland › Sweden
+Sun Jun 28 2009,Gibraltar,0-0,Guernsey,Island Games,Eckerö › Sweden
+Sun Jun 28 2009,Ynys Môn,3-0,Frøya,Island Games,Jomala › Sweden
+Sun Jun 28 2009,Rhodes,2-0,Isle of Wight,Island Games,Sund › Sweden
+Sun Jun 28 2009,Saare County,0-1,Jersey,Island Games,Saltvik › Sweden
+Sun Jun 28 2009,Western Isles,2-1,Gotland,Island Games,Hammarland › Sweden
+Sun Jun 28 2009,Falkland Islands,1-2,Isle of Man,Island Games,Eckerö › Sweden
+Mon Jun 29 2009,Menorca,6-0,Greenland,Island Games,Sund › Sweden
+Mon Jun 29 2009,Åland Islands,2-1,Shetland,Island Games,Hammarland › Sweden
+Mon Jun 29 2009,Ynys Môn,0-2,Guernsey,Island Games,Jomala › Sweden
+Mon Jun 29 2009,Frøya,0-8,Gibraltar,Island Games,Eckerö › Sweden
+Mon Jun 29 2009,Jersey,1-0,Rhodes,Island Games,Saltvik › Sweden
+Mon Jun 29 2009,Isle of Wight,5-1,Saare County,Island Games,Hammarland › Sweden
+Mon Jun 29 2009,Isle of Man,5-0,Western Isles,Island Games,Finström › Sweden
+Mon Jun 29 2009,Gotland,2-0,Falkland Islands,Island Games,Jomala › Sweden
+Tue Jun 30 2009,Guatemala,0-3,Canada,Friendly,Oxnard › United States
+Tue Jun 30 2009,Greenland,3-1,Shetland,Island Games,Sund › Sweden
+Tue Jun 30 2009,Åland Islands,1-1,Menorca,Island Games,Finström › Sweden
+Tue Jun 30 2009,Gibraltar,1-3,Ynys Môn,Island Games,Hammarland › Sweden
+Tue Jun 30 2009,Guernsey,8-0,Frøya,Island Games,Jomala › Sweden
+Tue Jun 30 2009,Rhodes,3-0,Saare County,Island Games,Saltvik › Sweden
+Tue Jun 30 2009,Jersey,4-1,Isle of Wight,Island Games,Hammarland › Sweden
+Tue Jun 30 2009,Western Isles,7-1,Falkland Islands,Island Games,Eckerö › Sweden
+Tue Jun 30 2009,Isle of Man,4-2,Gotland,Island Games,Finström › Sweden
+Thu Jul 2 2009,Falkland Islands,1-3,Frøya,Island Games,Jomala › Sweden
+Thu Jul 2 2009,Shetland,3-2,Saare County,Island Games,Hammarland › Sweden
+Thu Jul 2 2009,Gotland,4-2,Greenland,Island Games,Jomala › Sweden
+Thu Jul 2 2009,Åland Islands,2-1,Isle of Man,Island Games,Jomala › Sweden
+Thu Jul 2 2009,Guernsey,0-2,Jersey,Island Games,Sund › Sweden
+Fri Jul 3 2009,Canada,1-0,Jamaica,Gold Cup,Carson › United States
+Fri Jul 3 2009,Costa Rica,1-2,El Salvador,Gold Cup,Carson › United States
+Fri Jul 3 2009,Gibraltar,3-0,Isle of Wight,Island Games,Jomala › Sweden
+Fri Jul 3 2009,Menorca,4-1,Western Isles,Island Games,Jomala › Sweden
+Fri Jul 3 2009,Rhodes,4-0,Ynys Môn,Island Games,Eckerö › Sweden
+Fri Jul 3 2009,Isle of Man,0-5,Guernsey,Island Games,Eckerö › Sweden
+Fri Jul 3 2009,Åland Islands,1-2,Jersey,Island Games,Mariehamn › Sweden
+Sat Jul 4 2009,Honduras,1-0,Haiti,Gold Cup,Seattle › United States
+Sat Jul 4 2009,United States,4-0,Grenada,Gold Cup,Seattle › United States
+Sun Jul 5 2009,Botswana,1-1,Iran,Friendly,Gaborone › Botswana
+Sun Jul 5 2009,Egypt,3-0,Rwanda,FIFA World Cup qualification,Cairo › Egypt
+Sun Jul 5 2009,Nicaragua,0-2,Mexico,Gold Cup,Oakland › United States
+Sun Jul 5 2009,Panama,1-2,Guadeloupe,Gold Cup,Oakland › United States
+Mon Jul 6 2009,Malawi,3-1,Eswatini,Friendly,Blantyre › Malawi
+Tue Jul 7 2009,El Salvador,0-1,Canada,Gold Cup,Columbus › United States
+Tue Jul 7 2009,Jamaica,0-1,Costa Rica,Gold Cup,Columbus › United States
+Wed Jul 8 2009,Haiti,2-0,Grenada,Gold Cup,Washington › United States
+Wed Jul 8 2009,United States,2-0,Honduras,Gold Cup,Washington › United States
+Thu Jul 9 2009,Guadeloupe,2-0,Nicaragua,Gold Cup,Houston › United States
+Thu Jul 9 2009,Mexico,1-1,Panama,Gold Cup,Houston › United States
+Fri Jul 10 2009,Costa Rica,2-2,Canada,Gold Cup,Miami › United States
+Fri Jul 10 2009,El Salvador,0-1,Jamaica,Gold Cup,Miami › United States
+Fri Jul 10 2009,Iraq,3-0,Palestine,Friendly,Arbil › Iraq
+Sat Jul 11 2009,Honduras,4-0,Grenada,Gold Cup,Foxborough › United States
+Sat Jul 11 2009,United States,2-2,Haiti,Gold Cup,Foxborough › United States
+Sun Jul 12 2009,Mayotte,2-2,Madagascar,Friendly,Mamoudzou › Mayotte
+Sun Jul 12 2009,Mexico,2-0,Guadeloupe,Gold Cup,Glendale › United States
+Sun Jul 12 2009,Panama,4-0,Nicaragua,Gold Cup,Glendale › United States
+Sun Jul 12 2009,Saint Kitts and Nevis,2-3,Trinidad and Tobago,Friendly,Basseterre › Saint Kitts and Nevis
+Mon Jul 13 2009,Iraq,4-0,Palestine,Friendly,Baghdad › Iraq
+Sat Jul 18 2009,Canada,0-1,Honduras,Gold Cup,Philadelphia › United States
+Sat Jul 18 2009,China PR,3-1,Palestine,Friendly,Tianjin › China PR
+Sat Jul 18 2009,United States,2-1,Panama,Gold Cup,Philadelphia › United States
+Sun Jul 19 2009,Guadeloupe,1-5,Costa Rica,Gold Cup,Arlington › United States
+Sun Jul 19 2009,Mexico,4-0,Haiti,Gold Cup,Arlington › United States
+Thu Jul 23 2009,Costa Rica,1-1,Mexico,Gold Cup,Chicago › United States
+Thu Jul 23 2009,United States,2-0,Honduras,Gold Cup,Chicago › United States
+Sat Jul 25 2009,China PR,3-0,Kyrgyzstan,Friendly,Tianjin › China PR
+Sun Jul 26 2009,United States,0-5,Mexico,Gold Cup,East Rutherford › United States
+Fri Aug 7 2009,Colombia,2-1,El Salvador,Friendly,Houston › United States
+Tue Aug 11 2009,Benin,1-1,Gabon,Friendly,Dieppe › France
+Wed Aug 12 2009,Albania,6-1,Cyprus,Friendly,Tirana › Albania
+Wed Aug 12 2009,Algeria,1-0,Uruguay,Friendly,Algiers › Algeria
+Wed Aug 12 2009,Armenia,1-4,Moldova,Friendly,Yerevan › Armenia
+Wed Aug 12 2009,Austria,0-2,Cameroon,Friendly,Klagenfurt › Austria
+Wed Aug 12 2009,Azerbaijan,0-2,Germany,FIFA World Cup qualification,Baku › Azerbaijan
+Wed Aug 12 2009,Belarus,1-3,Croatia,FIFA World Cup qualification,Minsk › Belarus
+Wed Aug 12 2009,Bosnia and Herzegovina,2-3,Iran,Friendly,Sarajevo › Bosnia and Herzegovina
+Wed Aug 12 2009,Bulgaria,1-0,Latvia,Friendly,Sofia › Bulgaria
+Wed Aug 12 2009,Colombia,1-2,Venezuela,Friendly,East Rutherford › United States
+Wed Aug 12 2009,DR Congo,1-2,Senegal,Friendly,Blois › France
+Wed Aug 12 2009,Czech Republic,3-1,Belgium,Friendly,Teplice › Czech Republic
+Wed Aug 12 2009,Denmark,1-2,Chile,Friendly,Brøndby › Denmark
+Wed Aug 12 2009,Ecuador,0-0,Jamaica,Friendly,East Rutherford › United States
+Wed Aug 12 2009,Egypt,3-3,Guinea,Friendly,Cairo › Egypt
+Wed Aug 12 2009,Estonia,0-1,Brazil,Friendly,Tallinn › Estonia
+Wed Aug 12 2009,Faroe Islands,0-1,France,FIFA World Cup qualification,Tórshavn › Faroe Islands
+Wed Aug 12 2009,Ghana,4-1,Zambia,Friendly,London › England
+Wed Aug 12 2009,Honduras,4-0,Costa Rica,FIFA World Cup qualification,San Pedro Sula › Honduras
+Wed Aug 12 2009,Hungary,0-1,Romania,Friendly,Budapest › Hungary
+Wed Aug 12 2009,Iceland,1-1,Slovakia,Friendly,Reykjavík › Iceland
+Wed Aug 12 2009,Republic of Ireland,0-3,Australia,Friendly,Limerick › Republic of Ireland
+Wed Aug 12 2009,South Korea,1-0,Paraguay,Friendly,Seoul › South Korea
+Wed Aug 12 2009,Liechtenstein,0-3,Portugal,Friendly,Vaduz › Liechtenstein
+Wed Aug 12 2009,Luxembourg,0-1,Lithuania,Friendly,Luxembourg › Luxembourg
+Wed Aug 12 2009,North Macedonia,2-3,Spain,Friendly,Skopje › North Macedonia
+Wed Aug 12 2009,Malaysia,0-0,Kenya,Friendly,Kuala Lumpur › Malaysia
+Wed Aug 12 2009,Mali,3-0,Burkina Faso,Friendly,Le Petit-Quevilly › France
+Wed Aug 12 2009,Malta,2-0,Georgia,Friendly,Attard › Malta
+Wed Aug 12 2009,Mexico,2-1,United States,FIFA World Cup qualification,Mexico City › Mexico
+Wed Aug 12 2009,Montenegro,2-1,Wales,Friendly,Podgorica › Montenegro
+Wed Aug 12 2009,Morocco,1-1,Congo,Friendly,Rabat › Morocco
+Wed Aug 12 2009,Mozambique,1-0,Eswatini,Friendly,Maputo › Mozambique
+Wed Aug 12 2009,Netherlands,2-2,England,Friendly,Amsterdam › Netherlands
+Wed Aug 12 2009,Northern Ireland,1-1,Israel,Friendly,Belfast › Northern Ireland
+Wed Aug 12 2009,Norway,4-0,Scotland,FIFA World Cup qualification,Oslo › Norway
+Wed Aug 12 2009,Oman,2-1,Saudi Arabia,Friendly,Salalah › Oman
+Wed Aug 12 2009,Poland,2-0,Greece,Friendly,Bydgoszcz › Poland
+Wed Aug 12 2009,Russia,2-3,Argentina,Friendly,Moscow › Russia
+Wed Aug 12 2009,Rwanda,1-2,Tanzania,Friendly,Kigali › Rwanda
+Wed Aug 12 2009,Singapore,1-1,China PR,Friendly,Singapore › Singapore
+Wed Aug 12 2009,Slovenia,5-0,San Marino,FIFA World Cup qualification,Maribor › Slovenia
+Wed Aug 12 2009,South Africa,1-3,Serbia,Friendly,Atteridgeville › South Africa
+Wed Aug 12 2009,Sweden,1-0,Finland,Friendly,Solna › Sweden
+Wed Aug 12 2009,Switzerland,0-0,Italy,Friendly,Basel › Switzerland
+Wed Aug 12 2009,Togo,0-2,Angola,Friendly,Lisbon › Portugal
+Wed Aug 12 2009,Trinidad and Tobago,1-0,El Salvador,FIFA World Cup qualification,Port of Spain › Trinidad and Tobago
+Wed Aug 12 2009,Tunisia,0-0,Ivory Coast,Friendly,Sousse › Tunisia
+Wed Aug 12 2009,Ukraine,0-3,Turkey,Friendly,Kyïv › Ukraine
+Wed Aug 12 2009,Zimbabwe,1-1,Lesotho,Friendly,Bulawayo › Zimbabwe
+Sat Aug 15 2009,Malaysia,0-0,China PR,Friendly,Kuala Lumpur › Malaysia
+Sun Aug 16 2009,Saint Kitts and Nevis,0-1,Jamaica,Friendly,Basseterre › Saint Kitts and Nevis
+Wed Aug 19 2009,India,0-1,Lebanon,Nehru Cup,New Delhi › India
+Thu Aug 20 2009,Syria,2-0,Kyrgyzstan,Nehru Cup,New Delhi › India
+Sat Aug 22 2009,Sri Lanka,4-3,Lebanon,Nehru Cup,New Delhi › India
+Sun Aug 23 2009,India,2-1,Kyrgyzstan,Nehru Cup,New Delhi › India
+Sun Aug 23 2009,North Korea,9-2,Guam,EAFF Championship,Kaohsiung › Chinese Taipei
+Mon Aug 24 2009,Syria,4-0,Sri Lanka,Nehru Cup,New Delhi › India
+Tue Aug 25 2009,Hong Kong,0-0,North Korea,EAFF Championship,Kaohsiung › Chinese Taipei
+Tue Aug 25 2009,Kyrgyzstan,1-1,Lebanon,Nehru Cup,New Delhi › India
+Wed Aug 26 2009,Bahrain,2-1,Kenya,Friendly,Riffa › Bahrain
+Wed Aug 26 2009,India,3-1,Sri Lanka,Nehru Cup,New Delhi › India
+Thu Aug 27 2009,Hong Kong,12-0,Guam,EAFF Championship,Kaohsiung › Chinese Taipei
+Thu Aug 27 2009,Syria,1-0,Lebanon,Nehru Cup,New Delhi › India
+Fri Aug 28 2009,Sri Lanka,1-4,Kyrgyzstan,Nehru Cup,New Delhi › India
+Sat Aug 29 2009,India,0-1,Syria,Nehru Cup,New Delhi › India
+Sun Aug 30 2009,Saudi Arabia,2-1,Malaysia,Friendly,Riyadh › Saudi Arabia
+Mon Aug 31 2009,Bahrain,4-2,Iran,Friendly,Riffa › Bahrain
+Mon Aug 31 2009,India,1-1,Syria,Nehru Cup,New Delhi › India
+Fri Sep 4 2009,Malta,0-2,Cape Verde,Friendly,Attard › Malta
+Sat Sep 5 2009,Angola,1-1,Senegal,Friendly,Lisbon › Portugal
+Sat Sep 5 2009,Argentina,1-3,Brazil,FIFA World Cup qualification,Rosario › Argentina
+Sat Sep 5 2009,Armenia,0-2,Bosnia and Herzegovina,FIFA World Cup qualification,Yerevan › Armenia
+Sat Sep 5 2009,Austria,3-1,Faroe Islands,FIFA World Cup qualification,Graz › Austria
+Sat Sep 5 2009,Azerbaijan,1-2,Finland,FIFA World Cup qualification,Lənkəran › Azerbaijan
+Sat Sep 5 2009,Bahrain,0-0,Saudi Arabia,FIFA World Cup qualification,Riffa › Bahrain
+Sat Sep 5 2009,Bulgaria,4-1,Montenegro,FIFA World Cup qualification,Sofia › Bulgaria
+Sat Sep 5 2009,Chile,2-2,Venezuela,FIFA World Cup qualification,Santiago › Chile
+Sat Sep 5 2009,Colombia,2-0,Ecuador,FIFA World Cup qualification,Medellín › Colombia
+Sat Sep 5 2009,Costa Rica,0-3,Mexico,FIFA World Cup qualification,San José › Costa Rica
+Sat Sep 5 2009,Croatia,1-0,Belarus,FIFA World Cup qualification,Zagreb › Croatia
+Sat Sep 5 2009,Cyprus,1-2,Republic of Ireland,FIFA World Cup qualification,Nicosia › Cyprus
+Sat Sep 5 2009,Denmark,1-1,Portugal,FIFA World Cup qualification,Copenhagen › Denmark
+Sat Sep 5 2009,England,2-1,Slovenia,Friendly,London › England
+Sat Sep 5 2009,France,1-1,Romania,FIFA World Cup qualification,Saint-Denis › France
+Sat Sep 5 2009,Gabon,0-2,Cameroon,FIFA World Cup qualification,Libreville › Gabon
+Sat Sep 5 2009,Georgia,0-2,Italy,FIFA World Cup qualification,Tbilisi › Georgia
+Sat Sep 5 2009,Germany,2-0,South Africa,Friendly,Leverkusen › Germany
+Sat Sep 5 2009,Honduras,4-1,Trinidad and Tobago,FIFA World Cup qualification,San Pedro Sula › Honduras
+Sat Sep 5 2009,Hungary,1-2,Sweden,FIFA World Cup qualification,Budapest › Hungary
+Sat Sep 5 2009,Iceland,1-1,Norway,FIFA World Cup qualification,Reykjavík › Iceland
+Sat Sep 5 2009,Israel,0-1,Latvia,FIFA World Cup qualification,Ramat-Gan › Israel
+Sat Sep 5 2009,Ivory Coast,5-0,Burkina Faso,FIFA World Cup qualification,Abidjan › Ivory Coast
+Sat Sep 5 2009,Jordan,0-0,Malaysia,Friendly,Amman › Jordan
+Sat Sep 5 2009,South Korea,3-1,Australia,Friendly,Seoul › South Korea
+Sat Sep 5 2009,Malawi,2-1,Guinea,FIFA World Cup qualification,Blantyre › Malawi
+Sat Sep 5 2009,Moldova,0-0,Luxembourg,FIFA World Cup qualification,Chişinău › Moldova
+Sat Sep 5 2009,Namibia,1-1,Eswatini,Friendly,Windhoek › Namibia
+Sat Sep 5 2009,Netherlands,3-0,Japan,Friendly,Enschede › Netherlands
+Sat Sep 5 2009,Paraguay,1-0,Bolivia,FIFA World Cup qualification,Asunción › Paraguay
+Sat Sep 5 2009,Peru,1-0,Uruguay,FIFA World Cup qualification,Lima › Peru
+Sat Sep 5 2009,Poland,1-1,Northern Ireland,FIFA World Cup qualification,Chorzów › Poland
+Sat Sep 5 2009,Russia,3-0,Liechtenstein,FIFA World Cup qualification,St. Petersburg › Russia
+Sat Sep 5 2009,Rwanda,0-1,Egypt,FIFA World Cup qualification,Kigali › Rwanda
+Sat Sep 5 2009,Scotland,2-0,North Macedonia,FIFA World Cup qualification,Glasgow › Scotland
+Sat Sep 5 2009,Slovakia,2-2,Czech Republic,FIFA World Cup qualification,Bratislava › Slovakia
+Sat Sep 5 2009,Spain,5-0,Belgium,FIFA World Cup qualification,La Coruña › Spain
+Sat Sep 5 2009,Saint Vincent and the Grenadines,0-3,Saint Kitts and Nevis,Friendly,Kingstown › Saint Vincent and the Grenadines
+Sat Sep 5 2009,Switzerland,2-0,Greece,FIFA World Cup qualification,Basel › Switzerland
+Sat Sep 5 2009,Turkey,4-2,Estonia,FIFA World Cup qualification,Kayseri › Turkey
+Sat Sep 5 2009,Ukraine,5-0,Andorra,FIFA World Cup qualification,Kyïv › Ukraine
+Sat Sep 5 2009,United States,2-1,El Salvador,FIFA World Cup qualification,Sandy City › United States
+Sat Sep 5 2009,Uzbekistan,0-0,Iran,Friendly,Tashkent › Uzbekistan
+Sun Sep 6 2009,Algeria,1-0,Zambia,FIFA World Cup qualification,Blida › Algeria
+Sun Sep 6 2009,Benin,1-1,Mali,FIFA World Cup qualification,Cotonou › Benin
+Sun Sep 6 2009,Ghana,2-0,Sudan,FIFA World Cup qualification,Accra › Ghana
+Sun Sep 6 2009,Mozambique,1-0,Kenya,FIFA World Cup qualification,Maputo › Mozambique
+Sun Sep 6 2009,Nigeria,2-2,Tunisia,FIFA World Cup qualification,Abuja › Nigeria
+Sun Sep 6 2009,Togo,1-1,Morocco,FIFA World Cup qualification,Lomé › Togo
+Tue Sep 8 2009,Republic of Ireland,1-0,South Africa,Friendly,Limerick › Republic of Ireland
+Wed Sep 9 2009,Albania,1-1,Denmark,FIFA World Cup qualification,Tirana › Albania
+Wed Sep 9 2009,Andorra,1-3,Kazakhstan,FIFA World Cup qualification,Sant Julià de Lòria › Andorra
+Wed Sep 9 2009,Angola,1-1,Cape Verde,Friendly,Lisbon › Portugal
+Wed Sep 9 2009,Armenia,2-1,Belgium,FIFA World Cup qualification,Yerevan › Armenia
+Wed Sep 9 2009,Belarus,0-0,Ukraine,FIFA World Cup qualification,Minsk › Belarus
+Wed Sep 9 2009,Bolivia,1-3,Ecuador,FIFA World Cup qualification,La Paz › Bolivia
+Wed Sep 9 2009,Bosnia and Herzegovina,1-1,Turkey,FIFA World Cup qualification,Zenica › Bosnia and Herzegovina
+Wed Sep 9 2009,Cameroon,2-1,Gabon,FIFA World Cup qualification,Yaoundé › Cameroon
+Wed Sep 9 2009,Czech Republic,7-0,San Marino,FIFA World Cup qualification,Uherské Hradiště › Czech Republic
+Wed Sep 9 2009,El Salvador,1-0,Costa Rica,FIFA World Cup qualification,San Salvador › El Salvador
+Wed Sep 9 2009,England,5-1,Croatia,FIFA World Cup qualification,London › England
+Wed Sep 9 2009,Faroe Islands,2-1,Lithuania,FIFA World Cup qualification,Toftir › Faroe Islands
+Wed Sep 9 2009,Germany,4-0,Azerbaijan,FIFA World Cup qualification,Hanover › Germany
+Wed Sep 9 2009,Hungary,0-1,Portugal,FIFA World Cup qualification,Budapest › Hungary
+Wed Sep 9 2009,Iceland,3-1,Georgia,Friendly,Reykjavík › Iceland
+Wed Sep 9 2009,Israel,7-0,Luxembourg,FIFA World Cup qualification,Ramat-Gan › Israel
+Wed Sep 9 2009,Italy,2-0,Bulgaria,FIFA World Cup qualification,Turin › Italy
+Wed Sep 9 2009,Japan,4-3,Ghana,Friendly,Utrecht › Netherlands
+Wed Sep 9 2009,Jordan,1-3,New Zealand,Friendly,Amman › Jordan
+Wed Sep 9 2009,Latvia,2-2,Switzerland,FIFA World Cup qualification,Riga › Latvia
+Wed Sep 9 2009,Liechtenstein,1-1,Finland,FIFA World Cup qualification,Vaduz › Liechtenstein
+Wed Sep 9 2009,Malta,0-1,Sweden,FIFA World Cup qualification,Attard › Malta
+Wed Sep 9 2009,Mexico,1-0,Honduras,FIFA World Cup qualification,Mexico City › Mexico
+Wed Sep 9 2009,Moldova,1-1,Greece,FIFA World Cup qualification,Chişinău › Moldova
+Wed Sep 9 2009,Montenegro,1-1,Cyprus,FIFA World Cup qualification,Podgorica › Montenegro
+Wed Sep 9 2009,Northern Ireland,0-2,Slovakia,FIFA World Cup qualification,Belfast › Northern Ireland
+Wed Sep 9 2009,Norway,2-1,North Macedonia,FIFA World Cup qualification,Oslo › Norway
+Wed Sep 9 2009,Qatar,1-1,Oman,Friendly,Doha › Qatar
+Wed Sep 9 2009,Romania,1-1,Austria,FIFA World Cup qualification,Bucharest › Romania
+Wed Sep 9 2009,Saudi Arabia,2-2,Bahrain,FIFA World Cup qualification,Riyadh › Saudi Arabia
+Wed Sep 9 2009,Scotland,0-1,Netherlands,FIFA World Cup qualification,Glasgow › Scotland
+Wed Sep 9 2009,Serbia,1-1,France,FIFA World Cup qualification,Belgrade › Serbia
+Wed Sep 9 2009,Slovenia,3-0,Poland,FIFA World Cup qualification,Maribor › Slovenia
+Wed Sep 9 2009,Spain,3-0,Estonia,FIFA World Cup qualification,Mérida › Spain
+Wed Sep 9 2009,Trinidad and Tobago,0-1,United States,FIFA World Cup qualification,Port of Spain › Trinidad and Tobago
+Wed Sep 9 2009,Wales,1-3,Russia,FIFA World Cup qualification,Cardiff › Wales
+Fri Sep 11 2009,Malaysia,5-0,Lesotho,Friendly,Kuala Lumpur › Malaysia
+Sat Sep 19 2009,South Africa,1-0,Madagascar,Friendly,Kimberley › South Africa
+Sun Sep 20 2009,Saint Kitts and Nevis,1-1,Saint Vincent and the Grenadines,Friendly,Basseterre › Saint Kitts and Nevis
+Wed Sep 30 2009,Argentina,2-0,Ghana,Friendly,Córdoba › Argentina
+Wed Sep 30 2009,China PR,4-1,Botswana,Friendly,Hohhot › China PR
+Wed Sep 30 2009,Mexico,1-2,Colombia,Friendly,Dallas › United States
+Fri Oct 2 2009,Egypt,4-0,Mauritius,Friendly,Cairo › Egypt
+Mon Oct 5 2009,Kuwait,1-1,Libya,Friendly,Cairo › Egypt
+Thu Oct 8 2009,Croatia,3-2,Qatar,Friendly,Rijeka › Croatia
+Thu Oct 8 2009,Japan,6-0,Hong Kong,AFC Asian Cup qualification,Shizuoka › Japan
+Sat Oct 10 2009,Argentina,2-1,Peru,FIFA World Cup qualification,Buenos Aires › Argentina
+Sat Oct 10 2009,Armenia,1-2,Spain,FIFA World Cup qualification,Yerevan › Armenia
+Sat Oct 10 2009,Australia,0-0,Netherlands,Friendly,Sydney › Australia
+Sat Oct 10 2009,Austria,2-1,Lithuania,FIFA World Cup qualification,Innsbruck › Austria
+Sat Oct 10 2009,Bahrain,0-0,New Zealand,FIFA World Cup qualification,Riffa › Bahrain
+Sat Oct 10 2009,Belarus,4-0,Kazakhstan,FIFA World Cup qualification,Brest › Belarus
+Sat Oct 10 2009,Belgium,2-0,Turkey,FIFA World Cup qualification,Brussels › Belgium
+Sat Oct 10 2009,Cameroon,3-0,Togo,FIFA World Cup qualification,Yaoundé › Cameroon
+Sat Oct 10 2009,Colombia,2-4,Chile,FIFA World Cup qualification,Medellín › Colombia
+Sat Oct 10 2009,Costa Rica,4-0,Trinidad and Tobago,FIFA World Cup qualification,San José › Costa Rica
+Sat Oct 10 2009,Cyprus,4-1,Bulgaria,FIFA World Cup qualification,Larnaca › Cyprus
+Sat Oct 10 2009,Czech Republic,2-0,Poland,FIFA World Cup qualification,Prague › Czech Republic
+Sat Oct 10 2009,Denmark,1-0,Sweden,FIFA World Cup qualification,Copenhagen › Denmark
+Sat Oct 10 2009,Ecuador,1-2,Uruguay,FIFA World Cup qualification,Quito › Ecuador
+Sat Oct 10 2009,Estonia,0-2,Bosnia and Herzegovina,FIFA World Cup qualification,Tallinn › Estonia
+Sat Oct 10 2009,Finland,2-1,Wales,FIFA World Cup qualification,Helsinki › Finland
+Sat Oct 10 2009,France,5-0,Faroe Islands,FIFA World Cup qualification,Guingamp › France
+Sat Oct 10 2009,Gabon,3-1,Morocco,FIFA World Cup qualification,Libreville › Gabon
+Sat Oct 10 2009,Greece,5-2,Latvia,FIFA World Cup qualification,Athens › Greece
+Sat Oct 10 2009,Honduras,2-3,United States,FIFA World Cup qualification,San Pedro Sula › Honduras
+Sat Oct 10 2009,Republic of Ireland,2-2,Italy,FIFA World Cup qualification,Dublin › Republic of Ireland
+Sat Oct 10 2009,Israel,3-1,Moldova,FIFA World Cup qualification,Ramat-Gan › Israel
+Sat Oct 10 2009,Japan,2-0,Scotland,Friendly,Yokohama › Japan
+Sat Oct 10 2009,Kuwait,2-1,Jordan,Friendly,Cairo › Egypt
+Sat Oct 10 2009,Liechtenstein,0-2,Azerbaijan,FIFA World Cup qualification,Vaduz › Liechtenstein
+Sat Oct 10 2009,Luxembourg,0-3,Switzerland,FIFA World Cup qualification,Luxembourg › Luxembourg
+Sat Oct 10 2009,Malawi,1-1,Ivory Coast,FIFA World Cup qualification,Blantyre › Malawi
+Sat Oct 10 2009,Malta,1-2,Angola,Friendly,Vila Real de Santo António › Portugal
+Sat Oct 10 2009,Mexico,4-1,El Salvador,FIFA World Cup qualification,Mexico City › Mexico
+Sat Oct 10 2009,Montenegro,2-1,Georgia,FIFA World Cup qualification,Podgorica › Montenegro
+Sat Oct 10 2009,Norway,1-0,South Africa,Friendly,Oslo › Norway
+Sat Oct 10 2009,Portugal,3-0,Hungary,FIFA World Cup qualification,Lisbon › Portugal
+Sat Oct 10 2009,Russia,0-1,Germany,FIFA World Cup qualification,Moscow › Russia
+Sat Oct 10 2009,Serbia,5-0,Romania,FIFA World Cup qualification,Belgrade › Serbia
+Sat Oct 10 2009,Slovakia,0-2,Slovenia,FIFA World Cup qualification,Bratislava › Slovakia
+Sat Oct 10 2009,Ukraine,1-0,England,FIFA World Cup qualification,Dnipropetrovs'k › Ukraine
+Sat Oct 10 2009,United Arab Emirates,1-1,Palestine,Friendly,Dubai › United Arab Emirates
+Sat Oct 10 2009,Venezuela,1-2,Paraguay,FIFA World Cup qualification,Puerto Ordaz › Venezuela
+Sat Oct 10 2009,Zambia,0-1,Egypt,FIFA World Cup qualification,Chililabombwe › Zambia
+Sun Oct 11 2009,Algeria,3-1,Rwanda,FIFA World Cup qualification,Blida › Algeria
+Sun Oct 11 2009,Benin,1-0,Ghana,FIFA World Cup qualification,Cotonou › Benin
+Sun Oct 11 2009,Guinea,1-2,Burkina Faso,FIFA World Cup qualification,Accra › Ghana
+Sun Oct 11 2009,North Macedonia,2-1,Qatar,Friendly,Skopje › North Macedonia
+Sun Oct 11 2009,Mali,1-0,Sudan,FIFA World Cup qualification,Bamako › Mali
+Sun Oct 11 2009,Nigeria,1-0,Mozambique,FIFA World Cup qualification,Abuja › Nigeria
+Tue Oct 13 2009,Congo,0-0,North Korea,Friendly,Le Mans › France
+Tue Oct 13 2009,Iceland,1-0,South Africa,Friendly,Reykjavík › Iceland
+Wed Oct 14 2009,Andorra,0-6,Ukraine,FIFA World Cup qualification,Sant Julià de Lòria › Andorra
+Wed Oct 14 2009,Angola,0-0,Cameroon,Friendly,Olhão › Portugal
+Wed Oct 14 2009,Australia,1-0,Oman,AFC Asian Cup qualification,Melbourne › Australia
+Wed Oct 14 2009,Azerbaijan,1-1,Russia,FIFA World Cup qualification,Baku › Azerbaijan
+Wed Oct 14 2009,Bosnia and Herzegovina,2-5,Spain,FIFA World Cup qualification,Zenica › Bosnia and Herzegovina
+Wed Oct 14 2009,Brazil,0-0,Venezuela,FIFA World Cup qualification,Campo Grande › Brazil
+Wed Oct 14 2009,Bulgaria,6-2,Georgia,FIFA World Cup qualification,Sofia › Bulgaria
+Wed Oct 14 2009,Chile,1-0,Ecuador,FIFA World Cup qualification,Santiago › Chile
+Wed Oct 14 2009,Czech Republic,0-0,Northern Ireland,FIFA World Cup qualification,Prague › Czech Republic
+Wed Oct 14 2009,Denmark,0-1,Hungary,FIFA World Cup qualification,Copenhagen › Denmark
+Wed Oct 14 2009,El Salvador,0-1,Honduras,FIFA World Cup qualification,San Salvador › El Salvador
+Wed Oct 14 2009,England,3-0,Belarus,FIFA World Cup qualification,London › England
+Wed Oct 14 2009,Estonia,2-0,Belgium,FIFA World Cup qualification,Tallinn › Estonia
+Wed Oct 14 2009,France,3-1,Austria,FIFA World Cup qualification,Saint-Denis › France
+Wed Oct 14 2009,Germany,1-1,Finland,FIFA World Cup qualification,Hamburg › Germany
+Wed Oct 14 2009,Greece,2-1,Luxembourg,FIFA World Cup qualification,Athens › Greece
+Wed Oct 14 2009,Republic of Ireland,0-0,Montenegro,FIFA World Cup qualification,Dublin › Republic of Ireland
+Wed Oct 14 2009,Italy,3-2,Cyprus,FIFA World Cup qualification,Parma › Italy
+Wed Oct 14 2009,Japan,5-0,Togo,Friendly,Miyagi › Japan
+Wed Oct 14 2009,Kazakhstan,1-2,Croatia,FIFA World Cup qualification,Astana › Kazakhstan
+Wed Oct 14 2009,South Korea,2-0,Senegal,Friendly,Seoul › South Korea
+Wed Oct 14 2009,Latvia,3-2,Moldova,FIFA World Cup qualification,Riga › Latvia
+Wed Oct 14 2009,Liechtenstein,0-2,Wales,FIFA World Cup qualification,Vaduz › Liechtenstein
+Wed Oct 14 2009,Lithuania,2-1,Serbia,FIFA World Cup qualification,Marijampolė › Lithuania
+Wed Oct 14 2009,Paraguay,0-2,Colombia,FIFA World Cup qualification,Asunción › Paraguay
+Wed Oct 14 2009,Peru,1-0,Bolivia,FIFA World Cup qualification,Lima › Peru
+Wed Oct 14 2009,Poland,0-1,Slovakia,FIFA World Cup qualification,Chorzów › Poland
+Wed Oct 14 2009,Portugal,4-0,Malta,FIFA World Cup qualification,Guimarães › Portugal
+Wed Oct 14 2009,Qatar,2-2,DR Congo,Friendly,Saint-Gratien › France
+Wed Oct 14 2009,Romania,3-1,Faroe Islands,FIFA World Cup qualification,Piatra Neamţ › Romania
+Wed Oct 14 2009,San Marino,0-3,Slovenia,FIFA World Cup qualification,Serravalle › San Marino
+Wed Oct 14 2009,Sweden,4-1,Albania,FIFA World Cup qualification,Solna › Sweden
+Wed Oct 14 2009,Switzerland,0-0,Israel,FIFA World Cup qualification,Basel › Switzerland
+Wed Oct 14 2009,Trinidad and Tobago,2-2,Mexico,FIFA World Cup qualification,Port of Spain › Trinidad and Tobago
+Wed Oct 14 2009,Tunisia,0-1,Saudi Arabia,Friendly,Radès › Tunisia
+Wed Oct 14 2009,Turkey,2-0,Armenia,FIFA World Cup qualification,Bursa › Turkey
+Wed Oct 14 2009,United Arab Emirates,3-1,Jordan,Friendly,Dubai › United Arab Emirates
+Wed Oct 14 2009,Uruguay,0-1,Argentina,FIFA World Cup qualification,Montevideo › Uruguay
+Wed Oct 14 2009,United States,2-2,Costa Rica,FIFA World Cup qualification,Washington › United States
+Sat Oct 17 2009,Zimbabwe,3-0,Mauritius,COSAFA Cup,Harare › Zimbabwe
+Sun Oct 18 2009,Comoros,0-0,Botswana,COSAFA Cup,Bulawayo › Zimbabwe
+Sun Oct 18 2009,Eswatini,2-1,Seychelles,COSAFA Cup,Bulawayo › Zimbabwe
+Mon Oct 19 2009,Zimbabwe,2-2,Lesotho,COSAFA Cup,Harare › Zimbabwe
+Tue Oct 20 2009,Botswana,1-0,Eswatini,COSAFA Cup,Bulawayo › Zimbabwe
+Tue Oct 20 2009,Seychelles,1-2,Comoros,COSAFA Cup,Bulawayo › Zimbabwe
+Tue Oct 20 2009,Vietnam,1-0,Turkmenistan,Friendly,Ho Chi Minh City › Vietnam
+Wed Oct 21 2009,Mauritius,0-1,Lesotho,COSAFA Cup,Harare › Zimbabwe
+Thu Oct 22 2009,Seychelles,0-2,Botswana,COSAFA Cup,Bulawayo › Zimbabwe
+Thu Oct 22 2009,Singapore,4-2,Turkmenistan,Friendly,Ho Chi Minh City › Vietnam
+Thu Oct 22 2009,Eswatini,3-0,Comoros,COSAFA Cup,Bulawayo › Zimbabwe
+Sat Oct 24 2009,Vietnam,2-2,Singapore,Friendly,Ho Chi Minh City › Vietnam
+Sun Oct 25 2009,Malawi,0-1,Mozambique,COSAFA Cup,Harare › Zimbabwe
+Sun Oct 25 2009,Namibia,0-1,Zambia,COSAFA Cup,Harare › Zimbabwe
+Mon Oct 26 2009,Kuwait,1-0,Syria,Friendly,Al-Jahra › Kuwait
+Mon Oct 26 2009,Zimbabwe,1-0,Botswana,COSAFA Cup,Bulawayo › Zimbabwe
+Wed Oct 28 2009,Curaçao,1-4,French Guiana,Friendly,Paramaribo › Suriname
+Thu Oct 29 2009,Mozambique,0-2,Zambia,COSAFA Cup,Bulawayo › Zimbabwe
+Fri Oct 30 2009,Guyana,1-0,Curaçao,Friendly,Paramaribo › Suriname
+Fri Oct 30 2009,Suriname,4-0,French Guiana,Friendly,Paramaribo › Suriname
+Sun Nov 1 2009,French Guiana,0-1,Guyana,Friendly,Paramaribo › Suriname
+Sun Nov 1 2009,Suriname,1-1,Curaçao,Friendly,Paramaribo › Suriname
+Sun Nov 1 2009,Zimbabwe,3-1,Zambia,COSAFA Cup,Harare › Zimbabwe
+Tue Nov 3 2009,Kenya,0-5,Kuwait,Friendly,Cairo › Egypt
+Wed Nov 4 2009,Chile,2-1,Paraguay,Friendly,Talcahuano › Chile
+Wed Nov 4 2009,Singapore,3-1,Indonesia,Friendly,Singapore › Singapore
+Thu Nov 5 2009,Egypt,5-1,Tanzania,Friendly,Aswan › Egypt
+Fri Nov 6 2009,Bahrain,5-1,Togo,Friendly,Riffa › Bahrain
+Sun Nov 8 2009,Kuwait,2-2,China PR,Friendly,Kuwait City › Kuwait
+Sun Nov 8 2009,Thailand,1-1,Syria,Friendly,Nonthaburi › Thailand
+Sun Nov 8 2009,Yemen,1-1,Tanzania,Friendly,Sana'a › Yemen
+Tue Nov 10 2009,Iran,1-0,Iceland,Friendly,Teheran › Iran
+Wed Nov 11 2009,Yemen,2-1,Tanzania,Friendly,Sana'a › Yemen
+Fri Nov 13 2009,Paraguay,0-2,Qatar,Friendly,Rouen › France
+Sat Nov 14 2009,Angola,1-1,Congo,Friendly,Luanda › Angola
+Sat Nov 14 2009,Belgium,3-0,Hungary,Friendly,Ghent › Belgium
+Sat Nov 14 2009,Brazil,1-0,England,Friendly,Doha › Qatar
+Sat Nov 14 2009,Burkina Faso,1-0,Malawi,FIFA World Cup qualification,Ouagadougou › Burkina Faso
+Sat Nov 14 2009,Costa Rica,0-1,Uruguay,FIFA World Cup qualification,San José › Costa Rica
+Sat Nov 14 2009,Croatia,5-0,Liechtenstein,Friendly,Vinkovci › Croatia
+Sat Nov 14 2009,Denmark,0-0,South Korea,Friendly,Esbjerg › Denmark
+Sat Nov 14 2009,Egypt,2-0,Algeria,FIFA World Cup qualification,Cairo › Egypt
+Sat Nov 14 2009,Estonia,0-0,Albania,Friendly,Tallinn › Estonia
+Sat Nov 14 2009,Greece,0-0,Ukraine,FIFA World Cup qualification,Athens › Greece
+Sat Nov 14 2009,Honduras,2-1,Latvia,Friendly,Tegucigalpa › Honduras
+Sat Nov 14 2009,Iran,1-0,Jordan,AFC Asian Cup qualification,Teheran › Iran
+Sat Nov 14 2009,Republic of Ireland,0-1,France,FIFA World Cup qualification,Dublin › Republic of Ireland
+Sat Nov 14 2009,Italy,0-0,Netherlands,Friendly,Pescara › Italy
+Sat Nov 14 2009,Ivory Coast,3-0,Guinea,FIFA World Cup qualification,Abidjan › Ivory Coast
+Sat Nov 14 2009,Kenya,2-3,Nigeria,FIFA World Cup qualification,Nairobi › Kenya
+Sat Nov 14 2009,Kuwait,2-1,Indonesia,AFC Asian Cup qualification,Kuwait City › Kuwait
+Sat Nov 14 2009,Lebanon,0-2,China PR,AFC Asian Cup qualification,Beirut › Lebanon
+Sat Nov 14 2009,Luxembourg,1-1,Iceland,Friendly,Luxembourg › Luxembourg
+Sat Nov 14 2009,North Macedonia,3-0,Canada,Friendly,Strumica › North Macedonia
+Sat Nov 14 2009,Morocco,0-2,Cameroon,FIFA World Cup qualification,Fès › Morocco
+Sat Nov 14 2009,Mozambique,1-0,Tunisia,FIFA World Cup qualification,Maputo › Mozambique
+Sat Nov 14 2009,New Zealand,1-0,Bahrain,FIFA World Cup qualification,Wellington › New Zealand
+Sat Nov 14 2009,Northern Ireland,0-1,Serbia,Friendly,Belfast › Northern Ireland
+Sat Nov 14 2009,Oman,1-2,Australia,AFC Asian Cup qualification,Muscat › Oman
+Sat Nov 14 2009,Poland,0-1,Romania,Friendly,Warsaw › Poland
+Sat Nov 14 2009,Portugal,1-0,Bosnia and Herzegovina,FIFA World Cup qualification,Lisbon › Portugal
+Sat Nov 14 2009,Russia,2-1,Slovenia,FIFA World Cup qualification,Moscow › Russia
+Sat Nov 14 2009,Rwanda,0-0,Zambia,FIFA World Cup qualification,Kigali › Rwanda
+Sat Nov 14 2009,Saudi Arabia,1-1,Belarus,Friendly,Dammam › Saudi Arabia
+Sat Nov 14 2009,Singapore,1-3,Thailand,AFC Asian Cup qualification,Singapore › Singapore
+Sat Nov 14 2009,Slovakia,1-0,United States,Friendly,Bratislava › Slovakia
+Sat Nov 14 2009,South Africa,0-0,Japan,Friendly,Port Elizabeth › South Africa
+Sat Nov 14 2009,Spain,2-1,Argentina,Friendly,Madrid › Spain
+Sat Nov 14 2009,Sudan,1-2,Benin,FIFA World Cup qualification,Omdurman › Sudan
+Sat Nov 14 2009,Switzerland,0-1,Norway,Friendly,Geneva › Switzerland
+Sat Nov 14 2009,Togo,1-0,Gabon,FIFA World Cup qualification,Lomé › Togo
+Sat Nov 14 2009,Uzbekistan,3-1,Malaysia,AFC Asian Cup qualification,Tashkent › Uzbekistan
+Sat Nov 14 2009,Vietnam,0-1,Syria,AFC Asian Cup qualification,Hanoi › Vietnam
+Sat Nov 14 2009,Wales,3-0,Scotland,Friendly,Cardiff › Wales
+Sun Nov 15 2009,Ghana,2-2,Mali,FIFA World Cup qualification,Kumasi › Ghana
+Sun Nov 15 2009,Iraq,1-0,Azerbaijan,Friendly,al-Ain › United Arab Emirates
+Sun Nov 15 2009,United Arab Emirates,0-0,Czech Republic,Friendly,al-Ain › United Arab Emirates
+Tue Nov 17 2009,Belgium,2-0,Qatar,Friendly,Sedan › France
+Tue Nov 17 2009,Oman,0-2,Brazil,Friendly,Muscat › Oman
+Tue Nov 17 2009,Slovakia,1-2,Chile,Friendly,Žilina › Slovakia
+Tue Nov 17 2009,South Africa,0-0,Jamaica,Friendly,Bloemfontein › South Africa
+Wed Nov 18 2009,Algeria,1-0,Egypt,FIFA World Cup qualification,Omdurman › Sudan
+Wed Nov 18 2009,Angola,0-0,Ghana,Friendly,Luanda › Angola
+Wed Nov 18 2009,Austria,1-5,Spain,Friendly,Vienna › Austria
+Wed Nov 18 2009,Azerbaijan,2-0,Czech Republic,Friendly,al-Ain › United Arab Emirates
+Wed Nov 18 2009,Bahrain,4-0,Yemen,AFC Asian Cup qualification,Riffa › Bahrain
+Wed Nov 18 2009,Bosnia and Herzegovina,0-1,Portugal,FIFA World Cup qualification,Zenica › Bosnia and Herzegovina
+Wed Nov 18 2009,Denmark,3-1,United States,Friendly,Århus › Denmark
+Wed Nov 18 2009,France,1-1,Republic of Ireland,FIFA World Cup qualification,Saint-Denis › France
+Wed Nov 18 2009,Germany,2-2,Ivory Coast,Friendly,Gelsenkirchen › Germany
+Wed Nov 18 2009,Honduras,1-2,Peru,Friendly,Miami Gardens › United States
+Wed Nov 18 2009,Hong Kong,0-4,Japan,AFC Asian Cup qualification,So Kon Po › Hong Kong
+Wed Nov 18 2009,Indonesia,1-1,Kuwait,AFC Asian Cup qualification,Jakarta › Indonesia
+Wed Nov 18 2009,Iran,1-1,North Macedonia,Friendly,Teheran › Iran
+Wed Nov 18 2009,Italy,1-0,Sweden,Friendly,Cesena › Italy
+Wed Nov 18 2009,South Korea,0-1,Serbia,Friendly,London › England
+Wed Nov 18 2009,Malaysia,1-3,Uzbekistan,AFC Asian Cup qualification,Kuala Lumpur › Malaysia
+Wed Nov 18 2009,Malta,1-4,Bulgaria,Friendly,Paola › Malta
+Wed Nov 18 2009,Montenegro,1-0,Belarus,Friendly,Podgorica › Montenegro
+Wed Nov 18 2009,Netherlands,0-0,Paraguay,Friendly,Heerenveen › Netherlands
+Wed Nov 18 2009,Poland,1-0,Canada,Friendly,Bydgoszcz › Poland
+Wed Nov 18 2009,Slovenia,1-0,Russia,FIFA World Cup qualification,Maribor › Slovenia
+Wed Nov 18 2009,Syria,0-0,Vietnam,AFC Asian Cup qualification,Aleppo › Syria
+Wed Nov 18 2009,Thailand,0-1,Singapore,AFC Asian Cup qualification,Bangkok › Thailand
+Wed Nov 18 2009,Ukraine,0-1,Greece,FIFA World Cup qualification,Donets'k › Ukraine
+Wed Nov 18 2009,United Arab Emirates,0-1,Iraq,Friendly,al-Ain › United Arab Emirates
+Wed Nov 18 2009,Uruguay,1-1,Costa Rica,FIFA World Cup qualification,Montevideo › Uruguay
+Sat Nov 21 2009,Zambia,4-1,North Korea,Friendly,Lusaka › Zambia
+Sun Nov 22 2009,China PR,1-0,Lebanon,AFC Asian Cup qualification,Hangzhou › China PR
+Sun Nov 22 2009,Jordan,1-0,Iran,AFC Asian Cup qualification,Amman › Jordan
+Sat Nov 28 2009,Kenya,0-2,Zambia,CECAFA Cup,Nairobi › Kenya
+Sun Nov 29 2009,Burundi,0-4,Zanzibar,CECAFA Cup,Mumias › Kenya
+Sun Nov 29 2009,Rwanda,1-0,Somalia,CECAFA Cup,Nairobi › Kenya
+Sun Nov 29 2009,Uganda,2-0,Tanzania,CECAFA Cup,Mumias › Kenya
+Mon Nov 30 2009,Ethiopia,5-0,Djibouti,CECAFA Cup,Nairobi › Kenya
+Tue Dec 1 2009,Zanzibar,0-1,Tanzania,CECAFA Cup,Mumias › Kenya
+Wed Dec 2 2009,Burundi,0-2,Uganda,CECAFA Cup,Mumias › Kenya
+Wed Dec 2 2009,Ethiopia,0-1,Zambia,CECAFA Cup,Nairobi › Kenya
+Wed Dec 2 2009,Kenya,2-0,Djibouti,CECAFA Cup,Nairobi › Kenya
+Thu Dec 3 2009,Rwanda,2-1,Eritrea,CECAFA Cup,Nairobi › Kenya
+Fri Dec 4 2009,Bangladesh,4-1,Bhutan,SAFF Cup,Dhaka › Bangladesh
+Fri Dec 4 2009,Djibouti,0-6,Zambia,CECAFA Cup,Nairobi › Kenya
+Fri Dec 4 2009,Sri Lanka,1-0,Pakistan,SAFF Cup,Dhaka › Bangladesh
+Fri Dec 4 2009,Tanzania,1-0,Burundi,CECAFA Cup,Mumias › Kenya
+Sat Dec 5 2009,Dominica,4-0,British Virgin Islands,Friendly,Roseau › Dominica
+Sat Dec 5 2009,Kenya,2-0,Ethiopia,CECAFA Cup,Nairobi › Kenya
+Sat Dec 5 2009,Maldives,1-1,Nepal,SAFF Cup,Dhaka › Bangladesh
+Sat Dec 5 2009,Somalia,1-3,Eritrea,CECAFA Cup,Nairobi › Kenya
+Sat Dec 5 2009,Uganda,0-0,Zanzibar,CECAFA Cup,Mumias › Kenya
+Sun Dec 6 2009,Bangladesh,0-0,Pakistan,SAFF Cup,Dhaka › Bangladesh
+Sun Dec 6 2009,Sri Lanka,6-0,Bhutan,SAFF Cup,Dhaka › Bangladesh
+Mon Dec 7 2009,Kenya,0-1,Uganda,CECAFA Cup,Nairobi › Kenya
+Mon Dec 7 2009,Maldives,3-1,Afghanistan,SAFF Cup,Dhaka › Bangladesh
+Mon Dec 7 2009,Zambia,0-0,Zanzibar,CECAFA Cup,Nairobi › Kenya
+Tue Dec 8 2009,Bangladesh,2-1,Sri Lanka,SAFF Cup,Dhaka › Bangladesh
+Tue Dec 8 2009,Pakistan,7-0,Bhutan,SAFF Cup,Dhaka › Bangladesh
+Tue Dec 8 2009,Tanzania,4-0,Eritrea,CECAFA Cup,Nairobi › Kenya
+Wed Dec 9 2009,Afghanistan,0-3,Nepal,SAFF Cup,Dhaka › Bangladesh
+Wed Dec 9 2009,Zanzibar,1-2,Uganda,CECAFA Cup,Nairobi › Kenya
+Thu Dec 10 2009,Tanzania,1-2,Rwanda,CECAFA Cup,Nairobi › Kenya
+Fri Dec 11 2009,Maldives,5-1,Sri Lanka,SAFF Cup,Dhaka › Bangladesh
+Sun Dec 13 2009,Uganda,2-0,Rwanda,CECAFA Cup,Nairobi › Kenya
+Sun Dec 13 2009,Zanzibar,1-0,Tanzania,CECAFA Cup,Nairobi › Kenya
+Wed Dec 16 2009,Kuwait,0-0,United Arab Emirates,Friendly,Kuwait City › Kuwait
+Sat Dec 19 2009,Mozambique,0-1,Malawi,Friendly,Tete › Mozambique
+Tue Dec 22 2009,Catalonia,4-2,Argentina,Friendly,Barcelona › Spain
+Sun Dec 27 2009,North Korea,1-0,Mali,Friendly,Doha › Qatar
+Mon Dec 28 2009,Qatar,3-2,Iran,Friendly,Doha › Qatar
+Tue Dec 29 2009,Egypt,1-1,Malawi,Friendly,Cairo › Egypt
+Tue Dec 29 2009,Thailand,3-0,Zimbabwe,Friendly,Bangkok › Thailand
+Wed Dec 30 2009,Angola,0-1,Estonia,Friendly,Vila Real de Santo António › Portugal
+Wed Dec 30 2009,China PR,2-2,Jordan,Friendly,Jiangyin › China PR
+Wed Dec 30 2009,Malaysia,4-1,Syria,Friendly,Kuala Lumpur › Malaysia
+Wed Dec 30 2009,Mali,2-1,Iran,Friendly,Doha › Qatar
+Wed Dec 30 2009,Qatar,0-1,North Korea,Friendly,Doha › Qatar
+Wed Dec 30 2009,Yemen,2-1,Tajikistan,Friendly,Sana'a › Yemen
+Thu Dec 31 2009,Singapore,1-4,Oman,Friendly,Singapore › Singapore

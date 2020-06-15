@@ -1,8 +1,6 @@
 # Cache - Internationals - Year by Year
 
-A cache for datasets from ...
-
-
+A cache for datasets from [Mart Jürisoo's International football results from 1872 to 2020](https://github.com/martj42/international_results).
 
 
 ## Why Cache the Datasets?
